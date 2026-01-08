@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-08T21:32:48.064430Z",
+  "updated_at": "2026-01-08T21:45:30.439061Z",
   "email_count": 50,
   "calendar_count": 2,
   "teams_count": 80,
@@ -22,6 +22,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Microsoft 365 security: You have messages in quarantine",
+      "from": "quarantine@messaging.microsoft.com",
+      "receivedDateTime": "2026-01-08T21:35:49Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPW6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "S&P 500 jumped nearly 17% in 2025\ud83d\udd25",
       "from": "Empower | The Currency",
@@ -364,13 +371,6 @@
       "receivedDateTime": "2026-01-07T13:56:49Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Kick off Your Membership With 5,000 Points, Nathan",
-      "from": "Marriott Bonvoy",
-      "receivedDateTime": "2026-01-07T13:17:06Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
