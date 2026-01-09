@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-09T21:20:55.517728Z",
+  "updated_at": "2026-01-09T21:30:55.479249Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 85,
@@ -404,6 +404,26 @@
       "name": "BLN Forecast",
       "messages": [
         {
+          "from": "Kevin Short",
+          "content": "<p><at id=\"0\">Isaac</at>&nbsp;- can you just write them and tell them at this point, we are still trying to understand what they are trying to accomplish with these reports? Ask them for a call or something. There is no way we can get the right answer to something when no one on our team knows the goal.&nbsp;</p>",
+          "createdDateTime": "2026-01-09T21:30:50.391Z"
+        },
+        {
+          "from": "Isaac Carpenter",
+          "content": "<p>I agree with Kevin, I don't fully understand WHAT these individual reports are supposed to do, and I don't think BLN does either, they are wanting like a combo of the two.</p>",
+          "createdDateTime": "2026-01-09T21:29:11.561Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p>Does anyone know what the purpose of these exports is? I'm lost at this point as well. It would be faster to get the purpose and specs of each export and rebuild</p>",
+          "createdDateTime": "2026-01-09T21:28:11.236Z"
+        },
+        {
+          "from": "Eric Whitlow",
+          "content": "<attachment id=\"1767987932909\"></attachment>\n<p>PFAC is just an export of this view so removing the NRS records from that view removes it from the export. And you want to have multiple reports that include different sites, but somehow come up with the same output? I don't understand what you're trying to accomplish.</p>",
+          "createdDateTime": "2026-01-09T21:25:45.478Z"
+        },
+        {
           "from": "Isaac Carpenter",
           "content": "<p>So if we could add those back to that export.&nbsp;</p>\n<p>&nbsp;</p>\n<p>I can see the values are different than the PFAC from before, but they don't match that of the S&amp;P still, but I'm not gonna say it's off until I can do a true side by side comparison of the two.</p>",
           "createdDateTime": "2026-01-09T21:19:37.522Z"
@@ -482,26 +502,6 @@
           "from": "Kevin Short",
           "content": "<p>why are the ones that are share 3-9% lower?&nbsp;</p>",
           "createdDateTime": "2026-01-09T19:38:42.649Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "<p>So it seems like there are some items in the PFAC Export that are not in the S&amp;P export at all</p>",
-          "createdDateTime": "2026-01-09T19:37:09.509Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "<p>Okay was using Claude to help me drill down as well, and this is what we got:</p>\n<p>&nbsp;</p>\n<p>Summary</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; After comparing the S&amp;P Export and PFAC Export for Mums, I've identified the root causes of the discrepancies between the two reports.</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; ---</p>\n<p>&nbsp; Key Findings</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; 1. Both exports now use the same distribution logic</p>\n<p>&nbsp; - [Plan].[DistributeRegionForecast] stored procedure - updated by Eric on 2026-01-09</p>\n<p>&nbsp; - [Plan].[vwWeeklySiteDistribution] view - also updated 2026-01-09</p>\n<p>&nbsp; - Both now exclude NRS (Not Regularly Serviced) stores and normalize distribution percentages</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; 2. The ~45K unit difference is NOT due to rounding</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; The math breaks down as follows:</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; | Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Units &nbsp; &nbsp; |</p>\n<p>&nbsp; |-----------------------------|-----------|</p>\n<p>&nbsp; | S&amp;P Export Total&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 1,442,676 |</p>\n<p>&nbsp; | PFAC Export (excluding NRS) | 1,487,467 |</p>\n<p>&nbsp; | Net Difference&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | +44,791 &nbsp; |</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; This difference comes from two offsetting factors:</p>\n<p>&nbsp; - +128,970 units: 7 items appear in PFAC but NOT in S&amp;P</p>\n<p>&nbsp; - -84,179 units: 28 shared items show 3-9% fewer units in PFAC than S&amp;P</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; 3. Root Cause: 7 Items Missing from Product.ProductionItems</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; The S&amp;P Export ([Plan].[ExportSalesAndProductionItems]) joins to Product.ProductionItems. Items without a mapping in that table are excluded from the export.</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; These 7 items exist in Product.Items but have NO entry in Product.ProductionItems:</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; | ItemNumber | Description&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | PFAC Units | ItemID |</p>\n<p>&nbsp; |------------|------------------------------|------------|--------|</p>\n<p>&nbsp; | 1003977&nbsp; &nbsp; | MUM WINCHESTER POT YELLOW #8 | 29,934 &nbsp; &nbsp; | 153409 |</p>\n<p>&nbsp; | 1003980&nbsp; &nbsp; | MUM WINCHESTER POT ORANGE #8 | 23,420 &nbsp; &nbsp; | 153177 |</p>\n<p>&nbsp; | 1004000&nbsp; &nbsp; | MUM TRICOLOR 3 GAL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 23,131 &nbsp; &nbsp; | 153183 |</p>\n<p>&nbsp; | 1003978&nbsp; &nbsp; | MUM WINCHESTER POT PURPLE #8 | 19,553 &nbsp; &nbsp; | 153410 |</p>\n<p>&nbsp; | 1003979&nbsp; &nbsp; | MUM WINCHESTER POT RED #8&nbsp; &nbsp; | 16,820 &nbsp; &nbsp; | 153299 |</p>\n<p>&nbsp; | 1003976&nbsp; &nbsp; | MUM WINCHESTER POT WHITE #8&nbsp; | 8,462&nbsp; &nbsp; &nbsp; | 153408 |</p>\n<p>&nbsp; | 1000638&nbsp; &nbsp; | FLAIR MUM PLANTER #13 BN &nbsp; &nbsp; | 7,650&nbsp; &nbsp; &nbsp; | 150065 |</p>\n<p>&nbsp; | TOTAL&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 128,970&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; |</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; 4. PFAC Export Still Shows NRS Rows</p>\n<p><br>\n&nbsp;</p>\n<p>&nbsp; The PFAC file I analyzed still contained 3,990 NRS rows (92,708 units). If this export comes from the View directly rather than the stored procedure, it may need verification that the correct source is being used.</p>",
-          "createdDateTime": "2026-01-09T19:36:52.135Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "<p>Yep trying to now</p>",
-          "createdDateTime": "2026-01-09T19:22:29.343Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p>can you drill down and see what's causing the differences?&nbsp;</p>",
-          "createdDateTime": "2026-01-09T19:22:12.204Z"
         }
       ],
       "type": "group"
@@ -509,6 +509,11 @@
     "group_chat": {
       "name": "Group Chat",
       "messages": [
+        {
+          "from": "Gustavo Cota",
+          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:ca1f9d9138e44d91b9f20e41c0b929a1@thread.v2/messages/1767993738391/hostedContents/aWQ9eF8wLWV1cy1kMTEtZDQ0ODA2MTljMjZiN2EzMWFlZjNkZDQ2ZjA4OGJiYTYsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDExLWQ0NDgwNjE5YzI2YjdhMzFhZWYzZGQ0NmYwODhiYmE2L3ZpZXdzL2ltZ28=/$value\" width=\"958.029197080292\" height=\"250\" alt=\"image\" itemid=\"0-eus-d11-d4480619c26b7a31aef3dd46f088bba6\"></p>\n<p>&nbsp;</p>\n<p>I updated the frontend. So it's visually better</p>",
+          "createdDateTime": "2026-01-09T21:22:18.391Z"
+        },
         {
           "from": "Gustavo Cota",
           "content": "<attachment id=\"1767992983816\"></attachment>\n<p>&nbsp;</p>\n<p>It was using the wrong journal. Then I had an issue because it was not importing the quantity, so I had to fix it as well</p>",
@@ -603,11 +608,6 @@
           "from": "Gustavo Cota",
           "content": "<p>We made some changes in the code, but we are still not importing grow organic items. We are verifying that.</p>",
           "createdDateTime": "2026-01-09T18:09:22.277Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>any update?&nbsp;</p>",
-          "createdDateTime": "2026-01-09T17:55:33.792Z"
         }
       ],
       "type": "group"
