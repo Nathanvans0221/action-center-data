@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-09T19:50:55.238907Z",
+  "updated_at": "2026-01-09T20:01:38.121536Z",
   "email_count": 50,
   "calendar_count": 5,
-  "teams_count": 82,
+  "teams_count": 83,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [
@@ -404,6 +404,21 @@
       "name": "BLN Forecast",
       "messages": [
         {
+          "from": "Isaac Carpenter",
+          "content": "Yeah I would like that more, because without Claude it would\u2019ve taken me forever to figure that out.",
+          "createdDateTime": "2026-01-09T20:01:13.608Z"
+        },
+        {
+          "from": "Stephen van Wingerden",
+          "content": "<p>Yeah. Or, we could change the join so that the report has an empty value when there isn't a ProductionItem link? That way they know what they are...</p>",
+          "createdDateTime": "2026-01-09T19:54:53.947Z"
+        },
+        {
+          "from": "Isaac Carpenter",
+          "content": "<p>Seems like for the 7 items that are missing, they don't have any Production Item link, and all other items do. I THINK to fix that one I need to get BLN to send me the Production Item Links (4 mil numbers) for those items.</p>",
+          "createdDateTime": "2026-01-09T19:52:15.271Z"
+        },
+        {
           "from": "Kevin Short",
           "content": "<p><at id=\"0\">Eric</at>&nbsp;what do you think of this? <at id=\"1\">Stephen</at>? I don't have context on the purpose of these reports so I'm lost at this point</p>",
           "createdDateTime": "2026-01-09T19:49:41.774Z"
@@ -487,21 +502,6 @@
           "from": "Isaac Carpenter",
           "content": "Okay great thank you, I\u2019ll test here shortly!",
           "createdDateTime": "2026-01-09T18:13:14.34Z"
-        },
-        {
-          "from": "Eric Whitlow",
-          "content": "<p>done</p>",
-          "createdDateTime": "2026-01-09T18:07:58.697Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "I\u2019m good with that unless anyone else has push back, since they aren\u2019t going to use it there anyway until it\u2019s fixed",
-          "createdDateTime": "2026-01-09T18:03:00.723Z"
-        },
-        {
-          "from": "Eric Whitlow",
-          "content": "<p>it's SQL only so applying it to BLN db will update it for them as well. is that ok?</p>",
-          "createdDateTime": "2026-01-09T18:02:12.706Z"
         }
       ],
       "type": "group"
@@ -509,6 +509,11 @@
     "group_chat": {
       "name": "Group Chat",
       "messages": [
+        {
+          "from": "Gustavo Cota",
+          "content": "<p>I'm running the importer. It will take a while</p>",
+          "createdDateTime": "2026-01-09T19:55:48.783Z"
+        },
         {
           "from": "Gustavo Cota",
           "content": "<p>I believe I found why we didn't receive the BP Lot No. I'm changing it.</p>",
