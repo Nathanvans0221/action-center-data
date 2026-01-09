@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-09T23:20:57.495308Z",
+  "updated_at": "2026-01-09T23:30:57.042325Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 85,
@@ -400,6 +400,11 @@
     }
   ],
   "teams": {
+    "gp_transition_q&a_": {
+      "name": "GP transition Q&A ",
+      "messages": [],
+      "type": "meeting"
+    },
     "bln_forecast": {
       "name": "BLN Forecast",
       "messages": [
@@ -676,11 +681,6 @@
           "createdDateTime": "2026-01-09T14:29:35.628Z"
         }
       ],
-      "type": "meeting"
-    },
-    "gp_transition_q&a_": {
-      "name": "GP transition Q&A ",
-      "messages": [],
       "type": "meeting"
     },
     "produce_testing": {
