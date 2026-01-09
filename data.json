@@ -1136,5 +1136,86 @@
       }
     ]
   },
-  "yesterday": {}
+  "yesterday": {},
+  "standup": {
+    "generated_at": "2026-01-09T19:50:14.167487Z",
+    "for_date": "2026-01-10",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Attended Product Daily Huddle and Director Huddle to align on team priorities",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Participated in Weekly Wireframe Reviews session to evaluate design progress",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Discussed organics integration in finish processes during dedicated meeting",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Reviewed produce testing protocols and results with the team",
+        "completed": true
+      },
+      {
+        "id": "y4",
+        "text": "Engaged in active Teams discussions across BLN Forecast and Group Chat channels",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Review and respond to meeting recap from Director Huddle",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Follow up on wireframe feedback from yesterday's review session",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Address ongoing discussions in BLN Forecast Teams channel",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Clear email backlog including unread items from past 3 days",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Plan next week's priorities with no scheduled meetings tomorrow",
+        "completed": false
+      },
+      {
+        "id": "t5",
+        "text": "Continue produce testing analysis and organics finish integration work",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Action items from organics in finish meeting need documentation",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Wireframe review decisions require communication to design team",
+        "completed": false
+      },
+      {
+        "id": "f2",
+        "text": "BLN Forecast discussion points need resolution with 20+ messages pending",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-01-09T19:50:14.167487Z"
 }
