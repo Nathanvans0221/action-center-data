@@ -1,24 +1,40 @@
 {
-  "updated_at": "2026-01-08T23:45:32.110442Z",
+  "updated_at": "2026-01-09T00:13:32.809632Z",
   "email_count": 50,
-  "calendar_count": 2,
+  "calendar_count": 4,
   "teams_count": 80,
   "calendar": [
     {
-      "subject": "New E-ticket Flow",
-      "start": "2026-01-08T12:30:00.0000000",
-      "end": "2026-01-08T13:00:00.0000000",
+      "subject": "Organics in Finish",
+      "start": "2026-01-09T12:00:00.0000000",
+      "end": "2026-01-09T12:30:00.0000000",
       "location": "Microsoft Teams Meeting",
       "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQbqZCKAAA%3D&exvsurl=1&path=/calendar/item"
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQbqZCLAAA%3D&exvsurl=1&path=/calendar/item"
     },
     {
       "subject": "Product Daily Huddle",
-      "start": "2026-01-08T09:00:00.0000000",
-      "end": "2026-01-08T09:15:00.0000000",
+      "start": "2026-01-09T09:00:00.0000000",
+      "end": "2026-01-09T09:15:00.0000000",
       "location": "Batman",
       "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3k5I3dxAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3k8SCEYAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Director Huddle",
+      "start": "2026-01-09T09:15:00.0000000",
+      "end": "2026-01-09T09:30:00.0000000",
+      "location": "Microsoft Teams Meeting",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3k8SCEYAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXHwAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Weekly Wireframe Reviews ",
+      "start": "2026-01-09T09:30:00.0000000",
+      "end": "2026-01-09T10:30:00.0000000",
+      "location": "Microsoft Teams Meeting; Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3k8SCEYAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAEEcl8lgAAEA%3D%3D&exvsurl=1&path=/calendar/item"
     }
   ],
   "emails": [
