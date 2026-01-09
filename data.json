@@ -1,8 +1,10 @@
 {
-  "updated_at": "2026-01-09T02:45:30.059193Z",
+  "updated_at": "2026-01-09T16:35:01.914575Z",
   "email_count": 50,
   "calendar_count": 4,
   "teams_count": 80,
+  "sprint_task_count": 16,
+  "workflow_run_count": 8,
   "calendar": [
     {
       "subject": "Organics in Finish",
@@ -38,6 +40,76 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Disclosure About Your Retirement Plan",
+      "from": "Empower",
+      "receivedDateTime": "2026-01-09T16:26:39Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18eAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Kennedy Kirk wants to access 'FULFILL_Accounting_Comparison'",
+      "from": "SharePoint Online",
+      "receivedDateTime": "2026-01-09T16:14:22Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18dAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Kevin Short wants to access 'FULFILL_Accounting_Comparison'",
+      "from": "SharePoint Online",
+      "receivedDateTime": "2026-01-09T15:47:20Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18cAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - Weekly Wireframe Reviews",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-09T15:27:34Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18bAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Avoid Costly Mistakes When Choosing an LMS",
+      "from": "Les Ayers",
+      "receivedDateTime": "2026-01-09T15:00:19Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18aAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - Director Huddle",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-09T14:34:12Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18ZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Enjoy a Week Away With 5 Free Nights, Nathan",
+      "from": "Marriott Bonvoy",
+      "receivedDateTime": "2026-01-09T13:51:35Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18YAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Easily find the right flight",
+      "from": "Expedia.com",
+      "receivedDateTime": "2026-01-09T07:24:34Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQczTG5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "New Year Deals: Members save 25% or more",
+      "from": "Hotels.com",
+      "receivedDateTime": "2026-01-09T04:05:40Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQczTG4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "New Year Special for Nathan! Earn 80,000 bonus miles for a limited time. Terms apply.",
+      "from": "American Airlines AAdvantage Program",
+      "receivedDateTime": "2026-01-09T02:49:17Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQczTG3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Kick off January with Super Agents: Join our event series",
       "from": "ClickUp Team",
@@ -317,76 +389,6 @@
       "receivedDateTime": "2026-01-07T16:35:46Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "RE: Seeking Management Expertise on Boards in 2026",
-      "from": "Chris at AdvisoryCloud",
-      "receivedDateTime": "2026-01-07T16:31:29Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Your AI app output - Daily Digest",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-01-07T16:00:54Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWRAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Your meeting recap - Weekly Wireframe Reviews",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-01-07T15:17:49Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Yana just messaged you",
-      "from": "Yana Bukovska via LinkedIn",
-      "receivedDateTime": "2026-01-07T15:17:36Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Avoid Costly Mistakes When Choosing an LMS",
-      "from": "Jackson Wilson",
-      "receivedDateTime": "2026-01-07T15:04:57Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Mashhood just messaged you",
-      "from": "Mashhood Ahmad via LinkedIn",
-      "receivedDateTime": "2026-01-07T14:54:27Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Your meeting recap - Director Huddle",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-01-07T14:34:18Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Accepted: Fulfill Review",
-      "from": "Kennedy Kirk",
-      "receivedDateTime": "2026-01-07T14:17:28Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Your meeting recap - Product Daily Huddle",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-01-07T14:07:32Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Re: Locations in Produce",
-      "from": "Christina DiDio",
-      "receivedDateTime": "2026-01-07T14:06:05Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
@@ -810,6 +812,279 @@
         }
       ]
     }
+  },
+  "sprint": {
+    "name": "Sprint 21",
+    "end_date": "2026-01-13",
+    "tasks": [
+      {
+        "id": "86b82d1gd",
+        "name": "EDI Import",
+        "status": "Closed",
+        "assignees": [
+          "Rob Williams "
+        ],
+        "priority": "urgent",
+        "url": "https://app.clickup.com/t/86b82d1gd",
+        "due_date": null
+      },
+      {
+        "id": "86b802tmh",
+        "name": "All - Update UploadStoreInvBulkTrans.aspx to check date within SQL's smalldatetime",
+        "status": "awaiting testing",
+        "assignees": [
+          "Jared Leverington"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b802tmh",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqw6",
+        "name": "DBR: Session",
+        "status": "in-progress",
+        "assignees": [
+          "Eric Whitlow"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqw6",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqv8",
+        "name": "DBR: Rule",
+        "status": "in-progress",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqv8",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqtg",
+        "name": "DBR: LocationSettings",
+        "status": "in-progress",
+        "assignees": [
+          "Timothy Short"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqtg",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqrb",
+        "name": "DBR: ContainerConfig",
+        "status": "awaiting testing",
+        "assignees": [
+          "Eric Whitlow"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqrb",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqqc",
+        "name": "DBR: ItemSettings",
+        "status": "awaiting testing",
+        "assignees": [
+          "Timothy Short"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqqc",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqnp",
+        "name": "DBR: DeliverySchedule",
+        "status": "dev complete",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqnp",
+        "due_date": null
+      },
+      {
+        "id": "86b7yc62n",
+        "name": "DBR: ReplenishmentSettings",
+        "status": "dev complete",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7yc62n",
+        "due_date": null
+      },
+      {
+        "id": "86b7y5tmf",
+        "name": "DBR: Create \"Data Management > Defaults\" page",
+        "status": "dev complete",
+        "assignees": [
+          "Gabriela Gonzales"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7y5tmf",
+        "due_date": null
+      },
+      {
+        "id": "86b7y5tk9",
+        "name": "DBR: Create \"Orders\" page",
+        "status": "in-progress",
+        "assignees": [
+          "Gustavo Cota"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7y5tk9",
+        "due_date": null
+      },
+      {
+        "id": "86b7y4nkf",
+        "name": "Research Price Group Bug - Items not applying price groups when added to orders",
+        "status": "next release",
+        "assignees": [
+          "Gabriela Gonzales"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b7y4nkf",
+        "due_date": null
+      },
+      {
+        "id": "86b7rp1gf",
+        "name": "Add Load List Stations to WSAPI and Sync",
+        "status": "awaiting testing",
+        "assignees": [
+          "Eric Whitlow"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7rp1gf",
+        "due_date": null
+      },
+      {
+        "id": "86b7pqbh8",
+        "name": "Acknowledgment system",
+        "status": "new",
+        "assignees": [],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7pqbh8",
+        "due_date": null
+      },
+      {
+        "id": "86b7ppet6",
+        "name": "Organic Pt 3",
+        "status": "in-progress",
+        "assignees": [
+          "Gustavo Cota"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ppet6",
+        "due_date": null
+      },
+      {
+        "id": "86b7eqebj",
+        "name": "Wire Recipes front-end to backend",
+        "status": "awaiting testing",
+        "assignees": [
+          "Gabriela Gonzales"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7eqebj",
+        "due_date": null
+      }
+    ]
+  },
+  "automations": {
+    "repo": "AdvGrower/worksuite-pwa-documentation",
+    "runs": [
+      {
+        "id": 20755285360,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T16:47:06Z",
+        "updated_at": "2026-01-06T16:53:38Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20755285360",
+        "head_branch": "main",
+        "run_number": 8
+      },
+      {
+        "id": 20754838691,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-01-06T16:30:42Z",
+        "updated_at": "2026-01-06T16:37:49Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20754838691",
+        "head_branch": "main",
+        "run_number": 7
+      },
+      {
+        "id": 20753771345,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T15:54:09Z",
+        "updated_at": "2026-01-06T16:00:45Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753771345",
+        "head_branch": "main",
+        "run_number": 6
+      },
+      {
+        "id": 20753545265,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T15:46:10Z",
+        "updated_at": "2026-01-06T15:46:46Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753545265",
+        "head_branch": "main",
+        "run_number": 5
+      },
+      {
+        "id": 20753302364,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T15:37:37Z",
+        "updated_at": "2026-01-06T15:38:22Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753302364",
+        "head_branch": "main",
+        "run_number": 4
+      },
+      {
+        "id": 20753076185,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-01-06T15:29:31Z",
+        "updated_at": "2026-01-06T15:29:50Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753076185",
+        "head_branch": "main",
+        "run_number": 3
+      },
+      {
+        "id": 20752798740,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-01-06T15:19:50Z",
+        "updated_at": "2026-01-06T15:20:43Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20752798740",
+        "head_branch": "main",
+        "run_number": 2
+      },
+      {
+        "id": 20752647605,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-01-06T15:14:28Z",
+        "updated_at": "2026-01-06T15:15:14Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20752647605",
+        "head_branch": "main",
+        "run_number": 1
+      }
+    ]
   },
   "yesterday": {}
 }
