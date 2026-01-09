@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-09T22:20:58.924031Z",
+  "updated_at": "2026-01-09T22:30:56.241408Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 85,
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Microsoft 365 security: You have messages in quarantine",
+      "from": "quarantine@messaging.microsoft.com",
+      "receivedDateTime": "2026-01-09T22:21:43Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18rAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "CLM - Remove Retail $ from SubGrower view",
       "from": "Silver Fern",
@@ -390,13 +397,6 @@
       "receivedDateTime": "2026-01-08T12:49:05Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Daily Summary | Silver Fern",
-      "from": "ClickUp Notifications",
-      "receivedDateTime": "2026-01-08T12:06:16Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
