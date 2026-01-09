@@ -1146,5 +1146,81 @@
       }
     ]
   },
-  "yesterday": {}
+  "yesterday": {},
+  "standup": {
+    "generated_at": "2026-01-09T23:00:49.238606Z",
+    "for_date": "2026-01-10",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Attended Product Daily Huddle and Director Huddle to align on team priorities",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Participated in Weekly Wireframe Reviews session to review product designs",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Discussed organics integration in finish processes during dedicated meeting",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Reviewed produce testing protocols and results with the team",
+        "completed": true
+      },
+      {
+        "id": "y4",
+        "text": "Engaged in active discussions across multiple Teams channels with 65+ messages",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Follow up on CLM retail dollar removal from SubGrower view per email request",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Review and respond to Microsoft 365 security quarantine messages",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Address Director Huddle meeting recap and action items",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Continue organics in finish implementation discussions from yesterday's meeting",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Catch up on Teams channel discussions and respond to pending items",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Schedule follow-up on produce testing outcomes and next steps",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Review wireframe feedback from yesterday's session and provide input",
+        "completed": false
+      },
+      {
+        "id": "f2",
+        "text": "Address any action items from Director Huddle meeting recap",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-01-09T23:00:49.238606Z"
 }
