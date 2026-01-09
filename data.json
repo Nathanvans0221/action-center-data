@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-09T19:40:04.547221Z",
+  "updated_at": "2026-01-09T19:44:40.202724Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 82,
@@ -404,6 +404,11 @@
       "name": "BLN Forecast",
       "messages": [
         {
+          "from": "Isaac Carpenter",
+          "content": "<p>I don't know, I can see it in the spreadsheet, Claude doing a deep dive into it now</p>",
+          "createdDateTime": "2026-01-09T19:40:31.83Z"
+        },
+        {
           "from": "Kevin Short",
           "content": "<p>the 28 shared items</p>",
           "createdDateTime": "2026-01-09T19:38:47.278Z"
@@ -497,11 +502,6 @@
           "from": "Kevin Short",
           "content": "<p>ok - let me know what you find on that then we can get back to them. we'll include the NRS note</p>",
           "createdDateTime": "2026-01-09T17:17:57.563Z"
-        },
-        {
-          "from": "Eric Whitlow",
-          "content": "<p>probably not</p>",
-          "createdDateTime": "2026-01-09T17:16:30.394Z"
         }
       ],
       "type": "group"
