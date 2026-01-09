@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-09T20:50:57.303573Z",
+  "updated_at": "2026-01-09T21:00:57.458102Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 83,
@@ -860,11 +860,6 @@
           "createdDateTime": "2026-01-09T13:50:41.143Z"
         }
       ],
-      "type": "meeting"
-    },
-    "technology_quarterly_planning": {
-      "name": "Technology Quarterly Planning",
-      "messages": [],
       "type": "meeting"
     }
   },
