@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-10T23:20:57.706957Z",
+  "updated_at": "2026-01-10T23:32:27.217146Z",
   "email_count": 50,
   "calendar_count": 0,
   "teams_count": 0,
@@ -358,13 +358,7 @@
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWmAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
-  "teams": {
-    "gp_transition_q&a_": {
-      "name": "GP transition Q&A ",
-      "messages": [],
-      "type": "meeting"
-    }
-  },
+  "teams": {},
   "sprint": {
     "name": "Sprint 21",
     "end_date": "2026-01-13",
