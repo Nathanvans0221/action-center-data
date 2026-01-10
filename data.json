@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-10T17:10:54.886052Z",
+  "updated_at": "2026-01-10T17:20:55.415122Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 32,
+  "teams_count": 6,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
@@ -364,112 +364,6 @@
       "messages": [],
       "type": "meeting"
     },
-    "group_chat": {
-      "name": "Group Chat",
-      "messages": [
-        {
-          "from": "Gustavo Cota",
-          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:ca1f9d9138e44d91b9f20e41c0b929a1@thread.v2/messages/1767993738391/hostedContents/aWQ9eF8wLWV1cy1kMTEtZDQ0ODA2MTljMjZiN2EzMWFlZjNkZDQ2ZjA4OGJiYTYsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDExLWQ0NDgwNjE5YzI2YjdhMzFhZWYzZGQ0NmYwODhiYmE2L3ZpZXdzL2ltZ28=/$value\" width=\"958.029197080292\" height=\"250\" alt=\"image\" itemid=\"0-eus-d11-d4480619c26b7a31aef3dd46f088bba6\"></p>\n<p>&nbsp;</p>\n<p>I updated the frontend. So it's visually better</p>",
-          "createdDateTime": "2026-01-09T21:22:18.391Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<attachment id=\"1767992983816\"></attachment>\n<p>&nbsp;</p>\n<p>It was using the wrong journal. Then I had an issue because it was not importing the quantity, so I had to fix it as well</p>",
-          "createdDateTime": "2026-01-09T21:12:13.461Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<p>The frontend doesn't display the statuses correctly. Both show as \"Grow\", even though 054 - 4 - 2025 is \"Ready\".</p>",
-          "createdDateTime": "2026-01-09T21:11:28.052Z"
-        },
-        {
-          "from": "Ethan Boss",
-          "content": "That\u2019s awesome, what did you do to get it to work?",
-          "createdDateTime": "2026-01-09T21:09:43.816Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:ca1f9d9138e44d91b9f20e41c0b929a1@thread.v2/messages/1767992911512/hostedContents/aWQ9eF8wLWV1cy1kMTgtODI5MTc5ZjZiZTYyYmMwZmY0Njg4MjZmNjZmNmI3MTUsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDE4LTgyOTE3OWY2YmU2MmJjMGZmNDY4ODI2ZjY2ZjZiNzE1L3ZpZXdzL2ltZ28=/$value\" width=\"404.9227799227799\" height=\"250\" alt=\"image\" itemid=\"0-eus-d18-829179f6be62bc0ff468826f66f6b715\"></p>\n<p>&nbsp;</p>\n<p>The changes worked</p>",
-          "createdDateTime": "2026-01-09T21:08:31.512Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<p>I'm running the importer. It will take a while</p>",
-          "createdDateTime": "2026-01-09T19:55:48.783Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<p>I believe I found why we didn't receive the BP Lot No. I'm changing it.</p>",
-          "createdDateTime": "2026-01-09T19:28:36.184Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>Is there an update i can give BPF right now?&nbsp;</p>",
-          "createdDateTime": "2026-01-09T19:27:33.745Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<p>I will investigate that</p>",
-          "createdDateTime": "2026-01-09T19:17:43.191Z"
-        },
-        {
-          "from": "Ethan Boss",
-          "content": "<p>No</p>",
-          "createdDateTime": "2026-01-09T19:17:11.348Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<p><at id=\"0\">Ethan</at>&nbsp;I'm seeing on changes you push that Claude used a different journal in your changes for grow items. Do you know the reason for that?</p>",
-          "createdDateTime": "2026-01-09T19:16:53.779Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>how did we find this bug then? i'm very lost on how we discovered this bug for BPF if we were never able to get the BPlot numbers for grow items?&nbsp;</p>",
-          "createdDateTime": "2026-01-09T19:12:33.055Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<attachment id=\"1767985421107\"></attachment>\n<p><span style=\"font-size:inherit\">We received the BP Lot No for Organic Ready Items. However, for the GROW items, we do not have that information since they were not imported before, so we can't confirm if it worked previously</span></p>",
-          "createdDateTime": "2026-01-09T19:10:16.452Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>how did that happen? Like, didn't we have this working, did&nbsp;NAV change or us?&nbsp;</p>",
-          "createdDateTime": "2026-01-09T19:03:41.107Z"
-        },
-        {
-          "from": "Ethan Boss",
-          "content": "<attachment id=\"1c502eba-c845-4efb-847c-be323ecb9f64\"></attachment>",
-          "createdDateTime": "2026-01-09T18:58:21.75Z"
-        },
-        {
-          "from": "Ethan Boss",
-          "content": "<p>So we were able to remove the filter to import the Organic grow items, but the items coming back from nav don't have the Lot number.</p>",
-          "createdDateTime": "2026-01-09T18:57:51.624Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>i'm not sure what that means?&nbsp;</p>",
-          "createdDateTime": "2026-01-09T18:57:13.489Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:ca1f9d9138e44d91b9f20e41c0b929a1@thread.v2/messages/1767984951553/hostedContents/aWQ9eF8wLWV1cy1kMi00Nzg4ZGU1OTI3NzQ3ZjUzN2Q0NDE1MTc1MWJiMmNlZSx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLWV1cy1kMi00Nzg4ZGU1OTI3NzQ3ZjUzN2Q0NDE1MTc1MWJiMmNlZS92aWV3cy9pbWdv/$value\" width=\"1026\" height=\"205\" alt=\"image\" itemid=\"0-eus-d2-4788de5927747f537d44151751bb2cee\"></p>\n<p>&nbsp;</p>\n<p>We imported the item, but we didn't receive the BP Lot No. In NAV, they have different BP lot No</p>\n<p>&nbsp;</p>\n<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:ca1f9d9138e44d91b9f20e41c0b929a1@thread.v2/messages/1767984951553/hostedContents/aWQ9eF8wLWV1cy1kMTMtOTIwNTEwMmY5NmE0MzQxZTI4MzA5MDQxNmU5MzY3MzcsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDEzLTkyMDUxMDJmOTZhNDM0MWUyODMwOTA0MTZlOTM2NzM3L3ZpZXdzL2ltZ28=/$value\" width=\"901\" height=\"124\" alt=\"image\" itemid=\"0-eus-d13-9205102f96a4341e283090416e936737\"></p>",
-          "createdDateTime": "2026-01-09T18:55:51.553Z"
-        },
-        {
-          "from": "Ethan Boss",
-          "content": "<attachment id=\"e8201f18-5156-40b9-9b8d-13b8fdeb10a6\"></attachment>",
-          "createdDateTime": "2026-01-09T18:55:41.766Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<p>We made some changes in the code, but we are still not importing grow organic items. We are verifying that.</p>",
-          "createdDateTime": "2026-01-09T18:09:22.277Z"
-        }
-      ],
-      "type": "group"
-    },
     "produce_testing": {
       "name": "Produce Testing",
       "messages": [
@@ -502,44 +396,13 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-09T17:20:57.688Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:20:01.241Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:19:58.655Z"
         }
       ],
       "type": "meeting"
     },
     "organics_in_finish": {
       "name": "Organics in Finish",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:17:58.978Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:15:14.733Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:15:12.492Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:15:08.901Z"
-        }
-      ],
+      "messages": [],
       "type": "meeting"
     }
   },
