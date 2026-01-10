@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-10T16:00:55.892629Z",
+  "updated_at": "2026-01-10T16:10:56.101734Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 58,
+  "teams_count": 38,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
@@ -363,112 +363,6 @@
       "name": "GP transition Q&A ",
       "messages": [],
       "type": "meeting"
-    },
-    "bln_forecast": {
-      "name": "BLN Forecast",
-      "messages": [
-        {
-          "from": "Isaac Carpenter",
-          "content": "<div>Yes, but he\u2019s wanting to use the PFAC export to do it and not S&amp;P (I don\u2019t fully understand or remember the difference between the two reports enough to know what\u2019s right and wrong)<br>\n<br>\nI emailed them but haven\u2019t heard back, I\u2019ll let you know once they get back to me and we get a time set.</div>",
-          "createdDateTime": "2026-01-09T22:37:01.001Z"
-        },
-        {
-          "from": "Stephen van Wingerden",
-          "content": "I can get on a call, yes.",
-          "createdDateTime": "2026-01-09T22:32:52.899Z"
-        },
-        {
-          "from": "Stephen van Wingerden",
-          "content": "Aren\u2019t they to import into their system and PRODUCE? Which is why the S&P requires item mapping.",
-          "createdDateTime": "2026-01-09T22:32:41.655Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "<p>Okay, I'll email them.</p>",
-          "createdDateTime": "2026-01-09T21:32:38.858Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p><at id=\"0\">Stephen</at>&nbsp;- we will likely need your help on that call</p>",
-          "createdDateTime": "2026-01-09T21:31:26.55Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p><at id=\"0\">Isaac</at>&nbsp;- can you just write them and tell them at this point, we are still trying to understand what they are trying to accomplish with these reports? Ask them for a call or something. There is no way we can get the right answer to something when no one on our team knows the goal.&nbsp;</p>",
-          "createdDateTime": "2026-01-09T21:30:50.391Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "<p>I agree with Kevin, I don't fully understand WHAT these individual reports are supposed to do, and I don't think BLN does either, they are wanting like a combo of the two.</p>",
-          "createdDateTime": "2026-01-09T21:29:11.561Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p>Does anyone know what the purpose of these exports is? I'm lost at this point as well. It would be faster to get the purpose and specs of each export and rebuild</p>",
-          "createdDateTime": "2026-01-09T21:28:11.236Z"
-        },
-        {
-          "from": "Eric Whitlow",
-          "content": "<attachment id=\"1767987932909\"></attachment>\n<p>PFAC is just an export of this view so removing the NRS records from that view removes it from the export. And you want to have multiple reports that include different sites, but somehow come up with the same output? I don't understand what you're trying to accomplish.</p>",
-          "createdDateTime": "2026-01-09T21:25:45.478Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "<p>So if we could add those back to that export.&nbsp;</p>\n<p>&nbsp;</p>\n<p>I can see the values are different than the PFAC from before, but they don't match that of the S&amp;P still, but I'm not gonna say it's off until I can do a true side by side comparison of the two.</p>",
-          "createdDateTime": "2026-01-09T21:19:37.522Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "<p>I don't think they did, Jon kind of did but I don't think BLN as a whole wants that.&nbsp;</p>",
-          "createdDateTime": "2026-01-09T21:17:35.608Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p>Do we know that we don't want NRS stores? I don't think we want to remove those. <at id=\"0\">Isaac</at>&nbsp;- did BLN ask for that?&nbsp;</p>",
-          "createdDateTime": "2026-01-09T21:16:37.437Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "<p>Okay I've tried several different things, but I can't get the S&amp;P Export to run, it shows it's loading for a bit and then goes away without actually downloading.</p>\n<p>&nbsp;</p>\n<p>I was able to download the PFAC export, and I can see that there are no NRS stores on that export anymore.</p>\n<p>&nbsp;</p>\n<p>Can you see why the S&amp;P Export wouldn't be loading?</p>",
-          "createdDateTime": "2026-01-09T21:15:48.732Z"
-        },
-        {
-          "from": "Eric Whitlow",
-          "content": "<p>bln is updated, try again</p>",
-          "createdDateTime": "2026-01-09T20:48:43.264Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p><at id=\"0\">Isaac</at>&nbsp;- make sure we get another response to BLN before end of day&nbsp;</p>",
-          "createdDateTime": "2026-01-09T20:48:21.747Z"
-        },
-        {
-          "from": "Eric Whitlow",
-          "content": "<p>i'll work on those changes</p>",
-          "createdDateTime": "2026-01-09T20:11:58.856Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "Yeah I would like that more, because without Claude it would\u2019ve taken me forever to figure that out.",
-          "createdDateTime": "2026-01-09T20:01:13.608Z"
-        },
-        {
-          "from": "Stephen van Wingerden",
-          "content": "<p>Yeah. Or, we could change the join so that the report has an empty value when there isn't a ProductionItem link? That way they know what they are...</p>",
-          "createdDateTime": "2026-01-09T19:54:53.947Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "<p>Seems like for the 7 items that are missing, they don't have any Production Item link, and all other items do. I THINK to fix that one I need to get BLN to send me the Production Item Links (4 mil numbers) for those items.</p>",
-          "createdDateTime": "2026-01-09T19:52:15.271Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p><at id=\"0\">Eric</at>&nbsp;what do you think of this? <at id=\"1\">Stephen</at>? I don't have context on the purpose of these reports so I'm lost at this point</p>",
-          "createdDateTime": "2026-01-09T19:49:41.774Z"
-        }
-      ],
-      "type": "group"
     },
     "group_chat": {
       "name": "Group Chat",
