@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-01-10T15:20:55.222518Z",
+  "updated_at": "2026-01-10T15:30:55.860100Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 63,
+  "teams_count": 59,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
   "emails": [
+    {
+      "subject": "Punt is hiring a Head of Product",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-01-10T15:29:45Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18tAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Silver Fern posted: How many spreadsheets does it take to run your production planning?  For most\u2026 \ud83d\udca1",
       "from": "LinkedIn",
@@ -349,13 +356,6 @@
       "receivedDateTime": "2026-01-08T13:45:20Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Alert! 70% AI credits consumed",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-01-08T13:01:57Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
@@ -583,26 +583,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-09T15:33:24.37Z"
-        },
-        {
-          "from": "Isaac Short",
-          "content": "<p>merge.dev accounting integrations&nbsp;</p><attachment id=\"b2018f39-7861-48bf-aeb0-183a94ab44c9\"></attachment>",
-          "createdDateTime": "2026-01-09T15:26:50.151Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T15:25:50.958Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T15:25:48.08Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T15:25:45.334Z"
         }
       ],
       "type": "meeting"
