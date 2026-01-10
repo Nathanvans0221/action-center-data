@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-10T03:20:57.602088Z",
+  "updated_at": "2026-01-10T03:30:56.083930Z",
   "email_count": 50,
   "calendar_count": 0,
   "teams_count": 85,
@@ -7,6 +7,13 @@
   "workflow_run_count": 8,
   "calendar": [],
   "emails": [
+    {
+      "subject": "Silver Fern posted: How many spreadsheets does it take to run your production planning?  For most\u2026 \ud83d\udca1",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-01-10T03:29:21Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18sAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Microsoft 365 security: You have messages in quarantine",
       "from": "quarantine@messaging.microsoft.com",
@@ -349,13 +356,6 @@
       "receivedDateTime": "2026-01-08T13:01:57Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Enjoy a Week Away With 5 Free Nights, Nathan",
-      "from": "Marriott Bonvoy",
-      "receivedDateTime": "2026-01-08T12:49:05Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
