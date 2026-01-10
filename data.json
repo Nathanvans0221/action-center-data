@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-10T16:50:55.685744Z",
+  "updated_at": "2026-01-10T17:00:59.982793Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 38,
+  "teams_count": 37,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
@@ -470,11 +470,6 @@
       ],
       "type": "group"
     },
-    "weekly_wireframe_reviews_": {
-      "name": "Weekly Wireframe Reviews ",
-      "messages": [],
-      "type": "meeting"
-    },
     "produce_testing": {
       "name": "Produce Testing",
       "messages": [
@@ -568,11 +563,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-09T17:01:29.009Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:00:30.834Z"
         }
       ],
       "type": "meeting"
