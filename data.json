@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-10T14:20:56.053548Z",
+  "updated_at": "2026-01-10T14:30:57.315410Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 73,
+  "teams_count": 69,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
@@ -623,21 +623,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-09T14:30:49.339Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>Planning to review Accounting Integration. Don't feel pressure to join!&nbsp;</p>",
-          "createdDateTime": "2026-01-09T14:30:14.53Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T14:30:03.543Z"
-        },
-        {
-          "from": "John Beauford",
-          "content": "<p>Kevin is sick. Isaac C is at MANTS. Do we need to meet today&gt;</p>",
-          "createdDateTime": "2026-01-09T14:29:35.628Z"
         }
       ],
       "type": "meeting"
@@ -756,17 +741,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-09T14:32:21.473Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "product_daily_huddle": {
-      "name": "Product Daily Huddle",
-      "messages": [
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>lets do accounting &nbsp;think&nbsp;</p>",
-          "createdDateTime": "2026-01-09T14:29:40.515Z"
         }
       ],
       "type": "meeting"
