@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-10T14:10:55.735860Z",
+  "updated_at": "2026-01-10T14:20:56.053548Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 79,
+  "teams_count": 73,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
@@ -756,31 +756,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-09T14:32:21.473Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KEA298PRY95VNT3KVVR32SYK?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kea298pry95vnt3kvvr32syk?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KEA298PRY95VNT3KVVR32SYK?ref=live_chat</a></p>",
-          "createdDateTime": "2026-01-09T14:16:23.438Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "Give me a couple mins",
-          "createdDateTime": "2026-01-09T14:16:00.358Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T14:15:07.199Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T14:14:54.713Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "Works for me",
-          "createdDateTime": "2026-01-09T14:12:42.995Z"
         }
       ],
       "type": "meeting"
@@ -792,11 +767,6 @@
           "from": "Nathan van Wingerden",
           "content": "<p>lets do accounting &nbsp;think&nbsp;</p>",
           "createdDateTime": "2026-01-09T14:29:40.515Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T14:16:35.466Z"
         }
       ],
       "type": "meeting"
