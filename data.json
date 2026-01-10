@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-10T13:40:56.433560Z",
+  "updated_at": "2026-01-10T13:50:56.984701Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 83,
+  "teams_count": 82,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
@@ -812,11 +812,6 @@
           "from": "Isaac Short",
           "content": "<p>or accounting integrations&nbsp;</p>",
           "createdDateTime": "2026-01-09T13:55:36.168Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<div>Won\u2019t be in today\u2019s call. <at id=\"0\">Isaac</at>Which wireframes do you plan to review today?</div>",
-          "createdDateTime": "2026-01-09T13:50:41.143Z"
         }
       ],
       "type": "meeting"
