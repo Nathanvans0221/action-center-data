@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-01-10T17:20:55.415122Z",
+  "updated_at": "2026-01-10T17:30:54.833885Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 6,
+  "teams_count": 0,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
   "emails": [
+    {
+      "subject": "You appeared in 1 search",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-01-10T17:29:18Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18vAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Need help getting started with Super Agents?",
       "from": "Grace Dawson",
@@ -349,59 +356,11 @@
       "receivedDateTime": "2026-01-08T14:06:59Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Success with Seed Crops Series - Petunia",
-      "from": "Syngenta Flowers",
-      "receivedDateTime": "2026-01-08T14:01:00Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "gp_transition_q&a_": {
       "name": "GP transition Q&A ",
-      "messages": [],
-      "type": "meeting"
-    },
-    "produce_testing": {
-      "name": "Produce Testing",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:29:53.114Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:29:13.014Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:29:11.813Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:22:07.821Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:22:03.708Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:20:57.688Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "organics_in_finish": {
-      "name": "Organics in Finish",
       "messages": [],
       "type": "meeting"
     }
