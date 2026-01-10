@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-10T14:30:57.315410Z",
+  "updated_at": "2026-01-10T14:40:54.775229Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 69,
+  "teams_count": 63,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
@@ -603,26 +603,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-09T15:25:45.334Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T14:33:29.267Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T14:33:25.56Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KEA298PE9EG05MST4B5MABZ4?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kea298pe9eg05mst4b5mabz4?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KEA298PE9EG05MST4B5MABZ4?ref=live_chat</a></p>",
-          "createdDateTime": "2026-01-09T14:32:07.269Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T14:30:49.339Z"
         }
       ],
       "type": "meeting"
@@ -725,22 +705,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-09T17:00:30.834Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "director_huddle": {
-      "name": "Director Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T14:32:26.743Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T14:32:21.473Z"
         }
       ],
       "type": "meeting"
