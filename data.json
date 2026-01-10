@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-01-10T17:00:59.982793Z",
+  "updated_at": "2026-01-10T17:10:54.886052Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 37,
+  "teams_count": 32,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
   "emails": [
+    {
+      "subject": "Need help getting started with Super Agents?",
+      "from": "Grace Dawson",
+      "receivedDateTime": "2026-01-10T17:01:39Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18uAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Punt is hiring a Head of Product",
       "from": "LinkedIn",
@@ -349,13 +356,6 @@
       "receivedDateTime": "2026-01-08T14:01:00Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "You appeared in 1 search",
-      "from": "LinkedIn",
-      "receivedDateTime": "2026-01-08T13:45:20Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
@@ -538,31 +538,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-09T17:15:08.901Z"
-        },
-        {
-          "from": "Leigh Taylor",
-          "content": "<p>120380</p>",
-          "createdDateTime": "2026-01-09T17:04:59.915Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:03:36.854Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:03:32.739Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KEF3SCH7RTNZ7A6RM1GWT9EZ?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kef3sch7rtnz7a6rm1gwt9ez?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KEF3SCH7RTNZ7A6RM1GWT9EZ?ref=live_chat</a></p>",
-          "createdDateTime": "2026-01-09T17:01:40.861Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-09T17:01:29.009Z"
         }
       ],
       "type": "meeting"
