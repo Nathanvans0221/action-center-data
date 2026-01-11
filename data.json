@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-11T18:40:54.819169Z",
-  "email_count": 33,
+  "updated_at": "2026-01-11T18:50:53.706399Z",
+  "email_count": 32,
   "calendar_count": 0,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -230,13 +230,6 @@
       "receivedDateTime": "2026-01-08T20:20:43Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPW5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "You have 9 new messages",
-      "from": "LinkedIn",
-      "receivedDateTime": "2026-01-08T18:48:20Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPW4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
