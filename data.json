@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-11T15:40:56.005803Z",
-  "email_count": 43,
+  "updated_at": "2026-01-11T15:50:54.225755Z",
+  "email_count": 42,
   "calendar_count": 0,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -300,13 +300,6 @@
       "receivedDateTime": "2026-01-08T16:09:00Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Update: New tax brackets may impact your outcome",
-      "from": "TurboTax",
-      "receivedDateTime": "2026-01-08T15:46:29Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
