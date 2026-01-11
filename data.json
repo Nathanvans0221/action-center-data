@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-11T20:10:54.006679Z",
-  "email_count": 32,
+  "updated_at": "2026-01-11T20:20:56.661691Z",
+  "email_count": 31,
   "calendar_count": 0,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -223,13 +223,6 @@
       "receivedDateTime": "2026-01-08T21:35:49Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPW6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "S&P 500 jumped nearly 17% in 2025\ud83d\udd25",
-      "from": "Empower | The Currency",
-      "receivedDateTime": "2026-01-08T20:20:43Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPW5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
