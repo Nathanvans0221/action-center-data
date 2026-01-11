@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-01-11T21:02:44.307149Z",
-  "email_count": 32,
+  "updated_at": "2026-01-11T21:10:53.959495Z",
+  "email_count": 33,
   "calendar_count": 0,
   "teams_count": 0,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
   "calendar": [],
   "emails": [
+    {
+      "subject": "Nonstop Flight Deals from $33 one way",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-01-11T21:07:00Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQemcRrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Nonstop Flight Deals from $33 one way",
       "from": "Allegiant",
