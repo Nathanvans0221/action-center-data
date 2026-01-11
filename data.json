@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-11T15:20:55.284058Z",
-  "email_count": 44,
+  "updated_at": "2026-01-11T15:31:25.508476Z",
+  "email_count": 43,
   "calendar_count": 0,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -307,13 +307,6 @@
       "receivedDateTime": "2026-01-08T15:46:29Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "SmartCAT.ai is hiring a Vice President of Customer Experience",
-      "from": "LinkedIn",
-      "receivedDateTime": "2026-01-08T15:31:05Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
