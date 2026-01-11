@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-11T16:20:53.542547Z",
-  "email_count": 41,
+  "updated_at": "2026-01-11T16:31:16.648881Z",
+  "email_count": 40,
   "calendar_count": 0,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -286,13 +286,6 @@
       "receivedDateTime": "2026-01-08T17:10:21Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "cvs importing",
-      "from": "Anna Mueller",
-      "receivedDateTime": "2026-01-08T16:28:28Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
