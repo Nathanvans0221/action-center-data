@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-11T14:31:16.257029Z",
-  "email_count": 50,
+  "updated_at": "2026-01-11T14:40:54.122493Z",
+  "email_count": 49,
   "calendar_count": 0,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -349,13 +349,6 @@
       "receivedDateTime": "2026-01-08T14:48:25Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Accepted: New E-ticket Flow",
-      "from": "Leigh Taylor",
-      "receivedDateTime": "2026-01-08T14:39:26Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
