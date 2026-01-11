@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-11T18:20:54.435034Z",
-  "email_count": 34,
+  "updated_at": "2026-01-11T18:31:16.937550Z",
+  "email_count": 33,
   "calendar_count": 0,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -237,13 +237,6 @@
       "receivedDateTime": "2026-01-08T18:48:20Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPW4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "New login to your ClickUp account",
-      "from": "ClickUp Team",
-      "receivedDateTime": "2026-01-08T18:28:03Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPW3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
