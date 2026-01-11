@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-11T17:20:54.729331Z",
-  "email_count": 37,
+  "updated_at": "2026-01-11T17:31:13.661560Z",
+  "email_count": 36,
   "calendar_count": 0,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -258,13 +258,6 @@
       "receivedDateTime": "2026-01-08T17:32:10Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPW1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Failed production deployment on team 'Nathan Vanwingerden's projects'",
-      "from": "Vercel",
-      "receivedDateTime": "2026-01-08T17:22:03Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPW0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
