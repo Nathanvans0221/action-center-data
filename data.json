@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-11T16:05:55.545781Z",
-  "email_count": 42,
+  "updated_at": "2026-01-11T16:10:54.487387Z",
+  "email_count": 41,
   "calendar_count": 0,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -293,13 +293,6 @@
       "receivedDateTime": "2026-01-08T16:28:28Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Expand Your Business into Dubai \u2014 The Smart Way",
-      "from": "OnDemand International",
-      "receivedDateTime": "2026-01-08T16:09:00Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQbqPWvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
