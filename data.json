@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-12T14:50:55.552278Z",
-  "email_count": 34,
+  "updated_at": "2026-01-12T15:05:19.479043Z",
+  "email_count": 35,
   "calendar_count": 4,
-  "teams_count": 13,
+  "teams_count": 15,
   "sprint_task_count": 16,
   "workflow_run_count": 9,
   "calendar": [
@@ -40,6 +40,20 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Weekly Digest: Highlights from Jan 05 - Jan 12, 2026",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-12T15:01:58Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQemcR2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Bonnie Plants Delivery Confirmation and Invoice  # 300314",
+      "from": "Bonnie Plants",
+      "receivedDateTime": "2026-01-12T14:55:36Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQemcR1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Your meeting recap - Product Daily Huddle",
       "from": "Fred from Fireflies.ai",
@@ -270,24 +284,22 @@
       "receivedDateTime": "2026-01-09T15:27:34Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18bAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Avoid Costly Mistakes When Choosing an LMS",
-      "from": "Les Ayers",
-      "receivedDateTime": "2026-01-09T15:00:19Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18aAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
-    "fulfill_review": {
-      "name": "Fulfill Review",
-      "messages": [],
-      "type": "meeting"
-    },
     "directors_weekly": {
       "name": "Directors Weekly",
       "messages": [
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>sick</p>",
+          "createdDateTime": "2026-01-12T15:00:32.799Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "<p>itemnbr: 115710</p>",
+          "createdDateTime": "2026-01-12T14:59:53.019Z"
+        },
         {
           "from": "Fireflies.ai Notetaker Nathan",
           "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KEA298PJ0ZTJ4RS31KSQNS1G?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kea298pj0ztj4rs31ksqns1g?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KEA298PJ0ZTJ4RS31KSQNS1G?ref=live_chat</a></p>",
@@ -309,6 +321,16 @@
           "createdDateTime": "2026-01-12T01:42:04.957Z"
         }
       ],
+      "type": "meeting"
+    },
+    "gp_transition_q&a_": {
+      "name": "GP transition Q&A ",
+      "messages": [],
+      "type": "meeting"
+    },
+    "fulfill_review": {
+      "name": "Fulfill Review",
+      "messages": [],
       "type": "meeting"
     },
     "product_daily_huddle": {
@@ -392,7 +414,7 @@
       {
         "id": "86b7ycqw6",
         "name": "DBR: Session",
-        "status": "in-progress",
+        "status": "Closed",
         "assignees": [
           "Eric Whitlow"
         ],
@@ -425,7 +447,7 @@
       {
         "id": "86b7ycqrb",
         "name": "DBR: ContainerConfig",
-        "status": "awaiting testing",
+        "status": "Closed",
         "assignees": [
           "Eric Whitlow"
         ],
@@ -502,7 +524,7 @@
       {
         "id": "86b7rp1gf",
         "name": "Add Load List Stations to WSAPI and Sync",
-        "status": "awaiting testing",
+        "status": "next release",
         "assignees": [
           "Eric Whitlow"
         ],
