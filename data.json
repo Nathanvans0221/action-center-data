@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-12T16:50:37.285161Z",
-  "email_count": 39,
+  "updated_at": "2026-01-12T17:07:17.741694Z",
+  "email_count": 36,
   "calendar_count": 4,
   "teams_count": 34,
   "sprint_task_count": 16,
@@ -291,27 +291,6 @@
       "receivedDateTime": "2026-01-09T17:16:31Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18iAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "The world\u2019s first human\u2011like AI teammates, now in your Workspace",
-      "from": "Grace Dawson",
-      "receivedDateTime": "2026-01-09T17:00:18Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18hAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Your weekly StandUp agent is ready",
-      "from": "ClickUp Team",
-      "receivedDateTime": "2026-01-09T17:00:10Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18gAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Democratizing research in the age of AI, 7 patterns that derail product teams, and a killer UXR meetup in NYC",
-      "from": "Ned Dwyer | Great Question",
-      "receivedDateTime": "2026-01-09T16:59:37Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18fAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
@@ -626,7 +605,7 @@
       {
         "id": "86b7y5tmf",
         "name": "DBR: Create \"Data Management > Defaults\" page",
-        "status": "in-progress",
+        "status": "dev complete",
         "assignees": [
           "Gabriela Gonzales"
         ],
