@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-12T15:31:50.549375Z",
-  "email_count": 36,
+  "updated_at": "2026-01-12T15:40:59.294825Z",
+  "email_count": 37,
   "calendar_count": 4,
   "teams_count": 23,
   "sprint_task_count": 16,
@@ -40,6 +40,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Business Line of Credit - Silver Fern",
+      "from": "Heather James",
+      "receivedDateTime": "2026-01-12T15:39:37Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQemcR5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Stephen van Wingerden wants to access 'FULFILL_Accounting_Comparison'",
       "from": "SharePoint Online",
@@ -294,6 +301,11 @@
     }
   ],
   "teams": {
+    "gp_transition_q&a_": {
+      "name": "GP transition Q&A ",
+      "messages": [],
+      "type": "meeting"
+    },
     "directors_weekly": {
       "name": "Directors Weekly",
       "messages": [
@@ -374,11 +386,6 @@
           "createdDateTime": "2026-01-12T15:14:22.379Z"
         }
       ],
-      "type": "meeting"
-    },
-    "gp_transition_q&a_": {
-      "name": "GP transition Q&A ",
-      "messages": [],
       "type": "meeting"
     },
     "fulfill_review": {
@@ -544,7 +551,7 @@
       {
         "id": "86b7y5tmf",
         "name": "DBR: Create \"Data Management > Defaults\" page",
-        "status": "awaiting testing",
+        "status": "in-progress",
         "assignees": [
           "Gabriela Gonzales"
         ],
