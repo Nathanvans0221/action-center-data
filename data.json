@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-12T14:20:55.562124Z",
+  "updated_at": "2026-01-12T14:31:50.548077Z",
   "email_count": 35,
   "calendar_count": 4,
-  "teams_count": 9,
+  "teams_count": 13,
   "sprint_task_count": 16,
   "workflow_run_count": 9,
   "calendar": [
@@ -287,6 +287,32 @@
     }
   ],
   "teams": {
+    "directors_weekly": {
+      "name": "Directors Weekly",
+      "messages": [
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KEA298PJ0ZTJ4RS31KSQNS1G?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kea298pj0ztj4rs31ksqns1g?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KEA298PJ0ZTJ4RS31KSQNS1G?ref=live_chat</a></p>",
+          "createdDateTime": "2026-01-12T14:31:27.311Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T14:30:08.322Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T14:29:23.831Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "",
+          "createdDateTime": "2026-01-12T01:42:04.957Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "product_daily_huddle": {
       "name": "Product Daily Huddle",
       "messages": [
