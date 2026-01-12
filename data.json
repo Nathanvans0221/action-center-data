@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-12T16:31:46.543294Z",
-  "email_count": 38,
+  "updated_at": "2026-01-12T16:40:38.759973Z",
+  "email_count": 39,
   "calendar_count": 4,
-  "teams_count": 29,
+  "teams_count": 33,
   "sprint_task_count": 16,
   "workflow_run_count": 9,
   "calendar": [
@@ -40,6 +40,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Your meeting recap - Operations Weekly",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-12T16:34:14Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQemcR%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "FW: \ud83c\udf99\ufe0fThis week on How I AI: The power user\u2019s guide to Codex",
       "from": "Adam van Wingerden",
@@ -308,6 +315,62 @@
     }
   ],
   "teams": {
+    "operations_weekly": {
+      "name": "Operations Weekly",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T16:32:00.147Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T16:31:59.106Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T16:31:55.477Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T16:31:54.041Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T15:16:43.833Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KEA298PFJ6Q1MBFS5790NJ79?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kea298pfj6q1mbfs5790nj79?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KEA298PFJ6Q1MBFS5790NJ79?ref=live_chat</a></p>",
+          "createdDateTime": "2026-01-12T15:16:23.773Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T15:15:06.743Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T15:14:30.678Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T15:14:26.315Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T15:14:22.379Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "company_weekly": {
       "name": "Company Weekly",
       "messages": [
@@ -340,42 +403,6 @@
           "from": "Kevin Short",
           "content": "<p>Planning to start this at 11:30am instead of 11:15am today!&nbsp;</p>",
           "createdDateTime": "2026-01-12T16:08:03.019Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "operations_weekly": {
-      "name": "Operations Weekly",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-12T15:16:43.833Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KEA298PFJ6Q1MBFS5790NJ79?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kea298pfj6q1mbfs5790nj79?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KEA298PFJ6Q1MBFS5790NJ79?ref=live_chat</a></p>",
-          "createdDateTime": "2026-01-12T15:16:23.773Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-12T15:15:06.743Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-12T15:14:30.678Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-12T15:14:26.315Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-12T15:14:22.379Z"
         }
       ],
       "type": "meeting"
