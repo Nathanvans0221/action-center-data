@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-12T21:35:49.040803Z",
-  "email_count": 41,
+  "updated_at": "2026-01-12T21:41:28.720842Z",
+  "email_count": 42,
   "calendar_count": 7,
-  "teams_count": 65,
+  "teams_count": 69,
   "sprint_task_count": 16,
   "workflow_run_count": 9,
   "calendar": [
@@ -64,6 +64,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Your meeting recap - Organics Flow",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-12T21:39:45Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQemcSPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Nathan, follow Paul Stamets - Owner, Founder, Director of Research at Fungi Perfecti LLC",
       "from": "LinkedIn",
@@ -353,20 +360,29 @@
     }
   ],
   "teams": {
-    "gp_transition_q&a_": {
-      "name": "GP transition Q&A ",
+    "organics_flow": {
+      "name": "Organics Flow",
       "messages": [
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-12T17:09:06.507Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "organics_flow": {
-      "name": "Organics Flow",
-      "messages": [
+          "createdDateTime": "2026-01-12T21:38:47.841Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T21:36:03.682Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T21:35:59.625Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T21:35:57.789Z"
+        },
         {
           "from": "Gustavo Cota",
           "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:meeting_NTY1ZjNhMTYtNjg2Ny00MzcxLThlNmQtN2QxODkxMDViZGM4@thread.v2/messages/1768252753716/hostedContents/aWQ9eF8wLWV1cy1kMTAtNzU2YTU0ZWE2ZGQ1MmZiNWQ3ZmQyN2U0MjcwNGMyMzIsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDEwLTc1NmE1NGVhNmRkNTJmYjVkN2ZkMjdlNDI3MDRjMjMyL3ZpZXdzL2ltZ28=/$value\" width=\"429.4710327455919\" height=\"250\" alt=\"image\" itemid=\"0-eus-d10-756a54ea6dd52fb5d7fd27e42704c232\"></p>",
@@ -441,6 +457,17 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-12T21:12:50.49Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "gp_transition_q&a_": {
+      "name": "GP transition Q&A ",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-12T17:09:06.507Z"
         }
       ],
       "type": "meeting"
