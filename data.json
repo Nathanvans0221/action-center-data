@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-12T19:20:36.298677Z",
+  "updated_at": "2026-01-12T19:30:37.995349Z",
   "email_count": 37,
   "calendar_count": 6,
   "teams_count": 50,
@@ -56,6 +56,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "I want to connect",
+      "from": "Cam Robinson",
+      "receivedDateTime": "2026-01-12T19:29:44Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQemcSIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "reaching out - vercel",
       "from": "Cam Robinson",
@@ -307,13 +314,6 @@
       "receivedDateTime": "2026-01-09T20:33:32Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18pAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Hi Nathan, discover exclusive experiences as an AAdvantage\u00ae member ",
-      "from": "American Airlines AAdvantage Program",
-      "receivedDateTime": "2026-01-09T19:26:10Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18oAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
