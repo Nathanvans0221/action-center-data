@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-12T04:04:25.471897Z",
-  "email_count": 31,
+  "updated_at": "2026-01-12T04:10:54.082445Z",
+  "email_count": 30,
   "calendar_count": 4,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -249,13 +249,6 @@
       "receivedDateTime": "2026-01-09T07:24:34Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQczTG5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "New Year Deals: Members save 25% or more",
-      "from": "Hotels.com",
-      "receivedDateTime": "2026-01-09T04:05:40Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQczTG4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
