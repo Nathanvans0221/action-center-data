@@ -1,11 +1,44 @@
 {
-  "updated_at": "2026-01-11T23:50:54.243052Z",
+  "updated_at": "2026-01-12T00:05:28.467776Z",
   "email_count": 31,
-  "calendar_count": 0,
+  "calendar_count": 4,
   "teams_count": 0,
   "sprint_task_count": 16,
   "workflow_run_count": 8,
-  "calendar": [],
+  "calendar": [
+    {
+      "subject": "Company Weekly",
+      "start": "2026-01-12T11:15:00.0000000",
+      "end": "2026-01-12T12:00:00.0000000",
+      "location": "Microsoft Teams Meeting; Hulk; Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3lFth4NAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQADPOFs9QAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Operations Weekly",
+      "start": "2026-01-12T10:15:00.0000000",
+      "end": "2026-01-12T11:15:00.0000000",
+      "location": "Microsoft Teams Meeting; Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3lFth4NAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQADg%2Bv11gAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Directors Weekly",
+      "start": "2026-01-12T09:30:00.0000000",
+      "end": "2026-01-12T10:15:00.0000000",
+      "location": "Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3lFth4NAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQADjyESiAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Product Daily Huddle",
+      "start": "2026-01-12T09:00:00.0000000",
+      "end": "2026-01-12T09:15:00.0000000",
+      "location": "Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3lFth4NAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    }
+  ],
   "emails": [
     {
       "subject": "Nonstop Flight Deals from $33 one way",
