@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-12T17:30:50.726289Z",
-  "email_count": 35,
+  "updated_at": "2026-01-12T17:40:37.994334Z",
+  "email_count": 31,
   "calendar_count": 4,
-  "teams_count": 39,
+  "teams_count": 40,
   "sprint_task_count": 16,
   "workflow_run_count": 9,
   "calendar": [
@@ -256,40 +256,17 @@
       "receivedDateTime": "2026-01-09T19:26:10Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18oAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Update UPC and ItemNumber reporting for Bonnie Plants",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-09T17:33:33Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18nAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Update UPC and ItemNumber reporting for Bonnie Plants",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-09T17:33:31Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18mAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Update UPC and ItemNumber reporting for Bonnie Plants",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-09T17:33:18Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18lAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Update UPC and ItemNumber reporting for Bonnie Plants",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-09T17:33:15Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQdF18kAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "company_weekly": {
       "name": "Company Weekly",
       "messages": [
+        {
+          "from": "Tisha Evans",
+          "content": "<div><at id=\"0\">Kevin Short</at> sorry I had logged into mtg on my phone and then on desktop and forgot to log off phone. Looks like yall took care of it. Will make sure to check both spots next time. Thanks</div>",
+          "createdDateTime": "2026-01-12T17:34:08.782Z"
+        },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
