@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-12T02:40:55.549417Z",
-  "email_count": 32,
+  "updated_at": "2026-01-12T02:50:54.319930Z",
+  "email_count": 31,
   "calendar_count": 4,
   "teams_count": 0,
   "sprint_task_count": 16,
@@ -256,13 +256,6 @@
       "receivedDateTime": "2026-01-09T04:05:40Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQczTG4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "New Year Special for Nathan! Earn 80,000 bonus miles for a limited time. Terms apply.",
-      "from": "American Airlines AAdvantage Program",
-      "receivedDateTime": "2026-01-09T02:49:17Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQczTG3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {},
