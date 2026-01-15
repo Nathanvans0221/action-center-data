@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-15T23:22:57.359066Z",
+  "updated_at": "2026-01-15T23:38:13.328114Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 52,
@@ -48,6 +48,27 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Re: E-Ticket Table Changes for S26",
+      "from": "Leigh Taylor",
+      "receivedDateTime": "2026-01-15T23:36:15Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1bGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Nathan, do you know William Brentlinger, Chief Executive Officer at Gallery Homes?",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-01-15T23:29:36Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1bFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Trip planning made easy",
+      "from": "Hotels.com",
+      "receivedDateTime": "2026-01-15T23:28:16Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1bEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "DBR: Get Historical Sales & Inventory Files from BPF",
       "from": "Silver Fern",
@@ -376,27 +397,6 @@
       "receivedDateTime": "2026-01-15T14:13:38Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1aTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Your meeting recap - Product Daily Huddle",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-01-15T14:11:16Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1aSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "From $33\u2014Nonstop Getaways ",
-      "from": "Allegiant",
-      "receivedDateTime": "2026-01-15T14:06:33Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1aRAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Farm Tags 101 & URC Sticking Priority",
-      "from": "Syngenta Flowers",
-      "receivedDateTime": "2026-01-15T14:00:59Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1aQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
