@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-17T01:51:53.082851Z",
+  "updated_at": "2026-01-17T02:06:41.647509Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 40,
+  "teams_count": 39,
   "sprint_task_count": 17,
   "workflow_run_count": 9,
   "calendar": [],
@@ -528,11 +528,6 @@
           "from": "John Beauford",
           "content": "Thank you",
           "createdDateTime": "2026-01-16T02:17:24.327Z"
-        },
-        {
-          "from": "Isaac Carpenter",
-          "content": "Okay great, I\u2019ll be home shortly and will test it and let BLN know after.",
-          "createdDateTime": "2026-01-16T02:01:10.714Z"
         }
       ],
       "type": "meeting"
