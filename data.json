@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-17T02:11:58.889185Z",
+  "updated_at": "2026-01-17T02:22:00.218164Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 39,
+  "teams_count": 38,
   "sprint_task_count": 17,
   "workflow_run_count": 9,
   "calendar": [],
@@ -523,11 +523,6 @@
           "from": "Isaac Carpenter",
           "content": "<p>Sorry for the late response, but I have tested in BLN's Prod Database myself in new and old forecasts, everything checks out and seems to be working and I also emailed to let them know all the details.</p>\n<p>&nbsp;</p>\n<p>Thanks everyone for all the help today.</p>",
           "createdDateTime": "2026-01-16T04:25:00.574Z"
-        },
-        {
-          "from": "John Beauford",
-          "content": "Thank you",
-          "createdDateTime": "2026-01-16T02:17:24.327Z"
         }
       ],
       "type": "meeting"
