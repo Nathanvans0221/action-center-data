@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-17T01:11:28.423859Z",
+  "updated_at": "2026-01-17T01:22:04.423124Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 41,
+  "teams_count": 40,
   "sprint_task_count": 17,
   "workflow_run_count": 9,
   "calendar": [],
@@ -533,11 +533,6 @@
           "from": "Isaac Carpenter",
           "content": "Okay great, I\u2019ll be home shortly and will test it and let BLN know after.",
           "createdDateTime": "2026-01-16T02:01:10.714Z"
-        },
-        {
-          "from": "Eric Whitlow",
-          "content": "<p>The app should be available in the store in a bit, new version is 1.4.4</p>",
-          "createdDateTime": "2026-01-16T01:19:37.333Z"
         }
       ],
       "type": "meeting"
