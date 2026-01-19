@@ -688,5 +688,81 @@
       }
     ]
   },
-  "yesterday": {}
+  "yesterday": {},
+  "standup": {
+    "generated_at": "2026-01-19T23:00:14.318675Z",
+    "for_date": "2026-01-20",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Attended Product Daily Huddle, Directors Weekly, Operations Weekly, and Company Weekly meetings",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Participated in Dev Huddle to align on technical priorities",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Led Product Bi Weekly meeting and completed Demo Prep session",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Reviewed 46 emails including cycle count redirect logic issue at e-ticket stores",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Attend Product Daily Huddle at 9:00 AM",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Attend Director Huddle at 9:15 AM",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Participate in GP transition Q&A session at 11:00 AM",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Lead Quarterly Product Review at 1:00 PM",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Address cycle count redirect logic fix for e-ticket stores",
+        "completed": false
+      },
+      {
+        "id": "t5",
+        "text": "Review Microsoft 365 security quarantine messages",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Follow up on action items from Demo Prep and Product Bi Weekly meetings",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Resolve cycle count redirect logic issue raised in email",
+        "completed": false
+      },
+      {
+        "id": "f2",
+        "text": "Address any outcomes from GP transition Q&A session",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-01-19T23:00:14.318675Z"
 }
