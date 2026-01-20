@@ -1268,27 +1268,32 @@
   },
   "yesterday": {},
   "standup": {
-    "generated_at": "2026-01-19T23:00:14.318675Z",
-    "for_date": "2026-01-20",
+    "generated_at": "2026-01-20T23:00:15.489431Z",
+    "for_date": "2026-01-21",
     "yesterday": [
       {
         "id": "y0",
-        "text": "Attended Product Daily Huddle, Directors Weekly, Operations Weekly, and Company Weekly meetings",
+        "text": "Attended Product Daily Huddle and Director Huddle to align on priorities",
         "completed": true
       },
       {
         "id": "y1",
-        "text": "Participated in Dev Huddle to align on technical priorities",
+        "text": "Participated in GP transition Q&A session to address team questions",
         "completed": true
       },
       {
         "id": "y2",
-        "text": "Led Product Bi Weekly meeting and completed Demo Prep session",
+        "text": "Led AI Brainstorming session (replaced Quarterly Product Review)",
         "completed": true
       },
       {
         "id": "y3",
-        "text": "Reviewed 46 emails including cycle count redirect logic issue at e-ticket stores",
+        "text": "Reviewed Demo Walkthrough and provided feedback",
+        "completed": true
+      },
+      {
+        "id": "y4",
+        "text": "Monitored active discussions across 12 Teams channels including Demo Prep (20 messages) and Operations Weekly (11 messages)",
         "completed": true
       }
     ],
@@ -1305,12 +1310,12 @@
       },
       {
         "id": "t2",
-        "text": "Participate in GP transition Q&A session at 11:00 AM",
+        "text": "Participate in E-Ticket Data Updates meeting at 11:30 AM",
         "completed": false
       },
       {
         "id": "t3",
-        "text": "Lead Quarterly Product Review at 1:00 PM",
+        "text": "Attend Dev Huddle at 12:00 PM",
         "completed": false
       },
       {
@@ -1327,20 +1332,20 @@
     "followups": [
       {
         "id": "f0",
-        "text": "Follow up on action items from Demo Prep and Product Bi Weekly meetings",
+        "text": "Follow up on action items from Demo Prep discussions (20 messages)",
         "completed": false
       },
       {
         "id": "f1",
-        "text": "Resolve cycle count redirect logic issue raised in email",
+        "text": "Address outcomes and action items from GP transition Q&A session",
         "completed": false
       },
       {
         "id": "f2",
-        "text": "Address any outcomes from GP transition Q&A session",
+        "text": "Resolve cycle count redirect logic issue for e-ticket stores",
         "completed": false
       }
     ]
   },
-  "standup_updated_at": "2026-01-19T23:00:14.318675Z"
+  "standup_updated_at": "2026-01-20T23:00:15.489431Z"
 }
