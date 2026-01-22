@@ -472,17 +472,27 @@
     }
   },
   "standup": {
-    "generated_at": "2026-01-22T16:31:09.863134Z",
-    "for_date": "2026-01-22",
+    "generated_at": "2026-01-22T23:00:14.739268Z",
+    "for_date": "2026-01-23",
     "yesterday": [
       {
         "id": "y0",
-        "text": "Notified BPF about release delay",
+        "text": "Attended Product Daily Huddle, Director Huddle, BPF Organics Sync, and DBR Demand Algorithm Review",
         "completed": true
       },
       {
         "id": "y1",
-        "text": "Responded to Directors chat about Fulfill offline capability",
+        "text": "Participated in discussions across Ops, Product, PRODUCE Support, and Directors Teams channels (40 messages total)",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Reviewed incoming emails including UI/UX feedback on search bar redesign and button standardization",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Coordinated on demand algorithm improvements during DBR review session",
         "completed": true
       }
     ],
@@ -499,17 +509,22 @@
       },
       {
         "id": "t2",
-        "text": "BPF Organics Sync at 09:30",
+        "text": "Kevin / Nathan Career Sync at 10:30",
         "completed": false
       },
       {
         "id": "t3",
-        "text": "DBR Demand Algorithm Review at 13:00",
+        "text": "Technology Quarterly Planning and Dev Huddle at 12:00",
         "completed": false
       },
       {
         "id": "t4",
-        "text": "Review and respond to unread emails",
+        "text": "Pickleball w The Boyz at 15:00",
+        "completed": false
+      },
+      {
+        "id": "t5",
+        "text": "Review and respond to unread emails (search bar redesign, button standardization requests)",
         "completed": false
       }
     ],
@@ -518,8 +533,18 @@
         "id": "f0",
         "text": "Respond to PRODUCE Support question about plants per pot",
         "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Reply to pending email: 'Nathan, I'm still waiting for your response'",
+        "completed": false
+      },
+      {
+        "id": "f2",
+        "text": "Address UI feedback on search bar integration and Cancel/Close button standardization across multiple requests",
+        "completed": false
       }
     ]
   },
-  "standup_updated_at": "2026-01-22T16:31:09.863403Z"
+  "standup_updated_at": "2026-01-22T23:00:14.739268Z"
 }
