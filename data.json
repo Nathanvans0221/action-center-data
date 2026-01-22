@@ -1,378 +1,525 @@
 {
+  "updated_at": "2026-01-22T16:31:09.863372Z",
+  "email_count": 30,
+  "calendar_count": 4,
+  "teams_count": 40,
+  "calendar": [
+    {
+      "subject": "Product Daily Huddle",
+      "start": "2026-01-22T09:00:00.0000000",
+      "end": "2026-01-22T09:15:00.0000000",
+      "location": "Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3llJL6TAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Director Huddle",
+      "start": "2026-01-22T09:15:00.0000000",
+      "end": "2026-01-22T09:30:00.0000000",
+      "location": "Microsoft Teams Meeting",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3llJL6TAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXHwAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "BPF Organics Sync",
+      "start": "2026-01-22T09:30:00.0000000",
+      "end": "2026-01-22T10:00:00.0000000",
+      "location": "Microsoft Teams Meeting",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQk%2FpB2AAA%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "DBR Demand Algorithm Review",
+      "start": "2026-01-22T13:00:00.0000000",
+      "end": "2026-01-22T14:00:00.0000000",
+      "location": "Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQfw6ifAAA%3D&exvsurl=1&path=/calendar/item"
+    }
+  ],
   "emails": [
     {
-      "subject": "Your Flight Receipt - NATHAN VANWINGERDEN 08APR26",
-      "from": "Delta Air Lines",
-      "fromEmail": "DeltaAirLines@t.delta.com",
-      "receivedDateTime": "2026-01-21T04:47:27Z",
+      "subject": "Search bar redesign - integrate into grid header",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-22T15:55:02Z",
       "isRead": false,
-      "preview": "Review the details of your purchase.\r\n\r\n\r\nView as a web page\r\n\r\n#9851093113\r\n | ",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk0y4CAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "View Kos Chekanov\u2019s post and your next steps",
+      "subject": "Nathan, I\u2019m still waiting for your response",
+      "from": "Cam (via LinkedIn)",
+      "receivedDateTime": "2026-01-22T15:29:32Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Replace Cancel buttons with Close, add X exit button",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-22T15:24:26Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Replace Cancel buttons with Close, add X exit button",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-22T15:24:08Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Replace Cancel buttons with Close, add X exit button",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-22T14:58:02Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Replace Cancel buttons with Close, add X exit button",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-22T14:57:59Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - Director Huddle",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-22T14:33:54Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Weekend Ready Flights from $38",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-01-22T14:18:22Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Get ready\u2014tax forms arrive soon",
+      "from": "TurboTax",
+      "receivedDateTime": "2026-01-22T14:17:03Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - Product Daily Huddle",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-22T14:07:46Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Weekend Ready Flights from $38",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-01-22T14:06:01Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "We've expanded the Sunfinity line-up AGAIN",
+      "from": "Syngenta Flowers",
+      "receivedDateTime": "2026-01-22T14:01:37Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Lexington Clinic is hiring a Senior Facilitator of Process Design",
       "from": "LinkedIn",
-      "fromEmail": "messages-noreply@linkedin.com",
-      "receivedDateTime": "2026-01-21T03:30:16Z",
-      "isRead": true,
-      "preview": "Recommended actions for you\r\n\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk0y4AAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+      "receivedDateTime": "2026-01-22T13:35:17Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BRAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Super Agents work like human teammates, 24/7",
-      "from": "ClickUp Team",
-      "fromEmail": "team@mail.clickup.com",
-      "receivedDateTime": "2026-01-21T03:04:59Z",
-      "isRead": true,
-      "preview": "Super Agents collaborate like humans with infinite skills.\r\n\u2007\r\n\u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk0y3%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+      "subject": "Meeting Prep: Product Daily Huddle",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-22T12:59:49Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Add visual indicator when grid filters are active",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-22T11:53:45Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Replace Cancel buttons with Close, add X exit button",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-22T11:47:27Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "25% off? See you at the beach \u2600\ufe0f",
+      "from": "Hotels.com",
+      "receivedDateTime": "2026-01-22T11:39:37Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "You appeared in 1 search",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-01-22T11:29:42Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Reminder: Silver Fern, is this Deal Information Correct? | PitchBook",
+      "from": "Jebesty Selvaraj",
+      "receivedDateTime": "2026-01-22T08:48:28Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Microsoft 365 security: You have messages in quarantine",
       "from": "quarantine@messaging.microsoft.com",
-      "fromEmail": "quarantine@messaging.microsoft.com",
-      "receivedDateTime": "2026-01-21T02:23:47Z",
-      "isRead": true,
-      "preview": "Review These Messages\r\n7 messages are being held for you to review as of 1/21/20",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQkyUcPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+      "receivedDateTime": "2026-01-22T05:30:59Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "3 people noticed you",
+      "subject": "Accepted: FULFILL & PRODUCE Review @ Tue Jan 27, 2026 1:30pm - 2:30pm (EST) (Nathan van Wingerden)",
+      "from": "Christina DiDio",
+      "receivedDateTime": "2026-01-22T04:25:15Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Accepted: BPF Organics Sync",
+      "from": "Chris Christensen",
+      "receivedDateTime": "2026-01-22T03:14:58Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Get 1 month of your personal AI DJ for $0",
+      "from": "Spotify",
+      "receivedDateTime": "2026-01-22T02:57:59Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Rayne Gibson and others share their thoughts on LinkedIn",
       "from": "LinkedIn",
-      "fromEmail": "messages-noreply@linkedin.com",
-      "receivedDateTime": "2026-01-21T01:30:59Z",
-      "isRead": true,
-      "preview": "See who is viewing your profile\r\n\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQkyUcOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Re: E-Ticket Table Changes for S26",
-      "from": "Leigh Taylor",
-      "fromEmail": "leigh.taylor@Bonnieplants.com",
-      "receivedDateTime": "2026-01-20T22:41:56Z",
-      "isRead": true,
-      "preview": "Meeting invite sent!\r\n\r\nThanks,\r\n\r\n\r\nLeigh Taylor\r\n\r\nDirector, IT Business Appli",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1c4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "E-Ticket Data Updates ",
-      "from": "Leigh Taylor",
-      "fromEmail": "leigh.taylor@Bonnieplants.com",
-      "receivedDateTime": "2026-01-20T22:41:37Z",
+      "receivedDateTime": "2026-01-22T01:52:53Z",
       "isRead": false,
-      "preview": "________________________________________________________________________________",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1c3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Fw: E-Ticket Table Changes for S26",
-      "from": "Leigh Taylor",
-      "fromEmail": "leigh.taylor@Bonnieplants.com",
-      "receivedDateTime": "2026-01-20T22:30:22Z",
-      "isRead": true,
-      "preview": "Can you join at any of these times?\r\n\r\n\r\nLeigh Taylor\r\n\r\nDirector, IT Business A",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1c2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Re: E-Ticket Table Changes for S26",
-      "from": "Dan Truitt",
-      "fromEmail": "dant@alafarm.com",
-      "receivedDateTime": "2026-01-20T22:22:25Z",
-      "isRead": true,
-      "preview": "I can.  Available until 9:45, 10:30-11 and after 12.\r\n\r\nDan\r\n\r\n\r\n_______________",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1c1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Re: E-Ticket Table Changes for S26",
-      "from": "Leigh Taylor",
-      "fromEmail": "leigh.taylor@Bonnieplants.com",
-      "receivedDateTime": "2026-01-20T22:18:48Z",
-      "isRead": true,
-      "preview": "Nathan,\r\n\r\nCan you, Dan and I jump on a call tomorrow to hash out of of these qu",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1c0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Re: E-Ticket Table Changes for S26",
-      "from": "Dan Truitt",
-      "fromEmail": "dant@alafarm.com",
-      "receivedDateTime": "2026-01-20T21:47:27Z",
-      "isRead": true,
-      "preview": "Nathan,\r\n\r\nI was waiting to here that your process that writes to the ETicketDtl",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1czAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Ready to scale in 2026?",
-      "from": "ClickUp Team",
-      "fromEmail": "team@mail.clickup.com",
-      "receivedDateTime": "2026-01-20T21:01:52Z",
-      "isRead": true,
-      "preview": "Accelerate your small business with AI Agents.\r\n\u2007\r\n\u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1cyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Re: E-Ticket Table Changes for S26",
-      "from": "Mike Diehl",
-      "fromEmail": "Mike.Diehl@improving.com",
-      "receivedDateTime": "2026-01-20T20:31:09Z",
-      "isRead": true,
-      "preview": "From the Improving side, we don't need to pause or restart anything in this depl",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1cxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Re: Looms - SKU Level / Kit Building",
-      "from": "Tyler Van Wingerden",
-      "fromEmail": "tyler@catoctinmtngrowers.com",
-      "receivedDateTime": "2026-01-20T20:02:17Z",
+      "subject": "Big January deals: Book now for 25%+ savings",
+      "from": "Expedia.com",
+      "receivedDateTime": "2026-01-22T00:04:40Z",
       "isRead": false,
-      "preview": "Sorry for the late reply. Yes tomorrow works. I have time available in the after",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1cwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Finding Your Career Path | Grow Forward",
-      "from": "AmericanHort",
-      "fromEmail": "Hello@AmericanHort.org",
-      "receivedDateTime": "2026-01-20T19:55:00Z",
-      "isRead": true,
-      "preview": "Coming up Jan. 28\r\n \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c ",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1cvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Your meeting recap - AI Brainstorming (replacing quarterly product review meeting)",
-      "from": "Fred from Fireflies.ai",
-      "fromEmail": "fred@fireflies.ai",
-      "receivedDateTime": "2026-01-20T19:29:10Z",
-      "isRead": true,
-      "preview": "Isaac Short\r\n\r\n(isaac.short@silverfern.com)\r\n\r\ninvited Fireflies to your meeting",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1cuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Re: reaching out - vercel",
-      "from": "Cam Robinson",
-      "fromEmail": "cam.robinson@vercel.com",
-      "receivedDateTime": "2026-01-20T19:12:09Z",
-      "isRead": true,
-      "preview": "One thing I meant to ask in my last e-mail that I thought may be relevant -\r\n\r\nW",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1ctAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Re: E-Ticket Table Changes for S26",
-      "from": "Leigh Taylor",
-      "fromEmail": "leigh.taylor@Bonnieplants.com",
-      "receivedDateTime": "2026-01-20T19:08:14Z",
-      "isRead": true,
-      "preview": "Thanks, Dan!\r\n\r\n@Elizabeth Dovre and the Improving team, are you guys ready to g",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1csAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "You have 2 new invitations",
-      "from": "LinkedIn",
-      "fromEmail": "notifications-noreply@linkedin.com",
-      "receivedDateTime": "2026-01-20T18:47:49Z",
+      "subject": "\u2728 Special edition:  Nathan\u2019s year in review \u2728",
+      "from": "TurboTax Monthly",
+      "receivedDateTime": "2026-01-21T23:21:56Z",
       "isRead": false,
-      "preview": "You have 2 new invitations\r\n\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f ",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1crAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Join Us Thursday for Customer Training",
-      "from": "TrueCommerce",
-      "fromEmail": "communications@tc.truecommerce.com",
-      "receivedDateTime": "2026-01-20T18:40:20Z",
-      "isRead": true,
-      "preview": "Learn how labels are created, avoid common issues, and get your questions answer",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQfw1cqAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    }
-  ],
-  "calendar": [
-    {
-      "subject": "E-Ticket Data Updates ",
-      "start": "2026-01-21T11:30:00.0000000",
-      "end": "2026-01-21T12:00:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQfw6ijAAA%3D&exvsurl=1&path=/calendar/item"
+      "subject": "Nathan, view your January 2026 account summary",
+      "from": "American Airlines AAdvantage Program",
+      "receivedDateTime": "2026-01-21T22:58:53Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BDAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Product Daily Huddle",
-      "start": "2026-01-21T09:00:00.0000000",
-      "end": "2026-01-21T09:15:00.0000000",
-      "location": "Batman",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3liABTsAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+      "subject": "Replace Cancel buttons with Close, add X exit button",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-21T22:32:59Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Director Huddle",
-      "start": "2026-01-21T09:15:00.0000000",
-      "end": "2026-01-21T09:30:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3liABTsAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXHwAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+      "subject": "Search bar redesign - integrate into grid header",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-21T22:32:01Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BBAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Dev Huddle",
-      "start": "2026-01-21T12:00:00.0000000",
-      "end": "2026-01-21T12:15:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3liABTsAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAEH8OooAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+      "subject": "Add visual indicator when grid filters are active",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-21T22:29:45Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "ops": {
       "name": "Ops",
-      "messages": []
+      "messages": [
+        {
+          "from": "Nathan van Wingerden",
+          "content": "Release not going out tonight, seems there is still issues we are dealing with. I let BPF know",
+          "createdDateTime": "2026-01-21T23:43:52.529Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "",
+          "createdDateTime": "2026-01-21T20:06:32.813Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "TL;DR: the importer was shut off before finishing, so a lot of old items were in there. Once they turned it back on, the items all updated, so it looked like it moved everything to ready when it reall",
+          "createdDateTime": "2026-01-21T19:48:47.607Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "hold on, may not have any issues",
+          "createdDateTime": "2026-01-21T19:44:27.728Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "or just put it in the group chat",
+          "createdDateTime": "2026-01-21T19:44:15.002Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "Sheesh...please get a note to Leigh and Caitlyn...with me on it",
+          "createdDateTime": "2026-01-21T19:44:08.747Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "i ran a negative adjustment on an organic item and it output every single organic item in grow to ready which it def should not have.",
+          "createdDateTime": "2026-01-21T19:42:06.775Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "What is it? We need to let BPF know asap. better to keep them updated than to wait and hope we can get it out",
+          "createdDateTime": "2026-01-21T19:40:56.603Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "",
+          "createdDateTime": "2026-01-21T19:37:51.705Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "FYI, I found a bug with finish organics while testing it in stage. Ethan is looking into it, but it's not looking great for release tonight. i have no clue how it wasn't found until now, but will keep",
+          "createdDateTime": "2026-01-21T19:37:10.722Z"
+        }
+      ]
     },
     "product": {
       "name": "Product",
-      "messages": []
+      "messages": [
+        {
+          "from": "Kevin Short",
+          "content": "https://youtu.be/u5GkG71PkR0?si=JG7acp-Hy-6q2QPc One of the more helpful videos I\u2019ve found on: - specialized self validation - working on system of systems - inserting determinism into Claude workflow",
+          "createdDateTime": "2026-01-21T10:12:11.299Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "Directionally aligned with where tech team is going",
+          "createdDateTime": "2026-01-21T10:12:35.226Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "Isaac Nathan - these are both worth considering/trying for various scoping/development automation efforts: 1) Gemini Code Assist | AI coding assistant - great for research and UI ideas 2) Codex | Open",
+          "createdDateTime": "2026-01-19T14:34:09.188Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "gemini defaults to 2.5, so update with /model",
+          "createdDateTime": "2026-01-19T14:38:49.595Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "I've started using them to check claude's work which has also been helpful",
+          "createdDateTime": "2026-01-19T14:35:18.413Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "Claude seems to be down",
+          "createdDateTime": "2026-01-12T18:43:51.144Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "Very nice!",
+          "createdDateTime": "2026-01-07T14:12:09.213Z"
+        },
+        {
+          "from": "Isaac Short",
+          "content": "Wireframe dashboard - wireframe-directory.netlify.app PW: SFwireframedirectory",
+          "createdDateTime": "2026-01-07T14:10:47.33Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "make sure all your repos are private in github fyi. claude sometimes sets them up as public",
+          "createdDateTime": "2025-12-31T22:33:57.438Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "",
+          "createdDateTime": "2025-12-31T18:00:00.847Z"
+        }
+      ]
     },
-    "support": {
+    "produce_support": {
       "name": "PRODUCE Support",
-      "messages": []
+      "messages": [
+        {
+          "from": "Jon Bebus",
+          "content": "Nathan van Wingerden Question about plants per pot. User believes they have 2 ppp of one of the components in a custom combo. The schedule only shows 1.",
+          "createdDateTime": "2026-01-20T20:36:27.751Z"
+        },
+        {
+          "from": "Brian Strahan",
+          "content": "We should discuss GLG New Tag Report they want also. Would be helpful to know what triggers charges to the customer.",
+          "createdDateTime": "2026-01-14T17:53:20.319Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "They should be charged for report adjustments. This week is pretty insane for me with meetings and planning. I cant get on a call next week and maybe we can walk through some of this stuff. Let me che",
+          "createdDateTime": "2026-01-14T17:42:40.946Z"
+        },
+        {
+          "from": "Jon Bebus",
+          "content": "Nathan, need some direction on Reports. Catoctin has a metric butt ton of report request in Intercom and we are struggling to help her. If a user starts a report themselves is it only available to tha",
+          "createdDateTime": "2026-01-13T21:08:30.042Z"
+        },
+        {
+          "from": "Brian Strahan",
+          "content": "Any word on this yet Nathan?",
+          "createdDateTime": "2026-01-08T22:35:30.794Z"
+        },
+        {
+          "from": "Jon Bebus",
+          "content": "We should meet.",
+          "createdDateTime": "2026-01-08T16:39:38.103Z"
+        },
+        {
+          "from": "Brian Strahan",
+          "content": "Not Really - there are some bits and pieces documents. We stopped sending out 3 Ring Binders of Printed Docs a long time ago. We realized everyone does things a bit different - some are simple their C",
+          "createdDateTime": "2026-01-08T16:20:32.903Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "Is there any documentation on this?",
+          "createdDateTime": "2026-01-08T16:11:54.75Z"
+        },
+        {
+          "from": "Brian Strahan",
+          "content": "That is a small and huge question. Probably be a good conversation to have with Jon and I when he returns from the show next week. The short of it, everything from AR - Sales Orders, Payments, Credits",
+          "createdDateTime": "2026-01-08T15:51:57.917Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "Jon , Brian Strahan , can you get me a detailed list of all the functionality in Growpoint accounting? I'm working on a comprehensive doc explaining what Fulfill will do, and what it won't do for acco",
+          "createdDateTime": "2026-01-08T15:42:24.373Z"
+        }
+      ]
     },
     "directors": {
       "name": "Directors",
-      "messages": []
+      "messages": [
+        {
+          "from": "Nathan van Wingerden",
+          "content": "Fulfill availability does work offline. It syncs data locally and allows the user to collect counts, then post them once they're back online.",
+          "createdDateTime": "2026-01-21T15:14:20.22Z"
+        },
+        {
+          "from": "Kennedy Kirk",
+          "content": "Do we intend for them to work offline Nathan ?",
+          "createdDateTime": "2026-01-21T14:28:35.859Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "No, it does not",
+          "createdDateTime": "2026-01-21T14:27:50.464Z"
+        },
+        {
+          "from": "Kennedy Kirk",
+          "content": "Is it true that all mobile apps ( not bonnie apps ) for wsapi will work offline? Does fulfill availability app work this way?",
+          "createdDateTime": "2026-01-21T14:27:29.518Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "",
+          "createdDateTime": "2026-01-12T14:46:37.082Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "yes",
+          "createdDateTime": "2026-01-06T15:08:13.362Z"
+        },
+        {
+          "from": "Kennedy Kirk",
+          "content": "Do we currently release on Mondays after sprint planning week?",
+          "createdDateTime": "2026-01-06T14:53:10.611Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "Kennedy , I won\u2019t make it on sync this morning! Happy new year.",
+          "createdDateTime": "2025-12-31T14:12:40.979Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "Morning. I'll basically be out today. I have a Dr appointment this morning and then we are travelling to Columbus OH to celebrate the New Year with my brother's family. Happy New Year!",
+          "createdDateTime": "2025-12-31T12:06:50.159Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "No, its only through worksuite atm",
+          "createdDateTime": "2025-12-29T17:39:05.774Z"
+        }
+      ]
     }
   },
-  "yesterday": {
-    "meetings": [
-      {
-        "subject": "Demo Walkthrough",
-        "start": "2026-01-20T09:15:00.0000000",
-        "isAllDay": false
-      },
-      {
-        "subject": "GP transition Q&A ",
-        "start": "2026-01-20T11:00:00.0000000",
-        "isAllDay": false
-      },
-      {
-        "subject": "AI Brainstorming (replacing quarterly product review meeting)",
-        "start": "2026-01-20T13:00:00.0000000",
-        "isAllDay": false
-      },
-      {
-        "subject": "Product Daily Huddle",
-        "start": "2026-01-20T09:00:00.0000000",
-        "isAllDay": false
-      },
-      {
-        "subject": "Director Huddle",
-        "start": "2026-01-20T09:15:00.0000000",
-        "isAllDay": false
-      }
-    ],
-    "emails_sent": [
-      {
-        "subject": "Accepted: E-Ticket Data Updates ",
-        "to": "Leigh Taylor",
-        "sentDateTime": "2026-01-20T22:42:54Z"
-      },
-      {
-        "subject": "E-Ticket Data Updates ",
-        "to": "Chris Christensen",
-        "sentDateTime": "2026-01-20T22:42:49Z"
-      },
-      {
-        "subject": "Re: E-Ticket Table Changes for S26",
-        "to": "Dan Truitt, Leigh Taylor, Mike Diehl",
-        "sentDateTime": "2026-01-20T22:37:15Z"
-      },
-      {
-        "subject": "Re: E-Ticket Table Changes for S26",
-        "to": "Dan Truitt, Mike Diehl, Leigh Taylor",
-        "sentDateTime": "2026-01-20T22:09:43Z"
-      },
-      {
-        "subject": "Re: E-Ticket Table Changes for S26",
-        "to": "Mike Diehl, Leigh Taylor, Dan Truitt",
-        "sentDateTime": "2026-01-20T21:43:36Z"
-      },
-      {
-        "subject": "Demo Walkthrough",
-        "to": "Stephen van Wingerden",
-        "sentDateTime": "2026-01-20T13:31:33Z"
-      },
-      {
-        "subject": "Demo Walkthrough",
-        "to": "Stephen van Wingerden",
-        "sentDateTime": "2026-01-20T05:31:28Z"
-      }
-    ],
-    "teams_sent": []
-  },
-  "email_count": 50,
-  "calendar_count": 4,
-  "teams_count": 0,
-  "updated_at": "2026-01-21T07:45:12.264686+00:00",
   "standup": {
-    "generated_at": "2026-01-21T23:00:15.267640Z",
+    "generated_at": "2026-01-22T16:31:09.863134Z",
     "for_date": "2026-01-22",
     "yesterday": [
       {
         "id": "y0",
-        "text": "Participated in Product Daily Huddle to align on team priorities",
+        "text": "Notified BPF about release delay",
         "completed": true
       },
       {
         "id": "y1",
-        "text": "Reviewed Kennedy's questions in hour-long session to address outstanding concerns",
-        "completed": true
-      },
-      {
-        "id": "y2",
-        "text": "Discussed E-Ticket Data Updates in dedicated meeting with stakeholders",
-        "completed": true
-      },
-      {
-        "id": "y3",
-        "text": "Attended Dev Huddle to sync with engineering team on technical progress",
+        "text": "Responded to Directors chat about Fulfill offline capability",
         "completed": true
       }
     ],
     "today": [
       {
         "id": "t0",
-        "text": "Attend Product Daily Huddle at 9:00 AM",
+        "text": "Product Daily Huddle at 09:00",
         "completed": false
       },
       {
         "id": "t1",
-        "text": "Participate in Director Huddle at 9:15 AM",
+        "text": "Director Huddle at 09:15",
         "completed": false
       },
       {
         "id": "t2",
-        "text": "Join DBR Demand Algorithm Review at 1:00 PM to evaluate algorithm performance",
+        "text": "BPF Organics Sync at 09:30",
         "completed": false
       },
       {
         "id": "t3",
-        "text": "Review and respond to unread emails including SKU Level/Kit Building Looms discussion",
+        "text": "DBR Demand Algorithm Review at 13:00",
         "completed": false
       },
       {
         "id": "t4",
-        "text": "Follow up on flight receipt for April 8th travel arrangements",
+        "text": "Review and respond to unread emails",
         "completed": false
       }
     ],
     "followups": [
       {
         "id": "f0",
-        "text": "Address action items from Kennedy's questions review session",
-        "completed": false
-      },
-      {
-        "id": "f1",
-        "text": "Respond to Looms thread regarding SKU Level and Kit Building",
-        "completed": false
-      },
-      {
-        "id": "f2",
-        "text": "Review 2 new calendar invitations and accept/decline as appropriate",
+        "text": "Respond to PRODUCE Support question about plants per pot",
         "completed": false
       }
     ]
   },
-  "standup_updated_at": "2026-01-21T23:00:15.267640Z"
+  "standup_updated_at": "2026-01-22T16:31:09.863403Z"
 }
