@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T21:00:53.255335Z",
+  "updated_at": "2026-01-23T21:10:52.714589Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 41,
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Now boarding: Free Wi-Fi for AAdvantage\u00ae members, sponsored by AT&T ",
+      "from": "American Airlines AAdvantage Program",
+      "receivedDateTime": "2026-01-23T21:05:07Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2F6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Finish User Setup Multi-Station Support",
       "from": "Silver Fern",
@@ -390,13 +397,6 @@
       "receivedDateTime": "2026-01-23T13:28:20Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Meeting Prep: Director Huddle",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-01-23T13:11:14Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
