@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T14:10:50.378169Z",
+  "updated_at": "2026-01-23T14:20:50.447838Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 47,
+  "teams_count": 50,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -56,6 +56,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "RE: Technology Quarterly Planning",
+      "from": "John Beauford",
+      "receivedDateTime": "2026-01-23T14:17:53Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Product Roadmap Discussion: Silver Fern & Ingestro",
       "from": "Anna Mueller",
@@ -398,81 +405,37 @@
       "receivedDateTime": "2026-01-22T18:25:12Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Last Chance: Enter to Win Roundtrip Airfare for Four",
-      "from": "Allegiant",
-      "receivedDateTime": "2026-01-22T18:12:52Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
-    "product_daily_huddle": {
-      "name": "Product Daily Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T14:00:05.756Z"
-        },
-        {
-          "from": "Isaac Short",
-          "content": "<ul>\n<li>test runs of auto-dev pipeline</li><li>maybe meet with Gabby and Kevin to go over branches created with auto-dev pipeline&nbsp;</li><li>start moving Recast to github&nbsp;</li><li>refine other wireframes</li></ul>",
-          "createdDateTime": "2026-01-23T12:23:54.945Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>not going to be on this tomorrow AM. please send stand up in chat</p>",
-          "createdDateTime": "2026-01-23T08:44:09.449Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "director_huddle": {
-      "name": "Director Huddle",
-      "messages": [
-        {
-          "from": "Chris Christensen",
-          "content": "<p>Everything okay?</p>",
-          "createdDateTime": "2026-01-23T13:06:44.764Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
-          "createdDateTime": "2026-01-23T08:45:07.883Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:32:16.84Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:32:11.282Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFDY4NHS6D9VYJ1XQ2XSNS47?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfdy4nhs6d9vyj1xq2xsns47?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFDY4NHS6D9VYJ1XQ2XSNS47?ref=live_chat</a></p>",
-          "createdDateTime": "2026-01-22T14:17:12.864Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:15:57.449Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:15:03.307Z"
-        }
-      ],
-      "type": "meeting"
-    },
     "bonnie_+_silver_fern": {
       "name": "Bonnie + Silver Fern",
       "messages": [
+        {
+          "from": "Isaac Carpenter",
+          "content": "<p>Okay, looking into it!</p>",
+          "createdDateTime": "2026-01-23T14:20:12.237Z"
+        },
+        {
+          "from": "Sarah Hall",
+          "content": "<p>I am getting error now after I hit the updated version&nbsp;</p>",
+          "createdDateTime": "2026-01-23T14:15:21.438Z"
+        },
+        {
+          "from": "Leigh Taylor",
+          "content": "<p>Sarah was able to get by this</p>",
+          "createdDateTime": "2026-01-23T14:14:38.62Z"
+        },
+        {
+          "from": "Leigh Taylor",
+          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:cbb862cfeb084a7eb035cdb68c88db0f@thread.v2/messages/1769177653311/hostedContents/aWQ9eF8wLWV1cy1kMTEtMDJlZjRmMDlmYWZjMjU3ZDBlZWEwYWI5YThjYWM0NjUsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDExLTAyZWY0ZjA5ZmFmYzI1N2QwZWVhMGFiOWE4Y2FjNDY1L3ZpZXdzL2ltZ28=/$value\" width=\"445.3828828828829\" height=\"250\" alt=\"image\" itemid=\"0-eus-d11-02ef4f09fafc257d0eea0ab9a8cac465\"></p>",
+          "createdDateTime": "2026-01-23T14:14:13.311Z"
+        },
+        {
+          "from": "Leigh Taylor",
+          "content": "<p>Good morning - I am getting an error \"Failed to Create Session\" testing Restock Load Lists when I select \"Routes\"</p>",
+          "createdDateTime": "2026-01-23T14:14:09.679Z"
+        },
         {
           "from": "Isaac Carpenter",
           "content": "<p>Hey guys,</p>\n<p>&nbsp;</p>\n<p>We\u2019re working through the RESTOCK Demand Based Replenishment setup and need a historical sales file with all sales from 2022 through today. This should just use the same layout and format as the current daily POS files we\u2019re receiving. This can be placed on the FTP server like the other files we are getting as well.</p>\n<p>&nbsp;</p>\n<p>We only need this for Dan\u2019s station, 035, for now since he\u2019s the only station piloting.</p>\n<p>&nbsp;</p>\n<p>Let me know if that makes sense or if anything needs clarification.</p>\n<p>&nbsp;</p>",
@@ -547,14 +510,66 @@
           "from": "Nathan van Wingerden",
           "content": "<p>Also, here are the release notes: <a href=\"https://doc.clickup.com/8599297/p/h/86dr1-337494/a50fd7f381cb930\" rel=\"noreferrer noopener\" title=\"https://doc.clickup.com/8599297/p/h/86dr1-337494/a50fd7f381cb930\" target=\"_blank\">https://doc.clickup.com/8599297/p/h/86dr1-337494/a50fd7f381cb930</a></p>",
           "createdDateTime": "2026-01-22T17:33:50.328Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p><at id=\"0\">Leigh</at>, wanted to give you an update - we are making progress, but are still dealing with addressing the bug we found yesterday. I am hopeful to have it wrapped up by this afternoon, but I&nbsp;will keep you posted.&nbsp;</p>\n<p>&nbsp;</p>\n<p><at id=\"1\">Caitlyn</at>, can you create an Organic Item in Chino Valley that only has a grow status? As in, no item in&nbsp;ready.&nbsp;</p>",
-          "createdDateTime": "2026-01-22T17:31:14.311Z"
         }
       ],
       "type": "group"
+    },
+    "product_daily_huddle": {
+      "name": "Product Daily Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:16:41.334Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:00:05.756Z"
+        },
+        {
+          "from": "Isaac Short",
+          "content": "<ul>\n<li>test runs of auto-dev pipeline</li><li>maybe meet with Gabby and Kevin to go over branches created with auto-dev pipeline&nbsp;</li><li>start moving Recast to github&nbsp;</li><li>refine other wireframes</li></ul>",
+          "createdDateTime": "2026-01-23T12:23:54.945Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>not going to be on this tomorrow AM. please send stand up in chat</p>",
+          "createdDateTime": "2026-01-23T08:44:09.449Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "director_huddle": {
+      "name": "Director Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:13:22.671Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "<p>Everything okay?</p>",
+          "createdDateTime": "2026-01-23T13:06:44.764Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
+          "createdDateTime": "2026-01-23T08:45:07.883Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-22T14:32:16.84Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-22T14:32:11.282Z"
+        }
+      ],
+      "type": "meeting"
     },
     "dbr_demand_algorithm_review": {
       "name": "DBR Demand Algorithm Review",
