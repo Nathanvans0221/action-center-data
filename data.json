@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T23:20:51.481379Z",
+  "updated_at": "2026-01-23T23:30:51.910605Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 41,
@@ -650,11 +650,6 @@
           "createdDateTime": "2026-01-23T08:44:09.449Z"
         }
       ],
-      "type": "meeting"
-    },
-    "dbr_demand_algorithm_review": {
-      "name": "DBR Demand Algorithm Review",
-      "messages": [],
       "type": "meeting"
     }
   },
