@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T20:00:53.158071Z",
+  "updated_at": "2026-01-23T20:10:53.104380Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 39,
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Finish User Setup Multi-Station Support",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T20:01:15Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2F4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Finish User Setup Multi-Station Support",
       "from": "Silver Fern",
@@ -390,13 +397,6 @@
       "receivedDateTime": "2026-01-23T12:56:28Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Add visual indicator when grid filters are active",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T12:56:27Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
