@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T19:10:52.349749Z",
+  "updated_at": "2026-01-23T19:20:52.289414Z",
   "email_count": 50,
   "calendar_count": 5,
-  "teams_count": 38,
+  "teams_count": 39,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -48,6 +48,27 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Re: reaching out - vercel",
+      "from": "Cam Robinson",
+      "receivedDateTime": "2026-01-23T19:12:33Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2F1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Search bar redesign - integrate into grid header",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T19:11:06Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2F0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Add visual indicator when grid filters are active",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T19:10:56Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Replace Cancel buttons with Close, add X exit button",
       "from": "Silver Fern",
@@ -376,33 +397,27 @@
       "receivedDateTime": "2026-01-23T12:34:45Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Microsoft 365 security: You have messages in quarantine",
-      "from": "quarantine@messaging.microsoft.com",
-      "receivedDateTime": "2026-01-23T07:31:13Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FDAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "OAN Chapter Connection Night: Join us on Wednesday, February 4",
-      "from": "Oregon Association of Nurseries",
-      "receivedDateTime": "2026-01-23T04:04:57Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Search bar redesign - integrate into grid header",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T03:55:21Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FBAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "group_chat": {
       "name": "Group Chat",
       "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T19:14:45.781Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T19:13:43.409Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T19:13:40.023Z"
+        },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
@@ -623,18 +638,7 @@
     },
     "dbr_demand_algorithm_review": {
       "name": "DBR Demand Algorithm Review",
-      "messages": [
-        {
-          "from": "Isaac Carpenter",
-          "content": "<attachment id=\"e6e0d2db-f2a2-40e7-a5c4-91fb9c4b348e\"></attachment>",
-          "createdDateTime": "2026-01-22T19:13:06.096Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T19:11:39.683Z"
-        }
-      ],
+      "messages": [],
       "type": "meeting"
     }
   },
