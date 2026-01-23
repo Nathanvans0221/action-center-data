@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T14:20:50.447838Z",
+  "updated_at": "2026-01-23T14:40:50.836356Z",
   "email_count": 50,
-  "calendar_count": 6,
-  "teams_count": 50,
+  "calendar_count": 5,
+  "teams_count": 44,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -21,14 +21,6 @@
       "location": "Pickleball Zone Bend",
       "isAllDay": false,
       "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQk0yoVAAA%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Technology Quarterly Planning",
-      "start": "2026-01-23T12:00:00.0000000",
-      "end": "2026-01-23T16:30:00.0000000",
-      "location": "Microsoft Teams Meeting; Batman",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3k8SCEYAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQADmyVSrgAAEA%3D%3D&exvsurl=1&path=/calendar/item"
     },
     {
       "subject": "Product Daily Huddle",
@@ -60,7 +52,7 @@
       "subject": "RE: Technology Quarterly Planning",
       "from": "John Beauford",
       "receivedDateTime": "2026-01-23T14:17:53Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
@@ -408,6 +400,32 @@
     }
   ],
   "teams": {
+    "director_huddle": {
+      "name": "Director Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:25:01.336Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:13:22.671Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "<p>Everything okay?</p>",
+          "createdDateTime": "2026-01-23T13:06:44.764Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
+          "createdDateTime": "2026-01-23T08:45:07.883Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "bonnie_+_silver_fern": {
       "name": "Bonnie + Silver Fern",
       "messages": [
@@ -540,37 +558,6 @@
       ],
       "type": "meeting"
     },
-    "director_huddle": {
-      "name": "Director Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T14:13:22.671Z"
-        },
-        {
-          "from": "Chris Christensen",
-          "content": "<p>Everything okay?</p>",
-          "createdDateTime": "2026-01-23T13:06:44.764Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
-          "createdDateTime": "2026-01-23T08:45:07.883Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:32:16.84Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:32:11.282Z"
-        }
-      ],
-      "type": "meeting"
-    },
     "dbr_demand_algorithm_review": {
       "name": "DBR Demand Algorithm Review",
       "messages": [
@@ -659,31 +646,6 @@
           "from": "Chris Christensen",
           "content": "<p><span style=\"font-size:inherit\">+55 31 999888955</span></p>",
           "createdDateTime": "2026-01-22T15:22:45.665Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFHN6BCZFY80NJC9DQ1M2KC1?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfhn6bczfy80njc9dq1m2kc1?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFHN6BCZFY80NJC9DQ1M2KC1?ref=live_chat</a></p>",
-          "createdDateTime": "2026-01-22T14:31:43.319Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:30:43.873Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:30:39.943Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:30:29.204Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:30:03.942Z"
         }
       ],
       "type": "meeting"
