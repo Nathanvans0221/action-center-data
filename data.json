@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T15:30:51.281785Z",
+  "updated_at": "2026-01-23T15:40:50.435911Z",
   "email_count": 50,
   "calendar_count": 5,
-  "teams_count": 44,
+  "teams_count": 48,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -48,6 +48,20 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Add visual indicator when grid filters are active",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T15:32:52Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Add visual indicator when grid filters are active",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T15:32:46Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Search bar redesign - integrate into grid header",
       "from": "Silver Fern",
@@ -383,60 +397,9 @@
       "receivedDateTime": "2026-01-22T23:13:52Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Add visual indicator when grid filters are active",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-22T22:59:20Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Autodesk to cut 7% of jobs",
-      "from": "LinkedIn News",
-      "receivedDateTime": "2026-01-22T22:53:14Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BqAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
-    "kevin_/_nathan_career_sync": {
-      "name": "Kevin / Nathan Career Sync",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:30:04.461Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "director_huddle": {
-      "name": "Director Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T14:25:01.336Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T14:13:22.671Z"
-        },
-        {
-          "from": "Chris Christensen",
-          "content": "<p>Everything okay?</p>",
-          "createdDateTime": "2026-01-23T13:06:44.764Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
-          "createdDateTime": "2026-01-23T08:45:07.883Z"
-        }
-      ],
-      "type": "meeting"
-    },
     "bonnie_+_silver_fern": {
       "name": "Bonnie + Silver Fern",
       "messages": [
@@ -547,6 +510,11 @@
       "name": "Product Daily Huddle",
       "messages": [
         {
+          "from": "Isaac Short",
+          "content": "<ul>\n<li>test runs of auto-dev pipeline</li><li>maybe meet with Gabby and Kevin to go over branches created with auto-dev pipeline&nbsp;</li><li>start moving Recast to github&nbsp;</li><li>refine other wireframes</li></ul>",
+          "createdDateTime": "2026-01-23T12:23:54.945Z"
+        },
+        {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-23T14:16:41.334Z"
@@ -557,14 +525,66 @@
           "createdDateTime": "2026-01-23T14:00:05.756Z"
         },
         {
-          "from": "Isaac Short",
-          "content": "<ul>\n<li>test runs of auto-dev pipeline</li><li>maybe meet with Gabby and Kevin to go over branches created with auto-dev pipeline&nbsp;</li><li>start moving Recast to github&nbsp;</li><li>refine other wireframes</li></ul>",
-          "createdDateTime": "2026-01-23T12:23:54.945Z"
-        },
-        {
           "from": "Nathan van Wingerden",
           "content": "<p>not going to be on this tomorrow AM. please send stand up in chat</p>",
           "createdDateTime": "2026-01-23T08:44:09.449Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "kevin_/_nathan_career_sync": {
+      "name": "Kevin / Nathan Career Sync",
+      "messages": [
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfh3zzebntpn0gdvctaws3nt?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat</a></p>",
+          "createdDateTime": "2026-01-23T15:32:34.289Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:32:16.221Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:32:12.505Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:31:22.046Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:30:04.461Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "director_huddle": {
+      "name": "Director Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:25:01.336Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:13:22.671Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "<p>Everything okay?</p>",
+          "createdDateTime": "2026-01-23T13:06:44.764Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
+          "createdDateTime": "2026-01-23T08:45:07.883Z"
         }
       ],
       "type": "meeting"
