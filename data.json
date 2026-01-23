@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T16:40:52.031241Z",
+  "updated_at": "2026-01-23T16:50:53.991358Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 53,
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Portugal Cuts in Nature\u2019s Pallette of Vibrant Colors Nathan",
+      "from": "Renaissance",
+      "receivedDateTime": "2026-01-23T16:50:07Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Add visual indicator when grid filters are active",
       "from": "Silver Fern",
@@ -390,13 +397,6 @@
       "receivedDateTime": "2026-01-22T23:52:35Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Nathan, do you know William Brentlinger, Chief Executive Officer at Gallery Homes?",
-      "from": "LinkedIn",
-      "receivedDateTime": "2026-01-22T23:36:54Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
