@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T15:00:51.816601Z",
+  "updated_at": "2026-01-23T15:10:51.582132Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 44,
@@ -48,6 +48,27 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Add visual indicator when grid filters are active",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T15:05:11Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Search bar redesign - integrate into grid header",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T15:05:00Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Replace Cancel buttons with Close, add X exit button",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T15:04:51Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "RE: Technology Quarterly Planning",
       "from": "John Beauford",
@@ -376,59 +397,22 @@
       "receivedDateTime": "2026-01-22T18:38:30Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BmAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Re: Adding Produce Groups to Reports",
-      "from": "Cora Wyers",
-      "receivedDateTime": "2026-01-22T18:28:33Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "GrowPoint Transition Q&A #3 - Recording, Q&A, and Next Steps",
-      "from": "Kennedy Kirk at Silver Fern and Advanced Grower Solutions",
-      "receivedDateTime": "2026-01-22T18:27:07Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Starting soon! Your path to scaling in 2026.",
-      "from": "ClickUp Team",
-      "receivedDateTime": "2026-01-22T18:25:12Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
-    "director_huddle": {
-      "name": "Director Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T14:25:01.336Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T14:13:22.671Z"
-        },
-        {
-          "from": "Chris Christensen",
-          "content": "<p>Everything okay?</p>",
-          "createdDateTime": "2026-01-23T13:06:44.764Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
-          "createdDateTime": "2026-01-23T08:45:07.883Z"
-        }
-      ],
-      "type": "meeting"
-    },
     "bonnie_+_silver_fern": {
       "name": "Bonnie + Silver Fern",
       "messages": [
+        {
+          "from": "Sarah Hall",
+          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:cbb862cfeb084a7eb035cdb68c88db0f@thread.v2/messages/1769180585060/hostedContents/aWQ9eF8wLWV1cy1kMTktM2I4ZDA5ZTkyMDVlOGZiYzk2Yjg2NjhiNmY3MzQ5OTgsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDE5LTNiOGQwOWU5MjA1ZThmYmM5NmI4NjY4YjZmNzM0OTk4L3ZpZXdzL2ltZ28=/$value\" width=\"529.8913043478261\" height=\"250\" alt=\"image\" itemid=\"0-eus-d19-3b8d09e9205e8fbc96b8668b6f734998\"></p>",
+          "createdDateTime": "2026-01-23T15:03:05.06Z"
+        },
+        {
+          "from": "Isaac Carpenter",
+          "content": "<div><at id=\"0\">Leigh</at>, <at id=\"1\">Sarah</at> - would one of you all be able to look at the actual error log after you get the error and screenshot it so we can see the error there? That will make it easier for the developers to diagnose! After the error if you don\u2019t see anything in there please let me know.</div>",
+          "createdDateTime": "2026-01-23T15:01:49.166Z"
+        },
         {
           "from": "Isaac Carpenter",
           "content": "<p>Okay, looking into it!</p>",
@@ -518,19 +502,35 @@
           "from": "Leigh Taylor",
           "content": "<p><at id=\"0\">Nathan</at>&nbsp;<at id=\"1\">Wilson</at>&nbsp;<at id=\"2\">Kevin</at>&nbsp;<at id=\"3\">Short</at>, Can you guys give me an ETA on allowing our AR department having access to all customers in Fulfill. I know we have talked about this a few times but I don't see a ticket in Clickup.&nbsp;</p>",
           "createdDateTime": "2026-01-22T18:22:53.301Z"
-        },
-        {
-          "from": "Caitlyn Tomblin",
-          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:cbb862cfeb084a7eb035cdb68c88db0f@thread.v2/messages/1769104608993/hostedContents/aWQ9eF8wLWV1cy1kMTktMzg5MDY2ZjVlYTM2ODQzYjc0MDMyNzk4OWI1OGYzZGQsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDE5LTM4OTA2NmY1ZWEzNjg0M2I3NDAzMjc5ODliNThmM2RkL3ZpZXdzL2ltZ28=/$value\" width=\"1730\" height=\"237\" alt=\"image\" itemid=\"0-eus-d19-389066f5ea36843b740327989b58f3dd\"></p>",
-          "createdDateTime": "2026-01-22T17:56:48.993Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>Also, here are the release notes: <a href=\"https://doc.clickup.com/8599297/p/h/86dr1-337494/a50fd7f381cb930\" rel=\"noreferrer noopener\" title=\"https://doc.clickup.com/8599297/p/h/86dr1-337494/a50fd7f381cb930\" target=\"_blank\">https://doc.clickup.com/8599297/p/h/86dr1-337494/a50fd7f381cb930</a></p>",
-          "createdDateTime": "2026-01-22T17:33:50.328Z"
         }
       ],
       "type": "group"
+    },
+    "director_huddle": {
+      "name": "Director Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:25:01.336Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:13:22.671Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "<p>Everything okay?</p>",
+          "createdDateTime": "2026-01-23T13:06:44.764Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
+          "createdDateTime": "2026-01-23T08:45:07.883Z"
+        }
+      ],
+      "type": "meeting"
     },
     "product_daily_huddle": {
       "name": "Product Daily Huddle",
