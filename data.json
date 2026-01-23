@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T15:50:50.412884Z",
+  "updated_at": "2026-01-23T16:00:51.901396Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 51,
@@ -400,55 +400,19 @@
     }
   ],
   "teams": {
-    "kevin_/_nathan_career_sync": {
-      "name": "Kevin / Nathan Career Sync",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:50:44.911Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:48:44.012Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:48:31.825Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfh3zzebntpn0gdvctaws3nt?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat</a></p>",
-          "createdDateTime": "2026-01-23T15:32:34.289Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:32:16.221Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:32:12.505Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:31:22.046Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:30:04.461Z"
-        }
-      ],
-      "type": "meeting"
-    },
     "bonnie_+_silver_fern": {
       "name": "Bonnie + Silver Fern",
       "messages": [
+        {
+          "from": "Leigh Taylor",
+          "content": "<p>I will email an export of what i entered into Restock (I can't attach the file here).</p>",
+          "createdDateTime": "2026-01-23T16:00:45.371Z"
+        },
+        {
+          "from": "Leigh Taylor",
+          "content": "<p><at id=\"0\">Isaac</at>&nbsp;<at id=\"1\">Carpenter</at>, here is my initial test and results</p>",
+          "createdDateTime": "2026-01-23T15:59:42.792Z"
+        },
         {
           "from": "Isaac Carpenter",
           "content": "<div>Hey Sarah, for the Transfer Orders, I will get back to you in a few on that!<br>\n<br>\nYou should be good to try again though for creating Load Lists. Please let me know if it works, and if not, send me the error log again!</div>",
@@ -538,19 +502,55 @@
           "from": "Caitlyn Tomblin",
           "content": "<attachment id=\"1769103230328\"></attachment>\n<p>Will users need to update the app?&nbsp;</p>",
           "createdDateTime": "2026-01-22T20:06:51.595Z"
-        },
-        {
-          "from": "Leigh Taylor",
-          "content": "<p>Thanks!</p>",
-          "createdDateTime": "2026-01-22T18:27:27.305Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>It's in the current sprint and should be included in the next release. I just checked, and you're right, its not showing on the priority list, however, from what i can tell it should be showing. I'll see what's going on with it!&nbsp;</p>",
-          "createdDateTime": "2026-01-22T18:27:04.616Z"
         }
       ],
       "type": "group"
+    },
+    "kevin_/_nathan_career_sync": {
+      "name": "Kevin / Nathan Career Sync",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:50:44.911Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:48:44.012Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:48:31.825Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfh3zzebntpn0gdvctaws3nt?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat</a></p>",
+          "createdDateTime": "2026-01-23T15:32:34.289Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:32:16.221Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:32:12.505Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:31:22.046Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:30:04.461Z"
+        }
+      ],
+      "type": "meeting"
     },
     "product_daily_huddle": {
       "name": "Product Daily Huddle",
