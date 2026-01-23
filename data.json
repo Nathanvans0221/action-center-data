@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T15:20:51.973555Z",
+  "updated_at": "2026-01-23T15:30:51.281785Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 44,
@@ -48,6 +48,20 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Search bar redesign - integrate into grid header",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T15:24:32Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Search bar redesign - integrate into grid header",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T15:24:31Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Replace Cancel buttons with Close, add X exit button",
       "from": "Silver Fern",
@@ -383,23 +397,20 @@
       "receivedDateTime": "2026-01-22T22:53:14Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BqAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Replace Cancel buttons with Close, add X exit button",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-22T18:54:54Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BpAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Replace Cancel buttons with Close, add X exit button",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-22T18:54:52Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
+    "kevin_/_nathan_career_sync": {
+      "name": "Kevin / Nathan Career Sync",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:30:04.461Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "director_huddle": {
       "name": "Director Huddle",
       "messages": [
@@ -641,11 +652,6 @@
           "from": "Nathan van Wingerden",
           "content": "<p>BRB&nbsp;</p>",
           "createdDateTime": "2026-01-22T16:24:21.412Z"
-        },
-        {
-          "from": "Chris Christensen",
-          "content": "<p><span style=\"font-size:inherit\">+55 31 999888955</span></p>",
-          "createdDateTime": "2026-01-22T15:22:45.665Z"
         }
       ],
       "type": "meeting"
