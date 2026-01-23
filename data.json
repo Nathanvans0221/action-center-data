@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T21:10:52.714589Z",
+  "updated_at": "2026-01-23T21:20:51.373088Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 41,
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Want instant savings on dreamy hotels?",
+      "from": "Hotels.com",
+      "receivedDateTime": "2026-01-23T21:14:17Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2F7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Now boarding: Free Wi-Fi for AAdvantage\u00ae members, sponsored by AT&T ",
       "from": "American Airlines AAdvantage Program",
@@ -390,13 +397,6 @@
       "receivedDateTime": "2026-01-23T13:28:24Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Search bar redesign - integrate into grid header",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T13:28:20Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
