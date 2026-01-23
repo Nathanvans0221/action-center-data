@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T15:10:51.582132Z",
+  "updated_at": "2026-01-23T15:20:51.973555Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 44,
@@ -48,6 +48,20 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Replace Cancel buttons with Close, add X exit button",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T15:16:51Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Replace Cancel buttons with Close, add X exit button",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T15:16:49Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Add visual indicator when grid filters are active",
       "from": "Silver Fern",
@@ -383,26 +397,43 @@
       "receivedDateTime": "2026-01-22T18:54:52Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "You have 2 new invitations",
-      "from": "LinkedIn",
-      "receivedDateTime": "2026-01-22T18:50:21Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "ChatGPT - Your data export is ready",
-      "from": "OpenAI",
-      "receivedDateTime": "2026-01-22T18:38:30Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BmAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
+    "director_huddle": {
+      "name": "Director Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:25:01.336Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T14:13:22.671Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "<p>Everything okay?</p>",
+          "createdDateTime": "2026-01-23T13:06:44.764Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
+          "createdDateTime": "2026-01-23T08:45:07.883Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "bonnie_+_silver_fern": {
       "name": "Bonnie + Silver Fern",
       "messages": [
+        {
+          "from": "Sarah Hall",
+          "content": "<p>Another issue I encountered this morning (before the error occurred) is that only one Transfer Order is being generated in NAV for the entire load list. When I checked the table, I noticed that the same OrderID is being used for the entire session. Previously, each To Location generated its own OrderID.&nbsp;</p>",
+          "createdDateTime": "2026-01-23T15:11:15.098Z"
+        },
         {
           "from": "Sarah Hall",
           "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:cbb862cfeb084a7eb035cdb68c88db0f@thread.v2/messages/1769180585060/hostedContents/aWQ9eF8wLWV1cy1kMTktM2I4ZDA5ZTkyMDVlOGZiYzk2Yjg2NjhiNmY3MzQ5OTgsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDE5LTNiOGQwOWU5MjA1ZThmYmM5NmI4NjY4YjZmNzM0OTk4L3ZpZXdzL2ltZ28=/$value\" width=\"529.8913043478261\" height=\"250\" alt=\"image\" itemid=\"0-eus-d19-3b8d09e9205e8fbc96b8668b6f734998\"></p>",
@@ -497,40 +528,9 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-22T18:25:36.015Z"
-        },
-        {
-          "from": "Leigh Taylor",
-          "content": "<p><at id=\"0\">Nathan</at>&nbsp;<at id=\"1\">Wilson</at>&nbsp;<at id=\"2\">Kevin</at>&nbsp;<at id=\"3\">Short</at>, Can you guys give me an ETA on allowing our AR department having access to all customers in Fulfill. I know we have talked about this a few times but I don't see a ticket in Clickup.&nbsp;</p>",
-          "createdDateTime": "2026-01-22T18:22:53.301Z"
         }
       ],
       "type": "group"
-    },
-    "director_huddle": {
-      "name": "Director Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T14:25:01.336Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T14:13:22.671Z"
-        },
-        {
-          "from": "Chris Christensen",
-          "content": "<p>Everything okay?</p>",
-          "createdDateTime": "2026-01-23T13:06:44.764Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
-          "createdDateTime": "2026-01-23T08:45:07.883Z"
-        }
-      ],
-      "type": "meeting"
     },
     "product_daily_huddle": {
       "name": "Product Daily Huddle",
