@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T16:50:53.991358Z",
+  "updated_at": "2026-01-23T17:00:52.801212Z",
   "email_count": 50,
   "calendar_count": 5,
-  "teams_count": 53,
+  "teams_count": 59,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Your meeting recap - Kevin / Nathan Career Sync",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-23T16:58:35Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Portugal Cuts in Nature\u2019s Pallette of Vibrant Colors Nathan",
       "from": "Renaissance",
@@ -390,19 +397,54 @@
       "receivedDateTime": "2026-01-22T23:59:52Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Add visual indicator when grid filters are active",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-22T23:52:35Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
+    "technology_quarterly_planning": {
+      "name": "Technology Quarterly Planning",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T17:00:04.647Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "dev_huddle": {
+      "name": "Dev Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T16:59:45.396Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "kevin_/_nathan_career_sync": {
       "name": "Kevin / Nathan Career Sync",
       "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T16:54:20.623Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T16:52:08.991Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T16:52:06.507Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T16:52:04.091Z"
+        },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
