@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T16:00:51.901396Z",
+  "updated_at": "2026-01-23T16:10:50.747988Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 51,
@@ -405,6 +405,16 @@
       "messages": [
         {
           "from": "Leigh Taylor",
+          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:cbb862cfeb084a7eb035cdb68c88db0f@thread.v2/messages/1769184085032/hostedContents/aWQ9eF8wLWV1cy1kMS04YmI2ZTg2YTFiMzYwYjU2NjU1MjhiMTU1NGZkNjM5ZCx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLWV1cy1kMS04YmI2ZTg2YTFiMzYwYjU2NjU1MjhiMTU1NGZkNjM5ZC92aWV3cy9pbWdv/$value\" width=\"627.4857954545455\" height=\"250\" alt=\"image\" itemid=\"0-eus-d1-8bb6e86a1b360b5665528b1554fd639d\"></p>",
+          "createdDateTime": "2026-01-23T16:01:25.032Z"
+        },
+        {
+          "from": "Leigh Taylor",
+          "content": "<p>Only 1 line per order made it to the xSFTransferOpenOrders Table</p>",
+          "createdDateTime": "2026-01-23T16:01:13.208Z"
+        },
+        {
+          "from": "Leigh Taylor",
           "content": "<p>I will email an export of what i entered into Restock (I can't attach the file here).</p>",
           "createdDateTime": "2026-01-23T16:00:45.371Z"
         },
@@ -492,16 +502,6 @@
           "from": "Caitlyn Tomblin",
           "content": "<p><img alt=\"image\" height=\"250\" width=\"603.8602941176471\" src=\"https://graph.microsoft.com/v1.0/chats/19:cbb862cfeb084a7eb035cdb68c88db0f@thread.v2/messages/1769115131909/hostedContents/aWQ9eF8wLWV1cy1kMTUtZDk3MGQxOGNmMjY2MTE2YjQ2MzIxZWMxOGM2MWIwMTAsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDE1LWQ5NzBkMThjZjI2NjExNmI0NjMyMWVjMThjNjFiMDEwL3ZpZXdzL2ltZ28=/$value\" itemid=\"0-eus-d15-d970d18cf266116b46321ec18c61b010\"></p>\n<p>Hey, we added inventory of this item and it isn't showing in inventory in NAV or the app. Any thoughts what may be holding this up?&nbsp;</p>",
           "createdDateTime": "2026-01-22T20:52:11.909Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>Yes, they will need to click update! We are still in the middle of testing a fix for the bug discovered yesterday, so release is still TBD pending that.&nbsp;</p>",
-          "createdDateTime": "2026-01-22T20:11:43.727Z"
-        },
-        {
-          "from": "Caitlyn Tomblin",
-          "content": "<attachment id=\"1769103230328\"></attachment>\n<p>Will users need to update the app?&nbsp;</p>",
-          "createdDateTime": "2026-01-22T20:06:51.595Z"
         }
       ],
       "type": "group"
