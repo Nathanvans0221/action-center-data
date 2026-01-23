@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T16:10:50.747988Z",
+  "updated_at": "2026-01-23T16:20:50.359610Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 51,
@@ -404,6 +404,21 @@
       "name": "Bonnie + Silver Fern",
       "messages": [
         {
+          "from": "Isaac Carpenter",
+          "content": "Okay great, thank you Sarah!",
+          "createdDateTime": "2026-01-23T16:18:49.708Z"
+        },
+        {
+          "from": "Sarah Hall",
+          "content": "<attachment id=\"1769128277448\"></attachment>\n<p>I emailed you 035 sales data since 2022. Also I updated BP Test view (dbo.xSFRestock_POS) and it has 2024 sales data you can utilize for testing</p>",
+          "createdDateTime": "2026-01-23T16:17:57.182Z"
+        },
+        {
+          "from": "Isaac Carpenter",
+          "content": "Hey Leigh, yes we are working to update that to have a Transfer Order per Route/Station. It is currently just doing an order per session, so we are working to update that and I will keep you all updated!",
+          "createdDateTime": "2026-01-23T16:15:31.325Z"
+        },
+        {
           "from": "Leigh Taylor",
           "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:cbb862cfeb084a7eb035cdb68c88db0f@thread.v2/messages/1769184085032/hostedContents/aWQ9eF8wLWV1cy1kMS04YmI2ZTg2YTFiMzYwYjU2NjU1MjhiMTU1NGZkNjM5ZCx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLWV1cy1kMS04YmI2ZTg2YTFiMzYwYjU2NjU1MjhiMTU1NGZkNjM5ZC92aWV3cy9pbWdv/$value\" width=\"627.4857954545455\" height=\"250\" alt=\"image\" itemid=\"0-eus-d1-8bb6e86a1b360b5665528b1554fd639d\"></p>",
           "createdDateTime": "2026-01-23T16:01:25.032Z"
@@ -487,21 +502,6 @@
           "from": "Nathan van Wingerden",
           "content": "<attachment id=\"1769115131909\"></attachment>\n<p>Looking into it!&nbsp;</p>",
           "createdDateTime": "2026-01-22T21:07:14.654Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<attachment id=\"1769115923323\"></attachment>\n<p>Will update you by 4PM CT with a status update.&nbsp;</p>",
-          "createdDateTime": "2026-01-22T21:07:50.256Z"
-        },
-        {
-          "from": "Leigh Taylor",
-          "content": "<p><at id=\"0\">Nathan</at>&nbsp;<at id=\"1\">van</at>&nbsp;<at id=\"2\">Wingerden</at>, we will need to coordinate again with Dan and Improving so please let me know once you guys are good to go. We may need to shoot for Monday at this point.</p>",
-          "createdDateTime": "2026-01-22T21:05:23.323Z"
-        },
-        {
-          "from": "Caitlyn Tomblin",
-          "content": "<p><img alt=\"image\" height=\"250\" width=\"603.8602941176471\" src=\"https://graph.microsoft.com/v1.0/chats/19:cbb862cfeb084a7eb035cdb68c88db0f@thread.v2/messages/1769115131909/hostedContents/aWQ9eF8wLWV1cy1kMTUtZDk3MGQxOGNmMjY2MTE2YjQ2MzIxZWMxOGM2MWIwMTAsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1ldXMtZDE1LWQ5NzBkMThjZjI2NjExNmI0NjMyMWVjMThjNjFiMDEwL3ZpZXdzL2ltZ28=/$value\" itemid=\"0-eus-d15-d970d18cf266116b46321ec18c61b010\"></p>\n<p>Hey, we added inventory of this item and it isn't showing in inventory in NAV or the app. Any thoughts what may be holding this up?&nbsp;</p>",
-          "createdDateTime": "2026-01-22T20:52:11.909Z"
         }
       ],
       "type": "group"
