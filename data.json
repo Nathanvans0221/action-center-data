@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T16:20:50.359610Z",
+  "updated_at": "2026-01-23T16:30:57.404801Z",
   "email_count": 50,
   "calendar_count": 5,
-  "teams_count": 51,
+  "teams_count": 50,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Add visual indicator when grid filters are active",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T16:23:22Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FeAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Add visual indicator when grid filters are active",
       "from": "Silver Fern",
@@ -390,19 +397,17 @@
       "receivedDateTime": "2026-01-22T23:27:46Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Replace Cancel buttons with Close, add X exit button",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-22T23:13:52Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "bonnie_+_silver_fern": {
       "name": "Bonnie + Silver Fern",
       "messages": [
+        {
+          "from": "Leigh Taylor",
+          "content": "<p>I will email an export of what i entered into Restock (I can't attach the file here).</p>",
+          "createdDateTime": "2026-01-23T16:00:45.371Z"
+        },
         {
           "from": "Isaac Carpenter",
           "content": "Okay great, thank you Sarah!",
@@ -427,11 +432,6 @@
           "from": "Leigh Taylor",
           "content": "<p>Only 1 line per order made it to the xSFTransferOpenOrders Table</p>",
           "createdDateTime": "2026-01-23T16:01:13.208Z"
-        },
-        {
-          "from": "Leigh Taylor",
-          "content": "<p>I will email an export of what i entered into Restock (I can't attach the file here).</p>",
-          "createdDateTime": "2026-01-23T16:00:45.371Z"
         },
         {
           "from": "Leigh Taylor",
@@ -682,11 +682,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-22T17:32:39.064Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>BRB&nbsp;</p>",
-          "createdDateTime": "2026-01-22T16:24:21.412Z"
         }
       ],
       "type": "meeting"
