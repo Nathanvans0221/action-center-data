@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T13:40:50.493771Z",
+  "updated_at": "2026-01-23T13:50:50.986875Z",
   "email_count": 50,
   "calendar_count": 6,
   "teams_count": 51,
@@ -56,6 +56,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Search bar redesign - integrate into grid header",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T13:48:21Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Replace Cancel buttons with Close, add X exit button",
       "from": "Silver Fern",
@@ -398,13 +405,6 @@
       "receivedDateTime": "2026-01-22T17:35:08Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Yana just messaged you",
-      "from": "Yana Bukovska via LinkedIn",
-      "receivedDateTime": "2026-01-22T17:14:34Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BeAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
