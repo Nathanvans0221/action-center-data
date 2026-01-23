@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T20:40:51.030157Z",
+  "updated_at": "2026-01-23T20:50:51.614522Z",
   "email_count": 50,
   "calendar_count": 5,
-  "teams_count": 39,
+  "teams_count": 41,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -400,6 +400,22 @@
     }
   ],
   "teams": {
+    "growpoint_migration_call_revie": {
+      "name": "GrowPoint Migration Call Review",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T20:08:04.893Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T19:43:49.081Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "group_chat": {
       "name": "Group Chat",
       "messages": [
