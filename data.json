@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T16:30:57.404801Z",
+  "updated_at": "2026-01-23T16:40:52.031241Z",
   "email_count": 50,
   "calendar_count": 5,
-  "teams_count": 50,
+  "teams_count": 53,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -48,6 +48,20 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Add visual indicator when grid filters are active",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T16:33:52Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Add visual indicator when grid filters are active",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T16:33:49Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Add visual indicator when grid filters are active",
       "from": "Silver Fern",
@@ -383,23 +397,70 @@
       "receivedDateTime": "2026-01-22T23:36:54Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Search bar redesign - integrate into grid header",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-22T23:34:38Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Search bar redesign - integrate into grid header",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-22T23:27:46Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2BtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
+    "kevin_/_nathan_career_sync": {
+      "name": "Kevin / Nathan Career Sync",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T16:35:38.476Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T16:31:22.075Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T16:31:12.614Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:50:44.911Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:48:44.012Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:48:31.825Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfh3zzebntpn0gdvctaws3nt?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat</a></p>",
+          "createdDateTime": "2026-01-23T15:32:34.289Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:32:16.221Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:32:12.505Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:31:22.046Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T15:30:04.461Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "bonnie_+_silver_fern": {
       "name": "Bonnie + Silver Fern",
       "messages": [
@@ -505,52 +566,6 @@
         }
       ],
       "type": "group"
-    },
-    "kevin_/_nathan_career_sync": {
-      "name": "Kevin / Nathan Career Sync",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:50:44.911Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:48:44.012Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:48:31.825Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfh3zzebntpn0gdvctaws3nt?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat</a></p>",
-          "createdDateTime": "2026-01-23T15:32:34.289Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:32:16.221Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:32:12.505Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:31:22.046Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:30:04.461Z"
-        }
-      ],
-      "type": "meeting"
     },
     "product_daily_huddle": {
       "name": "Product Daily Huddle",
