@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T12:20:50.679362Z",
+  "updated_at": "2026-01-23T12:30:50.945099Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 49,
+  "teams_count": 50,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -408,6 +408,47 @@
     }
   ],
   "teams": {
+    "product_daily_huddle": {
+      "name": "Product Daily Huddle",
+      "messages": [
+        {
+          "from": "Isaac Short",
+          "content": "<ul>\n<li>test runs of auto-dev pipeline</li><li>maybe meet with Gabby and Kevin to go over branches created with auto-dev pipeline&nbsp;</li><li>start moving Recast to github&nbsp;</li><li>refine other wireframes</li></ul>",
+          "createdDateTime": "2026-01-23T12:23:54.945Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>not going to be on this tomorrow AM. please send stand up in chat</p>",
+          "createdDateTime": "2026-01-23T08:44:09.449Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-22T14:04:00.316Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-22T14:03:55.244Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFBXGGP65RTAHHSECQE2151R?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfbxggp65rtahhsecqe2151r?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFBXGGP65RTAHHSECQE2151R?ref=live_chat</a></p>",
+          "createdDateTime": "2026-01-22T14:02:16.944Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-22T14:00:55.114Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-22T14:00:04.43Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "director_huddle": {
       "name": "Director Huddle",
       "messages": [
@@ -440,42 +481,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-22T14:15:03.307Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "product_daily_huddle": {
-      "name": "Product Daily Huddle",
-      "messages": [
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>not going to be on this tomorrow AM. please send stand up in chat</p>",
-          "createdDateTime": "2026-01-23T08:44:09.449Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:04:00.316Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:03:55.244Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFBXGGP65RTAHHSECQE2151R?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfbxggp65rtahhsecqe2151r?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFBXGGP65RTAHHSECQE2151R?ref=live_chat</a></p>",
-          "createdDateTime": "2026-01-22T14:02:16.944Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:00:55.114Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T14:00:04.43Z"
         }
       ],
       "type": "meeting"
