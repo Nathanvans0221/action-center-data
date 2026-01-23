@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T19:00:54.643353Z",
+  "updated_at": "2026-01-23T19:10:52.349749Z",
   "email_count": 50,
   "calendar_count": 5,
-  "teams_count": 32,
+  "teams_count": 38,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -48,6 +48,27 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Replace Cancel buttons with Close, add X exit button",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-23T19:10:38Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Welcome to Composio: your dashboard is ready",
+      "from": "Soham from Composio",
+      "receivedDateTime": "2026-01-23T19:09:17Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "[GitHub] A third-party OAuth application has been added to your account",
+      "from": "GitHub",
+      "receivedDateTime": "2026-01-23T19:04:02Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Shipping Acknowledgment Form (Invoice without Prices) for Harmony",
       "from": "Silver Fern",
@@ -376,30 +397,60 @@
       "receivedDateTime": "2026-01-23T03:55:21Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FBAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Search bar redesign - integrate into grid header",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T03:53:23Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Replace Cancel buttons with Close, add X exit button",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T03:53:09Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2B%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Replace Cancel buttons with Close, add X exit button",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T03:44:31Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2B%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
+    "group_chat": {
+      "name": "Group Chat",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T19:07:44.122Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T19:07:40.623Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-23T19:07:11.855Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "<p>sure</p>",
+          "createdDateTime": "2026-01-23T19:07:04.287Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>shoot, Scott says he's busy on his calendar from 2-2:30. Maybe you and i can meet and see what we can figure out, <at id=\"0\">Chris</at>&nbsp;<at id=\"1\">Christensen</at></p>",
+          "createdDateTime": "2026-01-23T19:06:38.666Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>?&nbsp;</p>",
+          "createdDateTime": "2026-01-23T19:01:51.1Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p><at id=\"0\">Scott</at>&nbsp;<at id=\"1\">Slattery</at></p>",
+          "createdDateTime": "2026-01-23T19:01:49.918Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "<p>yeah</p>",
+          "createdDateTime": "2026-01-23T18:59:37.371Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>Can you guys sync with me on a task BPF asking us about? just one task, shouldn't take super long&nbsp;</p>",
+          "createdDateTime": "2026-01-23T18:58:14.609Z"
+        }
+      ],
+      "type": "group"
+    },
     "director_huddle": {
       "name": "Director Huddle",
       "messages": [
@@ -582,21 +633,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-22T19:11:39.683Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T19:07:40.144Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T19:07:39.464Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-22T19:06:10.469Z"
         }
       ],
       "type": "meeting"
