@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T18:10:50.827164Z",
+  "updated_at": "2026-01-23T18:20:52.081897Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 52,
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Limited Time Only! You have a 40,000 bonus points offer",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-01-23T18:18:35Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Multi-select with delete functionality across all grids",
       "from": "Silver Fern",
@@ -390,16 +397,14 @@
       "receivedDateTime": "2026-01-23T02:40:58Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2B6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Search bar redesign - integrate into grid header",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T02:37:59Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2B5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
+    "gp_transition_q&a_": {
+      "name": "GP transition Q&A ",
+      "messages": [],
+      "type": "meeting"
+    },
     "technology_quarterly_planning": {
       "name": "Technology Quarterly Planning",
       "messages": [
