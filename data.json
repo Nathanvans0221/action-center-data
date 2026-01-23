@@ -968,79 +968,79 @@
   },
   "yesterday": {},
   "standup": {
-    "generated_at": "2026-01-22T23:00:14.739268Z",
-    "for_date": "2026-01-23",
+    "generated_at": "2026-01-23T23:00:53.457583Z",
+    "for_date": "2026-01-24",
     "yesterday": [
       {
         "id": "y0",
-        "text": "Attended Product Daily Huddle, Director Huddle, BPF Organics Sync, and DBR Demand Algorithm Review",
+        "text": "Attended Product Daily Huddle and Director Huddle to align on priorities",
         "completed": true
       },
       {
         "id": "y1",
-        "text": "Participated in discussions across Ops, Product, PRODUCE Support, and Directors Teams channels (40 messages total)",
+        "text": "Completed 90-minute Career Sync with Kevin discussing growth and development",
         "completed": true
       },
       {
         "id": "y2",
-        "text": "Reviewed incoming emails including UI/UX feedback on search bar redesign and button standardization",
+        "text": "Participated in Dev Huddle and Technology Quarterly Planning discussions",
         "completed": true
       },
       {
         "id": "y3",
-        "text": "Coordinated on demand algorithm improvements during DBR review session",
+        "text": "Played pickleball with the team for 2 hours",
+        "completed": true
+      },
+      {
+        "id": "y4",
+        "text": "Reviewed Teams activity across 7 active channels including GrowPoint Migration and Group Chat",
         "completed": true
       }
     ],
     "today": [
       {
         "id": "t0",
-        "text": "Product Daily Huddle at 09:00",
+        "text": "Review and respond to unread emails including Multi-Station Support setup requests",
         "completed": false
       },
       {
         "id": "t1",
-        "text": "Director Huddle at 09:15",
+        "text": "Address UI feedback on search bar redesign and Cancel/Close button standardization",
         "completed": false
       },
       {
         "id": "t2",
-        "text": "Kevin / Nathan Career Sync at 10:30",
+        "text": "Respond to PRODUCE Support question about plants per pot",
         "completed": false
       },
       {
         "id": "t3",
-        "text": "Technology Quarterly Planning and Dev Huddle at 12:00",
+        "text": "Reply to pending email: 'Nathan, I'm still waiting for your response'",
         "completed": false
       },
       {
         "id": "t4",
-        "text": "Pickleball w The Boyz at 15:00",
-        "completed": false
-      },
-      {
-        "id": "t5",
-        "text": "Review and respond to unread emails (search bar redesign, button standardization requests)",
+        "text": "Follow up on GrowPoint Migration Call Review discussion from Teams",
         "completed": false
       }
     ],
     "followups": [
       {
         "id": "f0",
-        "text": "Respond to PRODUCE Support question about plants per pot",
+        "text": "Complete Multi-Station Support user setup (2 pending emails)",
         "completed": false
       },
       {
         "id": "f1",
-        "text": "Reply to pending email: 'Nathan, I'm still waiting for your response'",
+        "text": "Address search bar integration and button standardization requests from multiple stakeholders",
         "completed": false
       },
       {
         "id": "f2",
-        "text": "Address UI feedback on search bar integration and Cancel/Close button standardization across multiple requests",
+        "text": "Follow up on action items from Technology Quarterly Planning session",
         "completed": false
       }
     ]
   },
-  "standup_updated_at": "2026-01-22T23:00:14.739268Z"
+  "standup_updated_at": "2026-01-23T23:00:53.457583Z"
 }
