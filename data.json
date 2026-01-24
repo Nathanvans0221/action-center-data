@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-24T14:20:52.013327Z",
+  "updated_at": "2026-01-24T14:31:24.948919Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 37,
+  "teams_count": 36,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
@@ -461,17 +461,6 @@
         }
       ],
       "type": "group"
-    },
-    "director_huddle": {
-      "name": "Director Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T14:25:01.336Z"
-        }
-      ],
-      "type": "meeting"
     },
     "gp_transition_q&a_": {
       "name": "GP transition Q&A ",
