@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-24T18:11:39.149629Z",
+  "updated_at": "2026-01-24T18:20:57.392360Z",
   "email_count": 50,
   "calendar_count": 0,
   "teams_count": 17,
@@ -461,11 +461,6 @@
         }
       ],
       "type": "group"
-    },
-    "gp_transition_q&a_": {
-      "name": "GP transition Q&A ",
-      "messages": [],
-      "type": "meeting"
     }
   },
   "sprint": {
