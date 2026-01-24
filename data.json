@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-24T17:09:16.450308Z",
+  "updated_at": "2026-01-24T17:11:06.084572Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 19,
+  "teams_count": 18,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
@@ -474,17 +474,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-23T17:16:38.54Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "dev_huddle": {
-      "name": "Dev Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T17:10:33.81Z"
         }
       ],
       "type": "meeting"
