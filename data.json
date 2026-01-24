@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-24T19:41:02.423559Z",
+  "updated_at": "2026-01-24T19:52:27.717233Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 5,
+  "teams_count": 4,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
@@ -366,11 +366,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-23T20:08:04.893Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T19:43:49.081Z"
         }
       ],
       "type": "meeting"
