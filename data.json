@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-01-24T18:52:37.068574Z",
+  "updated_at": "2026-01-24T19:11:25.958211Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 17,
+  "teams_count": 8,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
   "emails": [
+    {
+      "subject": "Some Composio cookbooks for you! ",
+      "from": "Soham from Composio",
+      "receivedDateTime": "2026-01-24T19:09:10Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnQeJhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "You have 2 new invitations",
       "from": "LinkedIn",
@@ -349,13 +356,6 @@
       "receivedDateTime": "2026-01-23T15:05:00Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Replace Cancel buttons with Close, add X exit button",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T15:04:51Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
@@ -413,51 +413,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-23T19:13:40.023Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T19:07:44.122Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T19:07:40.623Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T19:07:11.855Z"
-        },
-        {
-          "from": "Chris Christensen",
-          "content": "<p>sure</p>",
-          "createdDateTime": "2026-01-23T19:07:04.287Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>shoot, Scott says he's busy on his calendar from 2-2:30. Maybe you and i can meet and see what we can figure out, <at id=\"0\">Chris</at>&nbsp;<at id=\"1\">Christensen</at></p>",
-          "createdDateTime": "2026-01-23T19:06:38.666Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>?&nbsp;</p>",
-          "createdDateTime": "2026-01-23T19:01:51.1Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p><at id=\"0\">Scott</at>&nbsp;<at id=\"1\">Slattery</at></p>",
-          "createdDateTime": "2026-01-23T19:01:49.918Z"
-        },
-        {
-          "from": "Chris Christensen",
-          "content": "<p>yeah</p>",
-          "createdDateTime": "2026-01-23T18:59:37.371Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>Can you guys sync with me on a task BPF asking us about? just one task, shouldn't take super long&nbsp;</p>",
-          "createdDateTime": "2026-01-23T18:58:14.609Z"
         }
       ],
       "type": "group"
