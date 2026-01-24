@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-24T19:11:25.958211Z",
+  "updated_at": "2026-01-24T19:20:59.000624Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 8,
+  "teams_count": 5,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
@@ -392,27 +392,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-24T05:20:12.378Z"
-        }
-      ],
-      "type": "group"
-    },
-    "group_chat": {
-      "name": "Group Chat",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T19:14:45.781Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T19:13:43.409Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T19:13:40.023Z"
         }
       ],
       "type": "group"
