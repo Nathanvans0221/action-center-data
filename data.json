@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-24T08:40:53.469569Z",
+  "updated_at": "2026-01-24T08:50:51.224853Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 44,
+  "teams_count": 42,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
@@ -479,11 +479,6 @@
           "from": "Chris Christensen",
           "content": "<p>Everything okay?</p>",
           "createdDateTime": "2026-01-23T13:06:44.764Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>i won't be on this tomorrow AM! Shoot me a message if you need something specifically from me.&nbsp;</p>",
-          "createdDateTime": "2026-01-23T08:45:07.883Z"
         }
       ],
       "type": "meeting"
@@ -623,11 +618,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-23T14:00:05.756Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>not going to be on this tomorrow AM. please send stand up in chat</p>",
-          "createdDateTime": "2026-01-23T08:44:09.449Z"
         }
       ],
       "type": "meeting"
