@@ -1,52 +1,11 @@
 {
-  "updated_at": "2026-01-23T23:50:51.747660Z",
+  "updated_at": "2026-01-24T00:00:52.188946Z",
   "email_count": 50,
-  "calendar_count": 5,
+  "calendar_count": 0,
   "teams_count": 41,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
-  "calendar": [
-    {
-      "subject": "Kevin / Nathan Career Sync",
-      "start": "2026-01-23T10:30:00.0000000",
-      "end": "2026-01-23T12:00:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQfw6iZAAA%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Pickleball w The Boyz",
-      "start": "2026-01-23T15:00:00.0000000",
-      "end": "2026-01-23T17:00:00.0000000",
-      "location": "Pickleball Zone Bend",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQk0yoVAAA%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Product Daily Huddle",
-      "start": "2026-01-23T09:00:00.0000000",
-      "end": "2026-01-23T09:15:00.0000000",
-      "location": "Batman",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3loSWg6AAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Director Huddle",
-      "start": "2026-01-23T09:15:00.0000000",
-      "end": "2026-01-23T09:30:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3loSWg6AAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXHwAAEA%3D%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Dev Huddle",
-      "start": "2026-01-23T12:00:00.0000000",
-      "end": "2026-01-23T12:15:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3loSWg6AAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAEH8OooAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
-    }
-  ],
+  "calendar": [],
   "emails": [
     {
       "subject": "Administrator has responded to your request for 'Call with Chris Christensen-20260123_160442-Meeting Recording'",
