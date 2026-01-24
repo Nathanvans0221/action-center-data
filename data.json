@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-24T15:31:22.452800Z",
+  "updated_at": "2026-01-24T15:40:52.093714Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 35,
+  "teams_count": 31,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
@@ -551,26 +551,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-23T15:48:31.825Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfh3zzebntpn0gdvctaws3nt?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFH3ZZEBNTPN0GDVCTAWS3NT?ref=live_chat</a></p>",
-          "createdDateTime": "2026-01-23T15:32:34.289Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:32:16.221Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:32:12.505Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T15:31:22.046Z"
         }
       ],
       "type": "meeting"
