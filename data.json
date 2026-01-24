@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-24T16:51:02.530331Z",
+  "updated_at": "2026-01-24T17:09:16.450308Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 25,
+  "teams_count": 19,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
@@ -474,11 +474,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-23T17:16:38.54Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T17:00:04.647Z"
         }
       ],
       "type": "meeting"
@@ -490,37 +485,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-23T17:10:33.81Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T16:59:45.396Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "kevin_/_nathan_career_sync": {
-      "name": "Kevin / Nathan Career Sync",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T16:54:20.623Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T16:52:08.991Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T16:52:06.507Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T16:52:04.091Z"
         }
       ],
       "type": "meeting"
