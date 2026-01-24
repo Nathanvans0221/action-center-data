@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-24T00:50:50.696507Z",
+  "updated_at": "2026-01-24T01:00:51.854930Z",
   "email_count": 50,
   "calendar_count": 0,
   "teams_count": 41,
@@ -7,6 +7,13 @@
   "workflow_run_count": 10,
   "calendar": [],
   "emails": [
+    {
+      "subject": "Starlink Melts Snow and Ice",
+      "from": "Starlink",
+      "receivedDateTime": "2026-01-24T01:00:38Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2F9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Administrator has responded to your request for 'Call with Chris Christensen-20260123_160442-Meeting Recording'",
       "from": "SharePoint Online",
@@ -349,13 +356,6 @@
       "receivedDateTime": "2026-01-23T13:32:06Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Replace Cancel buttons with Close, add X exit button",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T13:31:45Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
