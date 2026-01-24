@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-24T17:11:06.084572Z",
+  "updated_at": "2026-01-24T17:21:00.731397Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 18,
+  "teams_count": 17,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
@@ -465,17 +465,6 @@
     "gp_transition_q&a_": {
       "name": "GP transition Q&A ",
       "messages": [],
-      "type": "meeting"
-    },
-    "technology_quarterly_planning": {
-      "name": "Technology Quarterly Planning",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-01-23T17:16:38.54Z"
-        }
-      ],
       "type": "meeting"
     }
   },
