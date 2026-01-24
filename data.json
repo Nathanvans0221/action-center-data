@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-24T05:20:50.776918Z",
+  "updated_at": "2026-01-24T05:30:53.849529Z",
   "email_count": 50,
   "calendar_count": 0,
   "teams_count": 44,
@@ -364,7 +364,7 @@
       "messages": [
         {
           "from": "Nathan van Wingerden",
-          "content": "<h2>LMS.Mortgage Agent Architecture</h2>\n<p>Hey Kevin and Isaac - Jacob sent over a doc outlining the <b>multi-agent architecture</b> for LMS.Mortgage feature development. Wanted to share it with you both.</p>\n<p><b>What it is:</b> A comprehensive guide showing how specialized AI agents work together to build features. It defines a full pipeline:</p>\n<ul>\n<li><b>Architect Agent</b> - Orchestrates everything, spawns 4 parallel Haiku explore agents for fast context gathering (~30-60 sec)</li><li><b>Implementation Pipeline</b> - Database \u2192 Backend \u2192 Frontend agents execute in dependency order</li><li><b>Validation Layer</b> - Security Agent + Integration Agent run in parallel to review code and create tests</li><li><b>LMS Database Expert</b> - Deep expertise for complex PostgreSQL/Drizzle/multi-tenant decisions</li></ul>\n<p><b>Key patterns enforced:</b></p>\n<ul>\n<li>Multi-tenant isolation with <code>withTenantAuth</code> and <code>organizationId</code> filtering</li><li>Triple-interaction UI model (Form, Quick-Edit Sheet, Data Table)</li><li>React Hook Form + Zod + TanStack Table + Shadcn UI</li><li>Activity logging and RBAC on all routes</li></ul>\n<p>I converted it to a nice HTML doc for easier review. Take a look and let me know your thoughts!</p>",
+          "content": "",
           "createdDateTime": "2026-01-24T05:20:29.782Z"
         },
         {
