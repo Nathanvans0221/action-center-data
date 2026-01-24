@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-24T09:20:51.187003Z",
+  "updated_at": "2026-01-24T09:31:21.164093Z",
   "email_count": 50,
   "calendar_count": 0,
   "teams_count": 42,
@@ -7,6 +7,13 @@
   "workflow_run_count": 10,
   "calendar": [],
   "emails": [
+    {
+      "subject": "Microsoft 365 security: You have messages in quarantine",
+      "from": "quarantine@messaging.microsoft.com",
+      "receivedDateTime": "2026-01-24T09:26:51Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2FlABAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "agent architecture",
       "from": "Jacob Gillock",
@@ -349,13 +356,6 @@
       "receivedDateTime": "2026-01-23T13:48:21Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Replace Cancel buttons with Close, add X exit button",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T13:40:06Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
