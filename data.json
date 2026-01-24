@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-24T13:03:24.695655Z",
+  "updated_at": "2026-01-24T13:10:52.796131Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 41,
+  "teams_count": 40,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
@@ -474,11 +474,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-01-23T14:13:22.671Z"
-        },
-        {
-          "from": "Chris Christensen",
-          "content": "<p>Everything okay?</p>",
-          "createdDateTime": "2026-01-23T13:06:44.764Z"
         }
       ],
       "type": "meeting"
