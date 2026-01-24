@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-24T21:20:57.806558Z",
+  "updated_at": "2026-01-24T21:35:05.589614Z",
   "email_count": 50,
   "calendar_count": 0,
   "teams_count": 3,
@@ -7,6 +7,13 @@
   "workflow_run_count": 10,
   "calendar": [],
   "emails": [
+    {
+      "subject": "View Hamza Ali\u2019s post and your next steps",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-01-24T21:29:18Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnQeJjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "7 Days Left for January Offer",
       "from": "Mytrip Newsletter",
@@ -349,13 +356,6 @@
       "receivedDateTime": "2026-01-23T15:16:49Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Add visual indicator when grid filters are active",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T15:05:11Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
