@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-24T12:20:51.437551Z",
+  "updated_at": "2026-01-24T12:31:22.098898Z",
   "email_count": 50,
   "calendar_count": 0,
-  "teams_count": 42,
+  "teams_count": 41,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [],
@@ -604,11 +604,6 @@
     "product_daily_huddle": {
       "name": "Product Daily Huddle",
       "messages": [
-        {
-          "from": "Isaac Short",
-          "content": "<ul>\n<li>test runs of auto-dev pipeline</li><li>maybe meet with Gabby and Kevin to go over branches created with auto-dev pipeline&nbsp;</li><li>start moving Recast to github&nbsp;</li><li>refine other wireframes</li></ul>",
-          "createdDateTime": "2026-01-23T12:23:54.945Z"
-        },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
