@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-24T20:11:49.264420Z",
+  "updated_at": "2026-01-24T20:21:32.290660Z",
   "email_count": 50,
   "calendar_count": 0,
   "teams_count": 3,
@@ -7,6 +7,13 @@
   "workflow_run_count": 10,
   "calendar": [],
   "emails": [
+    {
+      "subject": "7 Days Left for January Offer",
+      "from": "Mytrip Newsletter",
+      "receivedDateTime": "2026-01-24T20:16:36Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnQeJiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Some Composio cookbooks for you! ",
       "from": "Soham from Composio",
@@ -349,13 +356,6 @@
       "receivedDateTime": "2026-01-23T15:05:11Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Search bar redesign - integrate into grid header",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T15:05:00Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
