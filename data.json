@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-24T05:01:54.830701Z",
+  "updated_at": "2026-01-24T05:10:51.889335Z",
   "email_count": 50,
   "calendar_count": 0,
   "teams_count": 41,
@@ -7,6 +7,13 @@
   "workflow_run_count": 10,
   "calendar": [],
   "emails": [
+    {
+      "subject": "agent architecture",
+      "from": "Jacob Gillock",
+      "receivedDateTime": "2026-01-24T05:10:13Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2FlAAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Silver Fern posted: How many tools does it take to keep your production plan on track? \u00a0 For many\u2026 \ud83d\udca1",
       "from": "LinkedIn",
@@ -349,13 +356,6 @@
       "receivedDateTime": "2026-01-23T13:40:06Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Replace Cancel buttons with Close, add X exit button",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-23T13:40:01Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
