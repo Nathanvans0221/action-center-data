@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-26T04:51:04.022160Z",
+  "updated_at": "2026-01-26T05:08:45.712143Z",
   "email_count": 50,
   "calendar_count": 6,
   "teams_count": 0,
@@ -407,7 +407,13 @@
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQk%2Fk%2FfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
-  "teams": {},
+  "teams": {
+    "growpoint_migration_call_revie": {
+      "name": "GrowPoint Migration Call Review",
+      "messages": [],
+      "type": "meeting"
+    }
+  },
   "sprint": {
     "name": "Sprint 21",
     "end_date": "2026-01-13",
