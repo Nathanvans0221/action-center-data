@@ -1,11 +1,60 @@
 {
-  "updated_at": "2026-01-25T23:50:49.149554Z",
+  "updated_at": "2026-01-26T00:05:54.511952Z",
   "email_count": 50,
-  "calendar_count": 0,
+  "calendar_count": 6,
   "teams_count": 0,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
-  "calendar": [],
+  "calendar": [
+    {
+      "subject": "GrowPoint Migration Call Review",
+      "start": "2026-01-26T15:30:00.0000000",
+      "end": "2026-01-26T16:00:00.0000000",
+      "location": "Microsoft Teams Meeting",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQk%2FpB3AAA%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Company Weekly",
+      "start": "2026-01-26T11:15:00.0000000",
+      "end": "2026-01-26T12:00:00.0000000",
+      "location": "Microsoft Teams Meeting; Hulk; Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3lxt2UvAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQADPOFs9QAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Operations Weekly",
+      "start": "2026-01-26T10:15:00.0000000",
+      "end": "2026-01-26T11:15:00.0000000",
+      "location": "Microsoft Teams Meeting; Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3lxt2UvAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQADg%2Bv11gAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Directors Weekly",
+      "start": "2026-01-26T09:30:00.0000000",
+      "end": "2026-01-26T10:15:00.0000000",
+      "location": "Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3lxt2UvAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQADjyESiAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Product Daily Huddle",
+      "start": "2026-01-26T09:00:00.0000000",
+      "end": "2026-01-26T09:15:00.0000000",
+      "location": "Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3lxt2UvAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Dev Huddle",
+      "start": "2026-01-26T12:00:00.0000000",
+      "end": "2026-01-26T12:15:00.0000000",
+      "location": "Microsoft Teams Meeting",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3lxt2UvAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAEH8OooAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    }
+  ],
   "emails": [
     {
       "subject": "15 Days Until Pre-Registration!",
