@@ -1,345 +1,913 @@
 {
+  "updated_at": "2026-01-28T07:10:17.802467Z",
+  "email_count": 50,
+  "calendar_count": 3,
+  "teams_count": 38,
+  "sprint_task_count": 17,
+  "workflow_run_count": 10,
+  "calendar": [
+    {
+      "subject": "Product Daily Huddle",
+      "start": "2026-01-28T09:00:00.0000000",
+      "end": "2026-01-28T09:15:00.0000000",
+      "location": "Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3l4ALh9AAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Director Huddle",
+      "start": "2026-01-28T09:15:00.0000000",
+      "end": "2026-01-28T09:30:00.0000000",
+      "location": "Microsoft Teams Meeting",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3l4ALh9AAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXHwAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
+      "subject": "Dev Huddle",
+      "start": "2026-01-28T12:00:00.0000000",
+      "end": "2026-01-28T12:15:00.0000000",
+      "location": "Microsoft Teams Meeting",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3l4ALh9AAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAEH8OooAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+    }
+  ],
   "emails": [
+    {
+      "subject": "Tentative: Oregon Customer Visit(s)",
+      "from": "Adam van Wingerden",
+      "receivedDateTime": "2026-01-28T02:58:28Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQpX4I0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "3 people noticed you",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-01-28T01:29:18Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQpX4IzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Do more with Copilot Chat\u2014now in Word, Excel, PowerPoint, Outlook, and more",
+      "from": "Microsoft 365 Copilot",
+      "receivedDateTime": "2026-01-28T01:10:07Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQpX4IyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Request Congress to Support Economic Aid for Specialty Crop Growers",
+      "from": "The AmericanHort Advocacy & Government Affairs Team",
+      "receivedDateTime": "2026-01-28T00:02:17Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQpX4IxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Wi-Fi and entertainment options for your January 28 flights",
+      "from": "United Airlines",
+      "receivedDateTime": "2026-01-27T22:54:53Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQpVYtnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "2026 Flash Sale on Nonstop Flights",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-01-27T21:12:01Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "2026 Flash Sale on Nonstop Flights",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-01-27T21:07:46Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Bonnie Plants Delivery Confirmation and Invoice  #",
+      "from": "Bonnie Plants",
+      "receivedDateTime": "2026-01-27T20:37:31Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Dev Request",
+      "from": "Caitlyn Tomblin",
+      "receivedDateTime": "2026-01-27T20:36:59Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Thanks for your purchase with United",
+      "from": "United Airlines",
+      "receivedDateTime": "2026-01-27T20:00:34Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - FULFILL & PRODUCE Review",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-27T19:36:41Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Country Folks GROWER",
+      "from": "Jessica Leavelle",
+      "receivedDateTime": "2026-01-27T19:26:12Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxeAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - BPF Orders Troubleshooting",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-27T19:22:56Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "BPF Orders Troubleshooting",
+      "from": "Chris Christensen",
+      "receivedDateTime": "2026-01-27T19:04:50Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Pinterest prepares layoffs",
+      "from": "LinkedIn News",
+      "receivedDateTime": "2026-01-27T17:42:02Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - BLN Spring Readiness Prep",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-27T16:36:39Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "New: The AI feature you've been waiting for, and more",
+      "from": "Ned Dwyer | Great Question",
+      "receivedDateTime": "2026-01-27T16:20:39Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Website Submission",
+      "from": "Kennedy Kirk",
+      "receivedDateTime": "2026-01-27T16:08:05Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Reminder: Get ahead on your taxes with one simple step",
+      "from": "TurboTax",
+      "receivedDateTime": "2026-01-27T15:53:35Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "AR team super user access for e-ticket creation",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-27T15:45:08Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "AR team super user access for e-ticket creation",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-27T15:44:56Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "AR team super user access for e-ticket creation",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-27T15:44:42Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "AR team super user access for e-ticket creation",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-27T15:44:36Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Website Contact Form Submission",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-27T15:15:18Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - Product Daily Huddle",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-01-27T14:14:57Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxRAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Stronger Plants for a Tougher Season",
+      "from": "Danziger Marketing",
+      "receivedDateTime": "2026-01-27T14:09:00Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Up to 25% off \u2013 2026 Flash Sale ",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-01-27T14:06:48Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Spring is in full swing, but don\u2019t forget about the Garden Mums!",
+      "from": "Syngenta Flowers",
+      "receivedDateTime": "2026-01-27T14:01:33Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Up to 25% off \u2013 2026 Flash Sale ",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-01-27T13:59:42Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Microsoft 365 security: You have messages in quarantine",
       "from": "quarantine@messaging.microsoft.com",
-      "fromEmail": "quarantine@messaging.microsoft.com",
       "receivedDateTime": "2026-01-27T13:31:56Z",
       "isRead": false,
-      "preview": "Review These Messages\r\n11 messages are being held for you to review as of 1/27/2",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Meeting Prep: Product Daily Huddle",
       "from": "Fred from Fireflies.ai",
-      "fromEmail": "fred@fireflies.ai",
       "receivedDateTime": "2026-01-27T12:59:45Z",
       "isRead": false,
-      "preview": "Product Daily Huddle\r\n\r\nJan 27, 2026 \u00b7 6:00 AM PST\r\n\r\nUPCOMING IN 1 HOUR\r\n\r\nView",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Silver Fern, Take Ownership of Silver Fern PitchBook Profile",
       "from": "Jebesty Selvaraj",
-      "fromEmail": "jebesty.selvaraj@pitchbook.com",
       "receivedDateTime": "2026-01-27T09:55:05Z",
       "isRead": false,
-      "preview": "Hi Silver Fern,\r\n\r\nI hope you are doing well!\r\n\r\nI am following up on my previou",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Canceled: Director Huddle",
       "from": "Kennedy Kirk",
-      "fromEmail": "kennedy@silverfern.com",
       "receivedDateTime": "2026-01-27T07:09:52Z",
       "isRead": false,
-      "preview": "",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "2026 Flash Sale Starts Now | ALL Cities On Sale",
       "from": "Allegiant",
-      "fromEmail": "no-reply@e.allegiant.com",
       "receivedDateTime": "2026-01-27T05:09:58Z",
       "isRead": false,
-      "preview": "One-way fares as low as $50 \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "2026 Flash Sale Starts Now | ALL Cities On Sale",
       "from": "Allegiant",
-      "fromEmail": "no-reply@e.allegiant.com",
       "receivedDateTime": "2026-01-27T05:08:56Z",
       "isRead": false,
-      "preview": "Save up to 25% on nonstop flights \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Your 2025 Form W-2 is Now Available!",
       "from": "TriNet",
-      "fromEmail": "noreply@clients.trinet.com",
       "receivedDateTime": "2026-01-27T05:00:40Z",
       "isRead": false,
-      "preview": "Dear Nathan,\r\n\r\nGood news! Your 2025 TriNet Form W-2 is now available to view an",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Re: E-Ticket Table Changes for S26",
       "from": "Leigh Taylor",
-      "fromEmail": "leigh.taylor@Bonnieplants.com",
       "receivedDateTime": "2026-01-27T03:13:37Z",
       "isRead": true,
-      "preview": "Thanks, all!\r\n\r\nLeigh Taylor\r\n\r\nOn Jan 26, 2026, at 7:40\u202fPM, Dan Truitt <dant@al",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Silver Fern recently posted",
       "from": "LinkedIn",
-      "fromEmail": "updates-noreply@linkedin.com",
       "receivedDateTime": "2026-01-27T03:03:00Z",
       "isRead": false,
-      "preview": "Come see us at #TPIE2026, Booth #2235 Production planning shouldn\u2019t feel like\u2026\r\n",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Bonnie Plants Delivery Confirmation and Invoice  # 300404",
       "from": "Bonnie Plants",
-      "fromEmail": "noreply_fulfillment@Bonnieplants.com",
       "receivedDateTime": "2026-01-27T01:52:52Z",
       "isRead": false,
-      "preview": "Dear valued customer:\r\n\r\nThank you for your order from Bonnie Plants. Attached i",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxDAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Bonnie Plants Credit Memo  # 300405",
       "from": "Bonnie Plants",
-      "fromEmail": "noreply_fulfillment@Bonnieplants.com",
       "receivedDateTime": "2026-01-27T01:52:51Z",
       "isRead": false,
-      "preview": "Dear valued customer:\r\n\r\nAttached is your credit memo for product pick-up.\r\n\r\nIf",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Your meeting recap - WSAPI/Inventory Production Deployment",
       "from": "Fred from Fireflies.ai",
-      "fromEmail": "fred@fireflies.ai",
       "receivedDateTime": "2026-01-27T01:45:41Z",
       "isRead": false,
-      "preview": "Nathan van Wingerden\r\n\r\n(nathan@silverfern.com)\r\n\r\ninvited Fireflies to your mee",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxBAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Re: E-Ticket Table Changes for S26",
       "from": "Dan Truitt",
-      "fromEmail": "dant@alafarm.com",
       "receivedDateTime": "2026-01-27T01:40:39Z",
       "isRead": true,
-      "preview": "Excellent- thanks, Chris!\r\n________________________________\r\nFrom: Chris Christe",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnxAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Re: E-Ticket Table Changes for S26",
       "from": "Chris Christensen",
-      "fromEmail": "chris@silverfern.com",
       "receivedDateTime": "2026-01-27T01:39:12Z",
       "isRead": true,
-      "preview": "We are deployed and everything us up on our side.\r\n\r\nChris Christensen\r\nDirector",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnw%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Re: E-Ticket Table Changes for S26",
       "from": "Chris Christensen",
-      "fromEmail": "chris@silverfern.com",
       "receivedDateTime": "2026-01-27T01:16:15Z",
       "isRead": true,
-      "preview": "Great, we're still progressing through the rest of the deployment so it will be ",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnw%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Re: E-Ticket Table Changes for S26",
       "from": "Dan Truitt",
-      "fromEmail": "dant@alafarm.com",
       "receivedDateTime": "2026-01-27T01:11:11Z",
       "isRead": true,
-      "preview": "Step 2 and Step 3 are complete.  Ready for Step 4.  You're good to go!\r\n\r\nThanks",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnw9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Re: E-Ticket Table Changes for S26",
       "from": "Chris Christensen",
-      "fromEmail": "chris@silverfern.com",
       "receivedDateTime": "2026-01-27T01:04:28Z",
       "isRead": true,
-      "preview": "All,\r\n\r\nTicket service is now off.\r\n\r\nPlease let us know when we can bring it ba",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnw8AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "View Silver Fern\u2019s post and your next steps",
       "from": "LinkedIn",
-      "fromEmail": "messages-noreply@linkedin.com",
       "receivedDateTime": "2026-01-27T00:00:43Z",
       "isRead": false,
-      "preview": "Recommended actions for you\r\n\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnw7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Nathan, do you know Chris Abbe, Walmart Account Manager at Seville Farms?",
       "from": "LinkedIn",
-      "fromEmail": "messages-noreply@linkedin.com",
       "receivedDateTime": "2026-01-26T23:39:12Z",
       "isRead": false,
-      "preview": "Account Manager\r\n\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  ",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnw6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Displaying category in order line item",
       "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
       "receivedDateTime": "2026-01-26T22:25:53Z",
       "isRead": false,
-      "preview": "New comment\r\n\r\n\r\n\r\nby Automation #1 - When task created, change watchers.\r\n\r\n\r\n\r",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnw5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    }
-  ],
-  "calendar": [
-    {
-      "subject": "WSAPI/Inventory Production Deployment",
-      "start": "2026-01-26T20:00:00.0000000",
-      "end": "2026-01-26T21:00:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQnszVDAAA%3D&exvsurl=1&path=/calendar/item"
     },
     {
-      "subject": "BLN Spring Readiness Prep",
-      "start": "2026-01-27T11:00:00.0000000",
-      "end": "2026-01-27T12:00:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQnszVEAAA%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "FULFILL & PRODUCE Review",
-      "start": "2026-01-27T13:30:00.0000000",
-      "end": "2026-01-27T14:30:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQk%2FpB1AAA%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Product Daily Huddle",
-      "start": "2026-01-27T09:00:00.0000000",
-      "end": "2026-01-27T09:15:00.0000000",
-      "location": "Batman",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3l03A7WAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Canceled: Director Huddle",
-      "start": "2026-01-27T09:15:00.0000000",
-      "end": "2026-01-27T09:30:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3l03A7WAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXHwAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+      "subject": "Displaying category in order line item",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-01-26T22:25:39Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQnsnw4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
-    "ops": {
-      "name": "Ops",
+    "product_daily_huddle": {
+      "name": "Product Daily Huddle",
       "messages": [
         {
-          "id": "1769475812029",
-          "from": "Chris Christensen",
-          "fromEmail": "",
-          "content": "<p>where's <at id=\"0\">Nathan</at>?</p>",
-          "createdDateTime": "2026-01-27T01:03:32.029Z"
+          "from": "Isaac Carpenter",
+          "content": "I will not be on in the morning",
+          "createdDateTime": "2026-01-28T06:33:59.541Z"
         },
         {
-          "id": "1769475804229",
-          "from": "Chris Christensen",
-          "fromEmail": "",
-          "content": "<p>in progress</p>",
-          "createdDateTime": "2026-01-27T01:03:24.229Z"
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T14:13:04.597Z"
         },
         {
-          "id": "1769475754036",
-          "from": "Kevin Short",
-          "fromEmail": "",
-          "content": "<p>Just checking in on BPF release status...in progress?&nbsp;</p>",
-          "createdDateTime": "2026-01-27T01:02:34.036Z"
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T14:12:58.622Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFKSM7TZ51BSC7VJ3HDENXR6?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfksm7tz51bsc7vj3hdenxr6?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFKSM7TZ51BSC7VJ3HDENXR6?ref=live_chat</a></p>",
+          "createdDateTime": "2026-01-27T14:01:40.456Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T14:00:21.307Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T14:00:04.938Z"
         }
-      ]
+      ],
+      "type": "meeting"
     },
-    "product": {
-      "name": "Product",
-      "messages": []
+    "bpf_orders_troubleshooting": {
+      "name": "BPF Orders Troubleshooting",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:22:22.615Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:21:32.651Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:21:28.889Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:21:26.986Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:19:16.885Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KG0DG8485AWEP7KXGNP8VDN9?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kg0dg8485awep7kxgnp8vdn9?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KG0DG8485AWEP7KXGNP8VDN9?ref=live_chat</a></p>",
+          "createdDateTime": "2026-01-27T19:07:06.972Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:05:56.732Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:05:24.741Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:05:21.14Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:04:58.276Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:04:42.585Z"
+        }
+      ],
+      "type": "meeting"
     },
-    "support": {
-      "name": "PRODUCE Support",
-      "messages": []
+    "fulfill_&_produce_review": {
+      "name": "FULFILL & PRODUCE Review",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:41:46.526Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:37:01.589Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:32:40.74Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:32:40.177Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:32:37.856Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T19:32:35.706Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T18:34:34.579Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T18:34:30.989Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T18:33:53.248Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFVDJSQ8QMFX0A46WPEWZDZN?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfvdjsq8qmfx0a46wpewzdzn?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFVDJSQ8QMFX0A46WPEWZDZN?ref=live_chat</a></p>",
+          "createdDateTime": "2026-01-27T18:32:01.082Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T18:30:42.518Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T18:29:21.524Z"
+        }
+      ],
+      "type": "meeting"
     },
-    "directors": {
-      "name": "Directors",
-      "messages": []
+    "bln_spring_readiness_prep": {
+      "name": "BLN Spring Readiness Prep",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T16:35:26.523Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T16:33:50.556Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T16:33:46.23Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T16:33:45.022Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T16:04:31.75Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T16:04:27.566Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KFY4MCZAXT4TAYN4V17EJGPR?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kfy4mczaxt4tayn4v17ejgpr?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KFY4MCZAXT4TAYN4V17EJGPR?ref=live_chat</a></p>",
+          "createdDateTime": "2026-01-27T16:01:55.257Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T16:00:40.713Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-01-27T16:00:04.183Z"
+        }
+      ],
+      "type": "meeting"
     }
   },
-  "yesterday": {
-    "meetings": [
+  "sprint": {
+    "name": "Sprint 21",
+    "end_date": "2026-01-13",
+    "tasks": [
       {
-        "subject": "GrowPoint Migration Call Review",
-        "start": "2026-01-26T15:30:00.0000000",
-        "isAllDay": false
+        "id": "86b82z0r4",
+        "name": "Update UPC and ItemNumber reporting for Bonnie Plants",
+        "status": "next release",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b82z0r4",
+        "due_date": null
       },
       {
-        "subject": "Company Weekly",
-        "start": "2026-01-26T11:15:00.0000000",
-        "isAllDay": false
+        "id": "86b82d1gd",
+        "name": "EDI Import",
+        "status": "Closed",
+        "assignees": [
+          "Rob Williams "
+        ],
+        "priority": "urgent",
+        "url": "https://app.clickup.com/t/86b82d1gd",
+        "due_date": null
       },
       {
-        "subject": "Operations Weekly",
-        "start": "2026-01-26T10:15:00.0000000",
-        "isAllDay": false
+        "id": "86b81rf6e",
+        "name": "Add fallback for getItemPrice query",
+        "status": "next release",
+        "assignees": [
+          "Timothy Short"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b81rf6e",
+        "due_date": null
       },
       {
-        "subject": "Directors Weekly",
-        "start": "2026-01-26T09:30:00.0000000",
-        "isAllDay": false
+        "id": "86b81bcrf",
+        "name": "ALL - Add import Type of Count Surveys",
+        "status": "Closed",
+        "assignees": [
+          "Jared Leverington"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b81bcrf",
+        "due_date": null
       },
       {
-        "subject": "Product Daily Huddle",
-        "start": "2026-01-26T09:00:00.0000000",
-        "isAllDay": false
+        "id": "86b802tmh",
+        "name": "All - Update UploadStoreInvBulkTrans.aspx to check date within SQL's smalldatetime",
+        "status": "Closed",
+        "assignees": [
+          "Jared Leverington"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b802tmh",
+        "due_date": null
       },
       {
-        "subject": "Technology Weekly",
-        "start": "2026-01-26T13:30:00.0000000",
-        "isAllDay": false
+        "id": "86b7ycqw6",
+        "name": "DBR: Session",
+        "status": "Closed",
+        "assignees": [
+          "Eric Whitlow"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqw6",
+        "due_date": null
       },
       {
-        "subject": "Dev Huddle",
-        "start": "2026-01-26T12:00:00.0000000",
-        "isAllDay": false
-      }
-    ],
-    "emails_sent": [
-      {
-        "subject": "Re: E-Ticket Table Changes for S26",
-        "to": "Leigh Taylor, Mike Diehl, Dan Truitt",
-        "sentDateTime": "2026-01-26T19:07:41Z"
+        "id": "86b7ycqv8",
+        "name": "DBR: Rule",
+        "status": "next release",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqv8",
+        "due_date": null
       },
       {
-        "subject": "Tentative: Technology Weekly",
-        "to": "Chris Christensen",
-        "sentDateTime": "2026-01-26T18:08:58Z"
+        "id": "86b7ycqrb",
+        "name": "DBR: ContainerConfig",
+        "status": "Closed",
+        "assignees": [
+          "Eric Whitlow"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqrb",
+        "due_date": null
       },
       {
-        "subject": "Accepted: Technology Weekly",
-        "to": "Chris Christensen",
-        "sentDateTime": "2026-01-26T17:33:47Z"
+        "id": "86b7ycqqc",
+        "name": "DBR: ItemSettings",
+        "status": "next release",
+        "assignees": [
+          "Timothy Short"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqqc",
+        "due_date": null
       },
       {
-        "subject": "Re: E-Ticket Table Changes for S26",
-        "to": "Dan Truitt, Leigh Taylor, Elizabeth Dovre",
-        "sentDateTime": "2026-01-26T17:06:43Z"
+        "id": "86b7ycqnp",
+        "name": "DBR: DeliverySchedule",
+        "status": "next release",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqnp",
+        "due_date": null
       },
       {
-        "subject": "Accepted: GrowPoint Migration Call Review",
-        "to": "Kara Roberson",
-        "sentDateTime": "2026-01-26T05:04:57Z"
-      }
-    ],
-    "teams_sent": [
+        "id": "86b7yc62n",
+        "name": "DBR: ReplenishmentSettings",
+        "status": "next release",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7yc62n",
+        "due_date": null
+      },
       {
-        "chat": "Directors",
-        "content": "<p><a href=\"https://gist.githack.com/Nathanvans0221/1894e53ab247be54422855151155cd3c/raw/AGENT-ARCHI",
-        "createdDateTime": "2026-01-26T14:45:22.134Z"
+        "id": "86b7y5tmf",
+        "name": "DBR: Create \"Data Management > Defaults\" page",
+        "status": "next release",
+        "assignees": [
+          "Gabriela Gonzales"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7y5tmf",
+        "due_date": null
+      },
+      {
+        "id": "86b7y4nkf",
+        "name": "Research Price Group Bug - Items not applying price groups when added to orders",
+        "status": "next release",
+        "assignees": [
+          "Gabriela Gonzales"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b7y4nkf",
+        "due_date": null
+      },
+      {
+        "id": "86b7whxab",
+        "name": "CLM - Remove Retail $ from SubGrower view",
+        "status": "Closed",
+        "assignees": [
+          "Jared Leverington"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b7whxab",
+        "due_date": null
+      },
+      {
+        "id": "86b7rzf7p",
+        "name": "Add Custom Store/SKU lists to Store/SKU List tool",
+        "status": "Closed",
+        "assignees": [
+          "Jared Leverington"
+        ],
+        "priority": "normal",
+        "url": "https://app.clickup.com/t/86b7rzf7p",
+        "due_date": null
+      },
+      {
+        "id": "86b7rp1gf",
+        "name": "Add Load List Stations to WSAPI and Sync",
+        "status": "next release",
+        "assignees": [
+          "Eric Whitlow"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7rp1gf",
+        "due_date": null
+      },
+      {
+        "id": "86b7eqebj",
+        "name": "Wire Recipes front-end to backend",
+        "status": "next release",
+        "assignees": [
+          "Gabriela Gonzales"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7eqebj",
+        "due_date": null
       }
     ]
   },
-  "email_count": 50,
-  "calendar_count": 5,
-  "teams_count": 3,
-  "updated_at": "2026-01-27T13:46:49.160487+00:00",
+  "automations": {
+    "repo": "AdvGrower/worksuite-pwa-documentation",
+    "runs": [
+      {
+        "id": 21352027609,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-26T09:06:56Z",
+        "updated_at": "2026-01-26T09:13:04Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/21352027609",
+        "head_branch": "main",
+        "run_number": 11
+      },
+      {
+        "id": 21131507695,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-01-19T09:06:53Z",
+        "updated_at": "2026-01-19T09:10:38Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/21131507695",
+        "head_branch": "main",
+        "run_number": 10
+      },
+      {
+        "id": 20913632663,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-12T09:06:16Z",
+        "updated_at": "2026-01-12T09:16:12Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20913632663",
+        "head_branch": "main",
+        "run_number": 9
+      },
+      {
+        "id": 20755285360,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T16:47:06Z",
+        "updated_at": "2026-01-06T16:53:38Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20755285360",
+        "head_branch": "main",
+        "run_number": 8
+      },
+      {
+        "id": 20754838691,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-01-06T16:30:42Z",
+        "updated_at": "2026-01-06T16:37:49Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20754838691",
+        "head_branch": "main",
+        "run_number": 7
+      },
+      {
+        "id": 20753771345,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T15:54:09Z",
+        "updated_at": "2026-01-06T16:00:45Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753771345",
+        "head_branch": "main",
+        "run_number": 6
+      },
+      {
+        "id": 20753545265,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T15:46:10Z",
+        "updated_at": "2026-01-06T15:46:46Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753545265",
+        "head_branch": "main",
+        "run_number": 5
+      },
+      {
+        "id": 20753302364,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T15:37:37Z",
+        "updated_at": "2026-01-06T15:38:22Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753302364",
+        "head_branch": "main",
+        "run_number": 4
+      },
+      {
+        "id": 20753076185,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-01-06T15:29:31Z",
+        "updated_at": "2026-01-06T15:29:50Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753076185",
+        "head_branch": "main",
+        "run_number": 3
+      },
+      {
+        "id": 20752798740,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-01-06T15:19:50Z",
+        "updated_at": "2026-01-06T15:20:43Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20752798740",
+        "head_branch": "main",
+        "run_number": 2
+      }
+    ]
+  },
+  "yesterday": {},
   "standup": {
     "generated_at": "2026-01-27T23:00:45.960925Z",
     "for_date": "2026-01-28",
