@@ -251,64 +251,64 @@
   "teams_count": 1,
   "updated_at": "2026-01-29T16:46:02.090921+00:00",
   "standup": {
-    "generated_at": "2026-01-29T23:00:51.890191Z",
-    "for_date": "2026-01-30",
+    "generated_at": "2026-01-30T23:00:51.757317Z",
+    "for_date": "2026-01-31",
     "yesterday": [
       {
         "id": "y0",
-        "text": "Attended Product Daily Huddle to align on team priorities and blockers",
+        "text": "Attended Product Daily Huddle at 9:00 AM",
         "completed": true
       },
       {
         "id": "y1",
-        "text": "Director Huddle was canceled, freeing up time for focused work",
+        "text": "Participated in Dev Huddle at 12:00 PM",
         "completed": true
       },
       {
         "id": "y2",
-        "text": "Reviewed and triaged 20 emails including new vendor communications and team invitations",
+        "text": "Reviewed GitHub invitation from kevinshort2 for bonnie-to-worksuite-scoping project",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Monitored Product team communications and activity",
         "completed": true
       }
     ],
     "today": [
       {
         "id": "t0",
-        "text": "Attend Product Daily Huddle at 9:00 AM",
+        "text": "Respond to kevinshort2's GitHub repository invitation for bonnie-to-worksuite-scoping project",
         "completed": false
       },
       {
         "id": "t1",
-        "text": "Attend Director Huddle at 9:15 AM",
+        "text": "Review and catch up on Product team messages from this week",
         "completed": false
       },
       {
         "id": "t2",
-        "text": "Participate in Technology Quarterly Planning session at 12:00 PM",
+        "text": "Follow up on Technology Quarterly Planning session that was missed",
         "completed": false
       },
       {
         "id": "t3",
-        "text": "Join Dev Huddle at 12:00 PM",
-        "completed": false
-      },
-      {
-        "id": "t4",
-        "text": "Review kevinshort2 GitHub invitation for bonnie-to-worksuite-scoping project",
+        "text": "Plan for next week's priorities with no meetings scheduled",
         "completed": false
       }
     ],
     "followups": [
       {
         "id": "f0",
-        "text": "Respond to kevinshort2's GitHub repository invitation for scoping project",
+        "text": "Accept or decline GitHub invitation for bonnie-to-worksuite-scoping project",
         "completed": false
       },
       {
         "id": "f1",
-        "text": "Review Product team messages from yesterday's activity",
+        "text": "Check on status of Technology Quarterly Planning session and any action items",
         "completed": false
       }
     ]
   },
-  "standup_updated_at": "2026-01-29T23:00:51.890191Z"
+  "standup_updated_at": "2026-01-30T23:00:51.757317Z"
 }
