@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-03T12:52:53.208667Z",
+  "updated_at": "2026-02-03T13:13:35.940042Z",
   "email_count": 50,
   "calendar_count": 3,
   "teams_count": 90,
@@ -32,6 +32,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Meeting Prep: Product Daily Huddle",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-03T12:59:13Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81vAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Silver Fern, Last Chance to Review the Silver Fern PitchBook Profile",
       "from": "Jebesty Selvaraj",
@@ -374,13 +381,6 @@
       "receivedDateTime": "2026-01-31T17:39:18Z",
       "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQrcpBHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Bonnie Plants Delivery Confirmation and Invoice  # 300424",
-      "from": "Bonnie Plants",
-      "receivedDateTime": "2026-01-31T17:15:20Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQrcpBGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
