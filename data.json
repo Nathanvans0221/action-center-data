@@ -1,1 +1,71 @@
-{"error":{"message":"Short link not found or expired","code":4601,"slug":"ShortLink_NotFound","status":404,"request_id":"b787cc7c-dac0-41d2-85ad-8d1dea7f8c93","suggested_fix":""}}
+{
+  "error": {
+    "message": "Short link not found or expired",
+    "code": 4601,
+    "slug": "ShortLink_NotFound",
+    "status": 404,
+    "request_id": "b787cc7c-dac0-41d2-85ad-8d1dea7f8c93",
+    "suggested_fix": ""
+  },
+  "standup": {
+    "generated_at": "2026-02-03T23:03:42.153348Z",
+    "for_date": "2026-02-04",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Participated in Product Daily Huddle and Director Huddle for team alignment",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Attended 4.5-hour Technology Quarterly Planning session to define tech roadmap and priorities",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Coordinated cross-functional planning activities across product and technology teams",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Attend Product Daily Huddle and Director Huddle for daily sync",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Participate in Dev Huddle to align with engineering team",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Lead Sprint Review to demonstrate completed work and gather stakeholder feedback",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Facilitate Sprint Retrospective to identify team improvements",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Conduct Sprint Planning to define next sprint goals and commitments",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Review and document key decisions from Technology Quarterly Planning session",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Prepare sprint metrics and updates for tomorrow's review meeting",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-02-03T23:03:42.153348Z"
+}
