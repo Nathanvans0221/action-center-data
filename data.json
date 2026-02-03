@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-03T13:52:54.362075Z",
+  "updated_at": "2026-02-03T14:14:06.718502Z",
   "email_count": 50,
   "calendar_count": 3,
-  "teams_count": 90,
+  "teams_count": 98,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -32,6 +32,20 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Helping you stay warm this heating season",
+      "from": "Columbia Gas of Kentucky",
+      "receivedDateTime": "2026-02-03T14:08:23Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81xAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Rescue 411: Tips to Help Recover Cuttings from Delayed Deliveries",
+      "from": "Syngenta Flowers",
+      "receivedDateTime": "2026-02-03T14:01:11Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81wAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Meeting Prep: Product Daily Huddle",
       "from": "Fred from Fireflies.ai",
@@ -367,43 +381,49 @@
       "receivedDateTime": "2026-01-31T21:48:55Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsAdEpAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "January Deal Ends in 24 Hours",
-      "from": "Mytrip Newsletter",
-      "receivedDateTime": "2026-01-31T18:42:38Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQrcpBIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Add Notes Field to Order Line Items",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-01-31T17:39:18Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQrcpBHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
-    "group_chat": {
-      "name": "Group Chat",
+    "product_daily_huddle": {
+      "name": "Product Daily Huddle",
       "messages": [
         {
-          "from": "Isaac Carpenter",
-          "content": "<div>Correct. The only outstanding \u201cissue\u201d is the load list values not matching NAV, which I was unable to replicate from what I could test, and Eric said nothing looked wrong either. Not sure if he\u2019s found anything further.<br>\n<br>\nEverything else SHOULD be wrapped up. I\u2019ll have to look and see what is in stage vs. prod, and I\u2019ll make sure I know what is where. But they\u2019ve been testing in stage and we are looking pretty good there. Chris or Eric may be able to see easier, but I\u2019ll figure that out today.</div>",
-          "createdDateTime": "2026-02-02T14:16:47.552Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p>As far as we know, Bonnie can use load list in production, correct? ie, we are not aware of any outstanding items that would prevent it? &nbsp;</p>",
-          "createdDateTime": "2026-02-02T14:07:29.109Z"
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-03T14:12:17.679Z"
         },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-02T14:07:28.642Z"
+          "createdDateTime": "2026-02-03T14:12:12.186Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KG2T2Z36J2XQM7504S2C0P7J?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kg2t2z36j2xqm7504s2c0p7j?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KG2T2Z36J2XQM7504S2C0P7J?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-03T14:03:02.481Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-03T14:01:00.403Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-03T14:00:06.322Z"
+        },
+        {
+          "from": "Isaac Carpenter",
+          "content": "<p><strong>3C's</strong></p>\n<ul>\n<li>Fully Prepped for and Execute Successful Sprint Planning</li><li>BLN RESTOCK Desktop Development pushed to PE qadb</li><li>Get everything organized and back in a solid work routine after last few weeks</li></ul>",
+          "createdDateTime": "2026-02-02T14:58:03.67Z"
         }
       ],
-      "type": "group"
+      "type": "meeting"
+    },
+    "director_huddle": {
+      "name": "Director Huddle",
+      "messages": [],
+      "type": "meeting"
     },
     "executives_&_directors": {
       "name": "Executives & Directors",
@@ -502,6 +522,72 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-02T14:43:29.938Z"
+        }
+      ],
+      "type": "group"
+    },
+    "group_chat": {
+      "name": "Group Chat",
+      "messages": [
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>Orders are priced based on the&nbsp;ordered quantity. If the acknowledged quantity differs from the ordered quantity, pricing is recalculated accordingly; if the shipped quantity is updated, pricing is updated to reflect it.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Overrides can happen at 2 levels, item level, OR order level, meaning i can have an override price and that will be what is used regardless of what qty is shipped on an order, still, the qty at each stage can affect the total, i.e if the customer originally ordered 5, but i only shipped 3 pricing will reflect 3 shipped units.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Currently, statuses are at the whole order level, meaning you cannot partially ship or acknowledge orders; you will be able to do this long term, but not at this point in the process.&nbsp;</p>",
+          "createdDateTime": "2026-02-02T22:37:46.392Z"
+        },
+        {
+          "from": "Kennedy Kirk",
+          "content": "<p><at id=\"0\">Nathan</at>&nbsp;^ need help getting to a more clear answer on this so that I can get back to them (preferably sometime tomorrow). I don't have the product understanding to sort through this ... can you all discuss and let me know what correct wording for customer would be?&nbsp;</p>",
+          "createdDateTime": "2026-02-02T21:08:08.464Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-02T21:06:48.778Z"
+        },
+        {
+          "from": "Brian Strahan",
+          "content": "<p>Doesn't sound like fulfill allows for Overides on the fly</p>",
+          "createdDateTime": "2026-02-02T20:29:02.817Z"
+        },
+        {
+          "from": "Jon Bebus",
+          "content": "<p>Nathans answer implies that the whole order is either acknowledged or shipped. &nbsp;A status of the order. &nbsp;GP allows each line item to be either shipped or acknowledged. &nbsp;The extended total of the line item will adust from that.</p>",
+          "createdDateTime": "2026-02-02T20:28:56.709Z"
+        },
+        {
+          "from": "Kennedy Kirk",
+          "content": "<p>here is the answer Nathan sent over for the first one \"<span style=\"font-size:inherit\">Yes, you will be able to have pricing set at either level. It will recalculate depending on the status of the order. So acknowledge would be at the acknowledge level, and ship would be at the ship level.\"..... I'm not clear on whether this is actually addressing her question or if it will be what she expects... any thoughts?</span></p>",
+          "createdDateTime": "2026-02-02T20:27:36.063Z"
+        },
+        {
+          "from": "Jon Bebus",
+          "content": "<p>I didn't see the setup on the demo. &nbsp;It is possible there were no quantity breaks on the demo prices. &nbsp; GrowPoint orders have 3 qty. &nbsp;Ordered = what the customer wanted. &nbsp;Acknowledged = what you said they could have, &nbsp;and Shipped = What did they get. &nbsp;Prices are calculated off the Ack quantity unless\\until a shipped qty is entered.</p>",
+          "createdDateTime": "2026-02-02T20:26:03.67Z"
+        },
+        {
+          "from": "Brian Strahan",
+          "content": "<p>Ekstrom Prices off of Acknowledged and extends totals on Shipped</p>\n<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:01f8b69b308742779150e053dffd7262@thread.v2/messages/1770063917987/hostedContents/aWQ9eF8wLXd1cy1kNS1iNTI1YTQ3MTk5NzRmYTdmNmFjNTA3MzE0ZmYzNDRmMCx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1cy1kNS1iNTI1YTQ3MTk5NzRmYTdmNmFjNTA3MzE0ZmYzNDRmMC92aWV3cy9pbWdv/$value\" width=\"301.7418032786885\" height=\"250\" alt=\"image\" itemid=\"0-wus-d5-b525a4719974fa7f6ac507314ff344f0\"></p>",
+          "createdDateTime": "2026-02-02T20:25:17.987Z"
+        },
+        {
+          "from": "Brian Strahan",
+          "content": "<p>Pricing is done various ways in Growpoint - By Order/Acknowledge or Shipped. &nbsp;If the Selling price is Overridden on the fly the extended will take the override not the original selling. &nbsp;We also show the Original price next to the Selling so you can see the difference after the override.</p>",
+          "createdDateTime": "2026-02-02T20:22:59.064Z"
+        },
+        {
+          "from": "Kennedy Kirk",
+          "content": "<p>customer is <span style=\"font-size:inherit\">Ekstrom &amp; Schmidt Nursery, LLC</span></p>",
+          "createdDateTime": "2026-02-02T20:22:59.268Z"
+        },
+        {
+          "from": "Kennedy Kirk",
+          "content": "<p>Got these question from a Growpoint customer re: the fulfill demo... can you all provide any input on answers?</p>\n<p>&nbsp;</p>\n<p style=\"margin-bottom:0px; margin-left:40px; margin-top:0px\"><span style=\"font-size:inherit\">We are re-watching the video and had a couple of questions in the pricing section. Viewing that you can manually edit the acknowledge and the shipping fields, but the line total did not change as the quantities changed. Was that just a bug and will it total from the shipping quantity (if populated) when fixed and total from the acknowledgment column if not shipped yet?</span></p>\n<p style=\"margin-bottom:0px; margin-left:40px; margin-top:0px\"><span style=\"font-size:inherit\">&nbsp;</span></p>\n<p style=\"margin-bottom:0px; margin-left:40px; margin-top:0px\"><span style=\"font-size:inherit\">Also, when the override price is manually updated, the price column also updated. Again, is this a bug or will the price column stay stagnant, and the line total will drive from the override price. And will the overrride price be dynamic eventually to choose either a $ amount or a %? We are looking for these options to be by customer/by invoice and not by just by plant.</span></p>",
+          "createdDateTime": "2026-02-02T20:20:06.953Z"
+        },
+        {
+          "from": "Kennedy Kirk",
+          "content": "<p>The goal for our customer meetings over the next couple of weeks is to gather as much information as possible about how they use GrowPoint so that we can begin to evaluate when FULFILL will be ready for their use. I'd like to avoid pulling up FULFILL if possible, they can attend the group demos to see the product. But, it's not in a state where it's an efficient use of time to nitpick small things in FULFILL. Would like to keep conversation focused on what their workflows are, what missing features will be blockers for their transition, etc.</p>\n<p>&nbsp;</p>\n<p>Let me know if you have any questions or ideas on how to make these meetings flow smoothly, we'll have a lot of them over the next year <emoji id=\"smile\" alt=\"\ud83d\ude42\" title=\"Smile\"></emoji>&nbsp;</p>",
+          "createdDateTime": "2026-02-02T14:17:12.301Z"
         }
       ],
       "type": "group"
@@ -859,47 +945,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-02T14:30:04.692Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "product_daily_huddle": {
-      "name": "Product Daily Huddle",
-      "messages": [
-        {
-          "from": "Isaac Carpenter",
-          "content": "<p><strong>3C's</strong></p>\n<ul>\n<li>Fully Prepped for and Execute Successful Sprint Planning</li><li>BLN RESTOCK Desktop Development pushed to PE qadb</li><li>Get everything organized and back in a solid work routine after last few weeks</li></ul>",
-          "createdDateTime": "2026-02-02T14:58:03.67Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-02T14:07:24.284Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-02T14:07:18.756Z"
-        },
-        {
-          "from": "Isaac Short",
-          "content": "<ul>\n<li>Finish recast wireframe&nbsp;</li><li>Successful PR with the auto-dev skill&nbsp;</li></ul>",
-          "createdDateTime": "2026-02-02T14:00:27.159Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-02T14:00:15.236Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-02T13:59:50.602Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>reminder on 3Cs! I know, I'm terrible at keeping up with these, but we will get back to it.&nbsp;</p>",
-          "createdDateTime": "2026-02-02T13:58:33.987Z"
         }
       ],
       "type": "meeting"
