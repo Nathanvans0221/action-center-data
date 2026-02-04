@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T18:50:10.344002Z",
+  "updated_at": "2026-02-04T19:01:22.625428Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 49,
+  "teams_count": 50,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -411,6 +411,11 @@
     "sprint_planning": {
       "name": "Sprint Planning",
       "messages": [
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p><a href=\"https://www.scrumpoker-online.org/en/room/31098460/scrum-poker\" rel=\"noreferrer noopener\" title=\"https://www.scrumpoker-online.org/en/room/31098460/scrum-poker\" target=\"_blank\">https://www.scrumpoker-online.org/en/room/31098460/scrum-poker</a></p>",
+          "createdDateTime": "2026-02-04T18:54:56.334Z"
+        },
         {
           "from": "Gustavo Cota",
           "content": "<attachment id=\"fd33c06e-d6b9-4c8e-b88a-e5e8826532a6\"></attachment>",
