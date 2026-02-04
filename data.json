@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-04T16:40:09.337382Z",
+  "updated_at": "2026-02-04T16:50:08.879595Z",
   "email_count": 50,
   "calendar_count": 6,
   "teams_count": 34,
@@ -56,6 +56,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Reach Key Buyers at the 2026 Farwest Show!",
+      "from": "Farwest Show",
+      "receivedDateTime": "2026-02-04T16:43:05Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82iAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "DBR: Item Substitution for Unavailable Items",
       "from": "Silver Fern",
@@ -398,13 +405,6 @@
       "receivedDateTime": "2026-02-03T14:01:11Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81wAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Meeting Prep: Product Daily Huddle",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-02-03T12:59:13Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81vAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
