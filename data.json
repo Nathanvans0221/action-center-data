@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T19:20:09.125607Z",
+  "updated_at": "2026-02-04T19:33:38.214044Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 50,
+  "teams_count": 48,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -56,6 +56,27 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Smart ways to stay warm and save energy",
+      "from": "Columbia Gas of Kentucky",
+      "receivedDateTime": "2026-02-04T19:31:49Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82wAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "DBR: Order Submission Workflow",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-04T19:26:39Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82vAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "OAN Update: OAN launches Japanese Beetle Shipping Requirements portal, and more.",
+      "from": "Oregon Association of Nurseries",
+      "receivedDateTime": "2026-02-04T19:25:28Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82uAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "\ud83c\udf55 MVP-Worthy Gameday Bites Await!",
       "from": "Super Bowl LX",
@@ -384,33 +405,17 @@
       "receivedDateTime": "2026-02-03T18:16:32Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Now Open: IoT Infrastructure Innovation Award",
-      "from": "IoThinkTank",
-      "receivedDateTime": "2026-02-03T17:14:42Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ819AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Add visual indicator when grid filters are active",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-03T16:37:00Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ818AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Add visual indicator when grid filters are active",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-03T16:36:58Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ817AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "sprint_planning": {
       "name": "Sprint Planning",
       "messages": [
+        {
+          "from": "Timothy Short",
+          "content": "<p>brb</p>",
+          "createdDateTime": "2026-02-04T19:31:24.552Z"
+        },
         {
           "from": "Nathan van Wingerden",
           "content": "<p><a href=\"https://www.scrumpoker-online.org/en/room/31098460/scrum-poker\" rel=\"noreferrer noopener\" title=\"https://www.scrumpoker-online.org/en/room/31098460/scrum-poker\" target=\"_blank\">https://www.scrumpoker-online.org/en/room/31098460/scrum-poker</a></p>",
@@ -445,6 +450,52 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-04T18:15:03.544Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "sprint_review": {
+      "name": "Sprint Review",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:14:48.971Z"
+        },
+        {
+          "from": "Adam van Wingerden",
+          "content": "<p><a href=\"https://operatorjournal.substack.com/p/why-ramp-won\" rel=\"noreferrer noopener\" title=\"https://operatorjournal.substack.com/p/why-ramp-won\" target=\"_blank\">https://operatorjournal.substack.com/p/why-ramp-won</a></p>\n<p>&nbsp;</p>\n<p>point #3 specifically&nbsp;</p>",
+          "createdDateTime": "2026-02-04T17:06:23.514Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:06:04.2Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:06:00.71Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KG2T2Z32BCZRSV0TWNKPJS11?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kg2t2z32bczrsv0twnkpjs11?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KG2T2Z32BCZRSV0TWNKPJS11?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-04T16:01:33.389Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T15:59:46.057Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T15:59:42.002Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T15:59:38.106Z"
         }
       ],
       "type": "meeting"
@@ -501,52 +552,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-04T17:44:06.289Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "sprint_review": {
-      "name": "Sprint Review",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T17:14:48.971Z"
-        },
-        {
-          "from": "Adam van Wingerden",
-          "content": "<p><a href=\"https://operatorjournal.substack.com/p/why-ramp-won\" rel=\"noreferrer noopener\" title=\"https://operatorjournal.substack.com/p/why-ramp-won\" target=\"_blank\">https://operatorjournal.substack.com/p/why-ramp-won</a></p>\n<p>&nbsp;</p>\n<p>point #3 specifically&nbsp;</p>",
-          "createdDateTime": "2026-02-04T17:06:23.514Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T17:06:04.2Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T17:06:00.71Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KG2T2Z32BCZRSV0TWNKPJS11?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kg2t2z32bczrsv0twnkpjs11?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KG2T2Z32BCZRSV0TWNKPJS11?ref=live_chat</a></p>",
-          "createdDateTime": "2026-02-04T16:01:33.389Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T15:59:46.057Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T15:59:42.002Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T15:59:38.106Z"
         }
       ],
       "type": "meeting"
@@ -686,21 +691,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-03T19:34:13.749Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T19:23:25.558Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T19:23:22.803Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T19:23:20.035Z"
         }
       ],
       "type": "meeting"
