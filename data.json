@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T17:10:08.058022Z",
+  "updated_at": "2026-02-04T17:20:09.218533Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 33,
+  "teams_count": 35,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -56,6 +56,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Stephen van Wingerden wants to access 'DBR_Status_Report_Feb4'",
+      "from": "SharePoint Online",
+      "receivedDateTime": "2026-02-04T17:11:16Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82kAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Your meeting recap - Sprint Review",
       "from": "Fred from Fireflies.ai",
@@ -398,19 +405,33 @@
       "receivedDateTime": "2026-02-03T14:15:51Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81yAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Helping you stay warm this heating season",
-      "from": "Columbia Gas of Kentucky",
-      "receivedDateTime": "2026-02-03T14:08:23Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81xAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
+    "dev_huddle": {
+      "name": "Dev Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:16:40.455Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:00:04.744Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "sprint_review": {
       "name": "Sprint Review",
       "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:14:48.971Z"
+        },
         {
           "from": "Adam van Wingerden",
           "content": "<p><a href=\"https://operatorjournal.substack.com/p/why-ramp-won\" rel=\"noreferrer noopener\" title=\"https://operatorjournal.substack.com/p/why-ramp-won\" target=\"_blank\">https://operatorjournal.substack.com/p/why-ramp-won</a></p>\n<p>&nbsp;</p>\n<p>point #3 specifically&nbsp;</p>",
@@ -445,17 +466,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-04T15:59:38.106Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "dev_huddle": {
-      "name": "Dev Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T17:00:04.744Z"
         }
       ],
       "type": "meeting"
