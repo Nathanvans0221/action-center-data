@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T16:50:08.879595Z",
+  "updated_at": "2026-02-04T17:09:12.146274Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 34,
+  "teams_count": 33,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -56,6 +56,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Your meeting recap - Sprint Review",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-04T17:08:08Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82jAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Reach Key Buyers at the 2026 Farwest Show!",
       "from": "Farwest Show",
@@ -398,19 +405,27 @@
       "receivedDateTime": "2026-02-03T14:08:23Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81xAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Rescue 411: Tips to Help Recover Cuttings from Delayed Deliveries",
-      "from": "Syngenta Flowers",
-      "receivedDateTime": "2026-02-03T14:01:11Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81wAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "sprint_review": {
       "name": "Sprint Review",
       "messages": [
+        {
+          "from": "Adam van Wingerden",
+          "content": "<p><a href=\"https://operatorjournal.substack.com/p/why-ramp-won\" rel=\"noreferrer noopener\" title=\"https://operatorjournal.substack.com/p/why-ramp-won\" target=\"_blank\">https://operatorjournal.substack.com/p/why-ramp-won</a></p>\n<p>&nbsp;</p>\n<p>point #3 specifically&nbsp;</p>",
+          "createdDateTime": "2026-02-04T17:06:23.514Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:06:04.2Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:06:00.71Z"
+        },
         {
           "from": "Fireflies.ai Notetaker Nathan",
           "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KG2T2Z32BCZRSV0TWNKPJS11?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kg2t2z32bczrsv0twnkpjs11?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KG2T2Z32BCZRSV0TWNKPJS11?ref=live_chat</a></p>",
@@ -430,6 +445,17 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-04T15:59:38.106Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "dev_huddle": {
+      "name": "Dev Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:00:04.744Z"
         }
       ],
       "type": "meeting"
@@ -579,31 +605,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-03T19:23:20.035Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGDEBSVPBE96E6RDA4TENZZ6?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgdebsvpbe96e6rda4tenzz6?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGDEBSVPBE96E6RDA4TENZZ6?ref=live_chat</a></p>",
-          "createdDateTime": "2026-02-03T17:01:33.378Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T17:00:08.182Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T16:58:40.249Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T16:58:35.825Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T16:58:32.721Z"
         }
       ],
       "type": "meeting"
