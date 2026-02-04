@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T18:20:09.481273Z",
+  "updated_at": "2026-02-04T18:31:45.631868Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 46,
+  "teams_count": 51,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -56,6 +56,27 @@
     }
   ],
   "emails": [
+    {
+      "subject": "DBR: Wire \"Data Management > Items\" to backend",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-04T18:25:59Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82oAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "DBR: Wire \"Data Management > Locations\" to Backend",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-04T18:25:58Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82nAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - Sprint Retrospective",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-04T18:21:41Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82mAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "BUG: Error when receiving organic items",
       "from": "Silver Fern",
@@ -384,33 +405,17 @@
       "receivedDateTime": "2026-02-03T15:52:40Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ812AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "DBR: Demand Calculation Algorithm",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-03T15:49:02Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ811AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "DBR: Demand Calculation Algorithm",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-03T15:48:59Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ810AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Your meeting recap - Director Huddle",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-02-03T14:53:51Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81zAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "sprint_planning": {
       "name": "Sprint Planning",
       "messages": [
+        {
+          "from": "Gustavo Cota",
+          "content": "<attachment id=\"fd33c06e-d6b9-4c8e-b88a-e5e8826532a6\"></attachment>",
+          "createdDateTime": "2026-02-04T18:31:33.215Z"
+        },
         {
           "from": "Fireflies.ai Notetaker Nathan",
           "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KG2YCJPNXDA32SNB8768Z1GA?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kg2ycjpnxda32snb8768z1ga?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KG2YCJPNXDA32SNB8768Z1GA?ref=live_chat</a></p>",
@@ -435,6 +440,62 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-04T18:15:03.544Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "sprint_retrospective": {
+      "name": "Sprint Retrospective",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T18:26:37.577Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T18:22:15.203Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T18:22:13.784Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T18:22:09.985Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGFV6SVA9YHTZEZVA092VP56?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgfv6sva9yhtzezva092vp56?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGFV6SVA9YHTZEZVA092VP56?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-04T17:46:45.725Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:45:22.884Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>give me a few minutes&nbsp;</p>",
+          "createdDateTime": "2026-02-04T17:45:12.152Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:44:14.262Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:44:10.667Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:44:06.289Z"
         }
       ],
       "type": "meeting"
@@ -481,42 +542,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-04T15:59:38.106Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "sprint_retrospective": {
-      "name": "Sprint Retrospective",
-      "messages": [
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGFV6SVA9YHTZEZVA092VP56?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgfv6sva9yhtzezva092vp56?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGFV6SVA9YHTZEZVA092VP56?ref=live_chat</a></p>",
-          "createdDateTime": "2026-02-04T17:46:45.725Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T17:45:22.884Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>give me a few minutes&nbsp;</p>",
-          "createdDateTime": "2026-02-04T17:45:12.152Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T17:44:14.262Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T17:44:10.667Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T17:44:06.289Z"
         }
       ],
       "type": "meeting"
