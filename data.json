@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T14:10:13.060822Z",
+  "updated_at": "2026-02-04T14:20:09.851292Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 52,
+  "teams_count": 50,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -59,36 +59,50 @@
     {
       "subject": "Soak Up Spring from $38 One Way",
       "from": "Allegiant",
+      "receivedDateTime": "2026-02-04T14:13:47Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82WAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - Product Daily Huddle",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-04T14:12:29Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82VAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Soak Up Spring from $38 One Way",
+      "from": "Allegiant",
       "receivedDateTime": "2026-02-04T14:09:30Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82UAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "DBR Session Creation",
       "from": "Silver Fern",
       "receivedDateTime": "2026-02-04T14:05:40Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82TAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "URGENT: TriNet Notice: Get Ready: Benefits Open Enrollment Starts February 11",
       "from": "TriNet",
       "receivedDateTime": "2026-02-04T08:00:39Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82SAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Microsoft 365 security: You have messages in quarantine",
       "from": "quarantine@messaging.microsoft.com",
       "receivedDateTime": "2026-02-04T05:31:22Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82RAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Save up to 20% on Presidents Day long\u2011weekend stays",
       "from": "Hotels.com",
       "receivedDateTime": "2026-02-04T00:18:29Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82QAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
@@ -391,76 +405,36 @@
       "receivedDateTime": "2026-02-02T21:53:41Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81lAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "View Silver Fern\u2019s post and your next steps",
-      "from": "LinkedIn",
-      "receivedDateTime": "2026-02-02T21:29:57Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81kAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Accepted: Auto PR Test",
-      "from": "Isaac Carpenter",
-      "receivedDateTime": "2026-02-02T20:17:32Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81jAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
-    "product_daily_huddle": {
-      "name": "Product Daily Huddle",
+    "director_huddle": {
+      "name": "Director Huddle",
       "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T14:09:27.993Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T14:09:22.548Z"
-        },
         {
           "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KG2T2Z3987VY0KSGK6WT37K4?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kg2t2z3987vy0ksgk6wt37k4?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KG2T2Z3987VY0KSGK6WT37K4?ref=live_chat</a></p>",
-          "createdDateTime": "2026-02-04T14:02:45.879Z"
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGFDA0WEP07RDWH402XMGTV0?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgfda0wep07rdwh402xmgtv0?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGFDA0WEP07RDWH402XMGTV0?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-04T14:16:39.705Z"
         },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T14:01:20.284Z"
+          "createdDateTime": "2026-02-04T14:15:18.848Z"
         },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T14:00:04.527Z"
+          "createdDateTime": "2026-02-04T14:14:47.399Z"
         },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T14:12:17.679Z"
+          "createdDateTime": "2026-02-03T14:52:18.262Z"
         },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T14:12:12.186Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "nathan_van_wingerden_(silver_f": {
-      "name": "Nathan van Wingerden (Silver Fern) x Brandon",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T18:43:15.056Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T18:43:15.024Z"
+          "createdDateTime": "2026-02-03T14:52:13.223Z"
         }
       ],
       "type": "meeting"
@@ -468,6 +442,11 @@
     "oneonone_chat": {
       "name": "Oneonone Chat",
       "messages": [
+        {
+          "from": "Kevin Short",
+          "content": "<p>Call me this morning when you have 5 min re. BPF and sprint planning</p>",
+          "createdDateTime": "2026-02-04T14:10:15.351Z"
+        },
         {
           "from": "Nathan van Wingerden",
           "content": "Yep, sorry was away from my laptop. Will be able to respond to her in a little bit.",
@@ -562,14 +541,56 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-03T14:51:00.351Z"
+        }
+      ],
+      "type": "oneOnOne"
+    },
+    "product_daily_huddle": {
+      "name": "Product Daily Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T14:09:27.993Z"
         },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T14:50:56.518Z"
+          "createdDateTime": "2026-02-04T14:09:22.548Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KG2T2Z3987VY0KSGK6WT37K4?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kg2t2z3987vy0ksgk6wt37k4?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KG2T2Z3987VY0KSGK6WT37K4?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-04T14:02:45.879Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T14:01:20.284Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T14:00:04.527Z"
         }
       ],
-      "type": "oneOnOne"
+      "type": "meeting"
+    },
+    "nathan_van_wingerden_(silver_f": {
+      "name": "Nathan van Wingerden (Silver Fern) x Brandon",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-03T18:43:15.056Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-03T18:43:15.024Z"
+        }
+      ],
+      "type": "meeting"
     },
     "technology_quarterly_planning": {
       "name": "Technology Quarterly Planning",
@@ -658,37 +679,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-03T16:58:32.721Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "director_huddle": {
-      "name": "Director Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T14:52:18.262Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T14:52:13.223Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGCTX89P0VT3BZC154RDHA8Z?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgctx89p0vt3bzc154rdha8z?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGCTX89P0VT3BZC154RDHA8Z?ref=live_chat</a></p>",
-          "createdDateTime": "2026-02-03T14:16:35.735Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T14:15:13.891Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T14:15:03.225Z"
         }
       ],
       "type": "meeting"
