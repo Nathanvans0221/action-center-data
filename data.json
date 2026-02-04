@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T18:40:12.153606Z",
+  "updated_at": "2026-02-04T18:50:10.344002Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 51,
+  "teams_count": 49,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -56,6 +56,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "\ud83c\udf55 MVP-Worthy Gameday Bites Await!",
+      "from": "Super Bowl LX",
+      "receivedDateTime": "2026-02-04T18:45:11Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82tAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Combine Must-Go Availability into Single Load List Row",
       "from": "Silver Fern",
@@ -398,13 +405,6 @@
       "receivedDateTime": "2026-02-03T16:36:58Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ817AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Decide on Required Fields in Fulfill Imports ",
-      "from": "Kennedy Kirk",
-      "receivedDateTime": "2026-02-03T16:23:38Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ816AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
@@ -631,18 +631,7 @@
     },
     "nathan_van_wingerden_(silver_f": {
       "name": "Nathan van Wingerden (Silver Fern) x Brandon",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T18:43:15.056Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T18:43:15.024Z"
-        }
-      ],
+      "messages": [],
       "type": "meeting"
     },
     "technology_quarterly_planning": {
