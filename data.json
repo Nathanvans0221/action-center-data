@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T18:10:11.517866Z",
+  "updated_at": "2026-02-04T18:20:09.481273Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 41,
+  "teams_count": 46,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -408,6 +408,37 @@
     }
   ],
   "teams": {
+    "sprint_planning": {
+      "name": "Sprint Planning",
+      "messages": [
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KG2YCJPNXDA32SNB8768Z1GA?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kg2ycjpnxda32snb8768z1ga?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KG2YCJPNXDA32SNB8768Z1GA?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-04T18:18:40.587Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T18:17:22.903Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T18:17:22.058Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T18:17:17.618Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T18:15:03.544Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "sprint_review": {
       "name": "Sprint Review",
       "messages": [
