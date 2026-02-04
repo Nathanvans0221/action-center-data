@@ -1004,5 +1004,86 @@
       }
     ]
   },
-  "yesterday": {}
+  "yesterday": {},
+  "standup": {
+    "generated_at": "2026-02-04T23:01:47.502778Z",
+    "for_date": "2026-02-05",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Participated in Sprint Review to evaluate completed work from the last sprint",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Facilitated Sprint Retrospective to identify team improvements and action items",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Led Sprint Planning session to define scope and priorities for the upcoming sprint",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Attended Product Daily Huddle and Director Huddle for team alignment",
+        "completed": true
+      },
+      {
+        "id": "y4",
+        "text": "Engaged in cross-functional discussions across 7 Teams channels with 48 total messages",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Attend Product Daily Huddle and Director Huddle for daily alignment",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Decision meeting on Required Fields in Fulfill Imports at 10:00 AM",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Silver Fern & Bonnie check-in at 11:30 AM",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Auto PR Test session at 1:00 PM",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Review and respond to unread emails including DBR items on Quantity Override Actions and Order Submission Workflow",
+        "completed": false
+      },
+      {
+        "id": "t5",
+        "text": "Follow up on Combine Must-Go Availability into Single Load List Row request",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Address action items and commitments from Sprint Planning session",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Review Technology Quarterly Planning discussion (8 messages) and provide input",
+        "completed": false
+      },
+      {
+        "id": "f2",
+        "text": "Respond to DBR emails on Quantity Override Actions and Order Submission Workflow",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-02-04T23:01:47.502778Z"
 }
