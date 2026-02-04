@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-04T15:40:08.907137Z",
+  "updated_at": "2026-02-04T15:50:09.094248Z",
   "email_count": 50,
   "calendar_count": 6,
   "teams_count": 30,
@@ -56,6 +56,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Multi-select with delete functionality across all grids",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-04T15:49:05Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82cAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "BUG: Finish Job numbers not displaying for some items",
       "from": "Silver Fern",
@@ -398,13 +405,6 @@
       "receivedDateTime": "2026-02-03T01:43:36Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81qAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Bored? Solve today\u2019s puzzle \ud83e\udde9",
-      "from": "LinkedIn",
-      "receivedDateTime": "2026-02-03T00:23:46Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81pAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
