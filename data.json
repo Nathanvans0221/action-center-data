@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T17:40:09.421856Z",
+  "updated_at": "2026-02-04T17:50:09.956119Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 35,
+  "teams_count": 41,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -408,22 +408,6 @@
     }
   ],
   "teams": {
-    "dev_huddle": {
-      "name": "Dev Huddle",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T17:16:40.455Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T17:00:04.744Z"
-        }
-      ],
-      "type": "meeting"
-    },
     "sprint_review": {
       "name": "Sprint Review",
       "messages": [
@@ -466,6 +450,58 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-04T15:59:38.106Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "sprint_retrospective": {
+      "name": "Sprint Retrospective",
+      "messages": [
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGFV6SVA9YHTZEZVA092VP56?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgfv6sva9yhtzezva092vp56?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGFV6SVA9YHTZEZVA092VP56?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-04T17:46:45.725Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:45:22.884Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>give me a few minutes&nbsp;</p>",
+          "createdDateTime": "2026-02-04T17:45:12.152Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:44:14.262Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:44:10.667Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:44:06.289Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "dev_huddle": {
+      "name": "Dev Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:16:40.455Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T17:00:04.744Z"
         }
       ],
       "type": "meeting"
