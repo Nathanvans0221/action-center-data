@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T14:31:42.948147Z",
+  "updated_at": "2026-02-04T14:40:11.418679Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 50,
+  "teams_count": 53,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -56,6 +56,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Your meeting recap - Director Huddle",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-04T14:39:44Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82XAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Soak Up Spring from $38 One Way",
       "from": "Allegiant",
@@ -398,19 +405,27 @@
       "receivedDateTime": "2026-02-02T23:24:32Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81mAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "The Landscape Rodeo kicks off February 19-20 in St Augustine! Sign up for the Ultimate Green Industry Showdown!",
-      "from": "Landscape Rodeo",
-      "receivedDateTime": "2026-02-02T21:53:41Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81lAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "director_huddle": {
       "name": "Director Huddle",
       "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T14:38:21.248Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T14:38:16.34Z"
+        },
+        {
+          "from": "Chris Christensen",
+          "content": "<p><a href=\"https://changelog-automation-proposal.vercel.app/\" rel=\"noreferrer noopener\" title=\"https://changelog-automation-proposal.vercel.app/\" target=\"_blank\">https://changelog-automation-proposal.vercel.app/</a></p>",
+          "createdDateTime": "2026-02-04T14:33:39.088Z"
+        },
         {
           "from": "Fireflies.ai Notetaker Nathan",
           "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGFDA0WEP07RDWH402XMGTV0?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgfda0wep07rdwh402xmgtv0?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGFDA0WEP07RDWH402XMGTV0?ref=live_chat</a></p>",
