@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T15:10:08.783292Z",
+  "updated_at": "2026-02-04T15:20:10.278462Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 31,
+  "teams_count": 30,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -56,6 +56,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Tell us about your experience with Loom",
+      "from": "Loom",
+      "receivedDateTime": "2026-02-04T15:10:55Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82YAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Your meeting recap - Director Huddle",
       "from": "Fred from Fireflies.ai",
@@ -125,13 +132,6 @@
       "receivedDateTime": "2026-02-03T22:23:59Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82OAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Love this long weekend\u2014save up to 20% on select hotels",
-      "from": "Expedia.com",
-      "receivedDateTime": "2026-02-03T20:45:49Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82NAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Hi Nathan, discover exclusive experiences as an AAdvantage\u00ae member ",
@@ -586,17 +586,6 @@
       "name": "GP transition Q&A ",
       "messages": [],
       "type": "meeting"
-    },
-    "group_chat": {
-      "name": "Group Chat",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T15:10:23.283Z"
-        }
-      ],
-      "type": "group"
     }
   },
   "sprint": {
