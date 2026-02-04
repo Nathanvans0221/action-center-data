@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T14:05:09.513963Z",
+  "updated_at": "2026-02-04T14:10:13.060822Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 48,
+  "teams_count": 52,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -56,6 +56,20 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Soak Up Spring from $38 One Way",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-02-04T14:09:30Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82UAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "DBR Session Creation",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-04T14:05:40Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82TAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "URGENT: TriNet Notice: Get Ready: Benefits Open Enrollment Starts February 11",
       "from": "TriNet",
@@ -391,26 +405,22 @@
       "receivedDateTime": "2026-02-02T20:17:32Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81jAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Isaacshort32 invited you to Isaacshort32/product-dev-skill",
-      "from": "Isaacshort32",
-      "receivedDateTime": "2026-02-02T20:09:15Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81iAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Your meeting recap - Product Bi Weekly",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-02-02T19:45:14Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ81hAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "product_daily_huddle": {
       "name": "Product Daily Huddle",
       "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T14:09:27.993Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-04T14:09:22.548Z"
+        },
         {
           "from": "Fireflies.ai Notetaker Nathan",
           "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KG2T2Z3987VY0KSGK6WT37K4?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kg2t2z3987vy0ksgk6wt37k4?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KG2T2Z3987VY0KSGK6WT37K4?ref=live_chat</a></p>",
@@ -435,6 +445,22 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-03T14:12:12.186Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "nathan_van_wingerden_(silver_f": {
+      "name": "Nathan van Wingerden (Silver Fern) x Brandon",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-03T18:43:15.056Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-03T18:43:15.024Z"
         }
       ],
       "type": "meeting"
