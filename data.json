@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-04T14:50:10.432913Z",
+  "updated_at": "2026-02-04T15:07:37.372882Z",
   "email_count": 50,
   "calendar_count": 6,
-  "teams_count": 53,
+  "teams_count": 31,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -440,125 +440,9 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-04T14:14:47.399Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T14:52:18.262Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T14:52:13.223Z"
         }
       ],
       "type": "meeting"
-    },
-    "oneonone_chat": {
-      "name": "Oneonone Chat",
-      "messages": [
-        {
-          "from": "Kevin Short",
-          "content": "<p>Call me this morning when you have 5 min re. BPF and sprint planning</p>",
-          "createdDateTime": "2026-02-04T14:10:15.351Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "Yep, sorry was away from my laptop. Will be able to respond to her in a little bit.",
-          "createdDateTime": "2026-02-03T23:48:14.83Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p>Can you look at this tonight and/or respond to Caitlyn?&nbsp;</p>",
-          "createdDateTime": "2026-02-03T23:47:40.144Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:47887e22-40e2-420a-8ad8-d6b48c5a1bbf_d54e380f-7a5a-4995-8be0-de36628657f2@unq.gbl.spaces/messages/1770158825330/hostedContents/aWQ9eF8wLWV1cy1kNi0wZTkyZGYzMGQ5YmYyODRjOGYwZWU5YzczYjg4ZjU0OCx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLWV1cy1kNi0wZTkyZGYzMGQ5YmYyODRjOGYwZWU5YzczYjg4ZjU0OC92aWV3cy9pbWdv/$value\" width=\"851.2569832402235\" height=\"250\" alt=\"image\" itemid=\"0-eus-d6-0e92df30d9bf284c8f0ee9c73b88f548\"></p>",
-          "createdDateTime": "2026-02-03T22:47:05.33Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "What\u2019s the context of her question?",
-          "createdDateTime": "2026-02-03T22:34:07.429Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "Her question about the console?",
-          "createdDateTime": "2026-02-03T22:33:56.971Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p>This is important ^</p>",
-          "createdDateTime": "2026-02-03T22:23:40.657Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p>Can you get details for Caitlyn's access inquiry?&nbsp;</p>",
-          "createdDateTime": "2026-02-03T22:17:01.146Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<attachment id=\"1770147405588\"></attachment>\n<p>i didn't actually close it on the website</p>",
-          "createdDateTime": "2026-02-03T19:37:39.342Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<attachment id=\"1770147371129\"></attachment>\n<p>the app let's you do it too. not as fancy or full access as this thogh</p>",
-          "createdDateTime": "2026-02-03T19:37:23.127Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>i can now run claude code from my phone. This has claude up 24/7 via a Digital Ocean server&nbsp;</p>",
-          "createdDateTime": "2026-02-03T19:36:11.129Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<attachment id=\"1770145263948\"></attachment>\n<p>i just got a new GQ interview scheduled for Friday, lol. are you sure its closed?&nbsp;</p>",
-          "createdDateTime": "2026-02-03T19:36:45.588Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p><a href=\"http://159.89.233.251:3001/\" rel=\"noreferrer noopener\" title=\"http://159.89.233.251:3001/\" target=\"_blank\">http://159.89.233.251:3001/</a></p>",
-          "createdDateTime": "2026-02-03T19:35:42.602Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p>not that i'm aware of. you're welcome to launch another campaign if you want, but i don't think we have one going currently</p>",
-          "createdDateTime": "2026-02-03T19:01:03.948Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>Are we still doing GQ interviews?&nbsp;</p>",
-          "createdDateTime": "2026-02-03T18:44:33.39Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>I need to spend some time just looking into it all. Will give you my thoughts by EOD&nbsp;</p>",
-          "createdDateTime": "2026-02-03T15:57:32.24Z"
-        },
-        {
-          "from": "Kevin Short",
-          "content": "<p>BLUF re. BLN:&nbsp;</p>\n<ol>\n<li>John needs to gather some more info. Ideally, he can handle in sort of a siloed manner. We'll see.&nbsp;</li><li>We need to think about the RESTOCK tasks for this sprint. What do you think?&nbsp;</li></ol>",
-          "createdDateTime": "2026-02-03T15:48:44.227Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T15:03:04.112Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T15:01:21.395Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-03T14:51:00.351Z"
-        }
-      ],
-      "type": "oneOnOne"
     },
     "product_daily_huddle": {
       "name": "Product Daily Huddle",
