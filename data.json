@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-05T20:40:18.661145Z",
+  "updated_at": "2026-02-05T20:50:22.121511Z",
   "email_count": 50,
   "calendar_count": 4,
   "teams_count": 59,
@@ -40,6 +40,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Welcome to ngrok!",
+      "from": "ngrok team",
+      "receivedDateTime": "2026-02-05T20:44:34Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2BxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "[GitHub] A third-party OAuth application has been added to your account",
       "from": "GitHub",
@@ -382,13 +389,6 @@
       "receivedDateTime": "2026-02-04T20:10:22Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82yAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "DBR: Quantity Override Actions",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-04T19:43:09Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82xAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
