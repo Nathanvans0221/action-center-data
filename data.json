@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-05T21:40:25.638628Z",
+  "updated_at": "2026-02-05T21:50:19.880184Z",
   "email_count": 50,
   "calendar_count": 4,
-  "teams_count": 84,
+  "teams_count": 85,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -399,6 +399,11 @@
           "from": "Adam van Wingerden",
           "content": "<div>What the dev team prob thinks of us <br>\n<img src=\"https://graph.microsoft.com/v1.0/chats/19:848f07124f8f46e1996e71dbddcf74a2@thread.v2/messages/1770327574331/hostedContents/aWQ9LHR5cGU9MSx1cmw9aHR0cHM6Ly91cy1wcm9kLmFzeW5jZ3cudGVhbXMubWljcm9zb2Z0LmNvbS92MS9vYmplY3RzLzAtd3VzLWQ2LWQ0MWM1YTA2MThlZjgzYTM2YTI4MmNkMDdmZGVhMmEwL3ZpZXdzL2ltZ28=/$value\" style=\"width:1206px; height:708px\"></div>",
           "createdDateTime": "2026-02-05T21:39:34.331Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "I\u2019m dying\ud83d\ude02\ud83d\ude02",
+          "createdDateTime": "2026-02-05T21:40:52.675Z"
         },
         {
           "from": "Adam van Wingerden",
