@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-05T20:10:23.225749Z",
+  "updated_at": "2026-02-05T20:21:11.005413Z",
   "email_count": 50,
   "calendar_count": 4,
-  "teams_count": 56,
+  "teams_count": 60,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -40,6 +40,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Upcoming Grow Forward, Safety Series + tHRIve webinars",
+      "from": "AmericanHort",
+      "receivedDateTime": "2026-02-05T20:15:12Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2BtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Cannot Create Order",
       "from": "Silver Fern",
@@ -382,13 +389,6 @@
       "receivedDateTime": "2026-02-04T19:25:28Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82uAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Combine Must-Go Availability into Single Load List Row",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-04T18:34:57Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82sAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
@@ -398,70 +398,34 @@
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:20:22.404Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-05T20:09:53.78Z"
         }
       ],
       "type": "group"
     },
-    "silver_fern_&_bonnie_|_check-i": {
-      "name": "Silver Fern & Bonnie | Check-In",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T17:01:20.623Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T16:58:02.843Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T16:58:01.524Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T16:57:57.606Z"
-        },
-        {
-          "from": "Leigh Taylor",
-          "content": "<p>Units of Measure (209)</p>",
-          "createdDateTime": "2026-02-05T16:41:04.776Z"
-        },
-        {
-          "from": "Fireflies.ai Notetaker Nathan",
-          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGJK5437RG0JJWC805B44MS4?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgjk5437rg0jjwc805b44ms4?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGJK5437RG0JJWC805B44MS4?ref=live_chat</a></p>",
-          "createdDateTime": "2026-02-05T16:31:42.51Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T16:30:25.313Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T16:29:51.722Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T16:29:47.151Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T16:29:24.966Z"
-        }
-      ],
-      "type": "meeting"
-    },
     "product_owners_+_kevin": {
       "name": "Product Owners + Kevin",
       "messages": [
+        {
+          "from": "Kevin Short",
+          "content": "<p><a href=\"https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi\" rel=\"noreferrer noopener\" title=\"https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi\" target=\"_blank\">https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi</a></p>",
+          "createdDateTime": "2026-02-05T20:15:22.616Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:11:28.518Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:11:19.663Z"
+        },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
@@ -478,6 +442,11 @@
     "auto_pr_test": {
       "name": "Auto PR Test",
       "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:11:50.25Z"
+        },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
@@ -572,11 +541,62 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-05T18:00:06.204Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "silver_fern_&_bonnie_|_check-i": {
+      "name": "Silver Fern & Bonnie | Check-In",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T17:01:20.623Z"
         },
         {
-          "from": "Nathan van Wingerden",
-          "content": "Running a few mins behind",
-          "createdDateTime": "2026-02-05T17:58:53.197Z"
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T16:58:02.843Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T16:58:01.524Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T16:57:57.606Z"
+        },
+        {
+          "from": "Leigh Taylor",
+          "content": "<p>Units of Measure (209)</p>",
+          "createdDateTime": "2026-02-05T16:41:04.776Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGJK5437RG0JJWC805B44MS4?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgjk5437rg0jjwc805b44ms4?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGJK5437RG0JJWC805B44MS4?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-05T16:31:42.51Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T16:30:25.313Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T16:29:51.722Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T16:29:47.151Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T16:29:24.966Z"
         }
       ],
       "type": "meeting"
