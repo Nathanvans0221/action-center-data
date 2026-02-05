@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-05T20:21:11.005413Z",
+  "updated_at": "2026-02-05T20:33:21.395042Z",
   "email_count": 50,
   "calendar_count": 4,
-  "teams_count": 60,
+  "teams_count": 57,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -40,6 +40,20 @@
     }
   ],
   "emails": [
+    {
+      "subject": "[GitHub] A third-party GitHub Application has been added to your account",
+      "from": "GitHub",
+      "receivedDateTime": "2026-02-05T20:30:44Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2BvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "[GitHub] Please verify your device",
+      "from": "GitHub",
+      "receivedDateTime": "2026-02-05T20:30:22Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2BuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Upcoming Grow Forward, Safety Series + tHRIve webinars",
       "from": "AmericanHort",
@@ -375,26 +389,17 @@
       "receivedDateTime": "2026-02-04T19:31:49Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82wAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "DBR: Order Submission Workflow",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-04T19:26:39Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82vAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "OAN Update: OAN launches Japanese Beetle Shipping Requirements portal, and more.",
-      "from": "Oregon Association of Nurseries",
-      "receivedDateTime": "2026-02-04T19:25:28Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82uAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "lms_agent_architecture": {
       "name": "LMS Agent Architecture",
       "messages": [
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:848f07124f8f46e1996e71dbddcf74a2@thread.v2/messages/1770322938237/hostedContents/aWQ9eF8wLXd1cy1kOC00MzJmOWUzZTUzZDYzZTM0NGZjNWMyYWEyZDNjMWI2MCx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1cy1kOC00MzJmOWUzZTUzZDYzZTM0NGZjNWMyYWEyZDNjMWI2MC92aWV3cy9pbWdv/$value\" width=\"870.6896551724138\" height=\"250\" alt=\"image\" itemid=\"0-wus-d8-432f9e3e53d63e344fc5c2aa2d3c1b60\"></p>",
+          "createdDateTime": "2026-02-05T20:22:18.237Z"
+        },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
@@ -710,32 +715,6 @@
           "from": "Nathan van Wingerden",
           "content": "Not feeling the best this AM, going to miss this.",
           "createdDateTime": "2026-02-05T13:32:20.701Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "sprint_planning": {
-      "name": "Sprint Planning",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T20:25:31.886Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T20:22:07.048Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T20:22:03.491Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-04T20:22:01.212Z"
         }
       ],
       "type": "meeting"
