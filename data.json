@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-05T21:50:19.880184Z",
+  "updated_at": "2026-02-05T22:06:38.769374Z",
   "email_count": 50,
   "calendar_count": 4,
-  "teams_count": 85,
+  "teams_count": 87,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -40,6 +40,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "DBR: Quantity Override Actions",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-05T22:03:16Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2B4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "BUG: Error when receiving organic items",
       "from": "Silver Fern",
@@ -382,19 +389,22 @@
       "receivedDateTime": "2026-02-05T07:11:43Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ825AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "[Getting started on DO] Part 1 of 4: Launch, Configure, and Secure Your Virtual Machine",
-      "from": "Team DigitalOcean",
-      "receivedDateTime": "2026-02-05T06:11:47Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ824AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
     "lms_agent_architecture": {
       "name": "LMS Agent Architecture",
       "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T21:54:52.565Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T21:53:58.435Z"
+        },
         {
           "from": "Adam van Wingerden",
           "content": "<div>What the dev team prob thinks of us <br>\n<img src=\"https://graph.microsoft.com/v1.0/chats/19:848f07124f8f46e1996e71dbddcf74a2@thread.v2/messages/1770327574331/hostedContents/aWQ9LHR5cGU9MSx1cmw9aHR0cHM6Ly91cy1wcm9kLmFzeW5jZ3cudGVhbXMubWljcm9zb2Z0LmNvbS92MS9vYmplY3RzLzAtd3VzLWQ2LWQ0MWM1YTA2MThlZjgzYTM2YTI4MmNkMDdmZGVhMmEwL3ZpZXdzL2ltZ28=/$value\" style=\"width:1206px; height:708px\"></div>",
