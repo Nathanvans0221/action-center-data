@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-05T22:40:21.822735Z",
+  "updated_at": "2026-02-05T22:50:19.998676Z",
   "email_count": 50,
   "calendar_count": 4,
   "teams_count": 87,
@@ -40,6 +40,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Nathan, 80,000 bonus miles available for a limited time only. Terms apply",
+      "from": "American Airlines AAdvantage Program",
+      "receivedDateTime": "2026-02-05T22:47:49Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2B5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "DBR: Quantity Override Actions",
       "from": "Silver Fern",
@@ -382,13 +389,6 @@
       "receivedDateTime": "2026-02-05T09:00:26Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ826AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Help us improve DigitalOcean Droplets",
-      "from": "Team DigitalOcean",
-      "receivedDateTime": "2026-02-05T07:11:43Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ825AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
