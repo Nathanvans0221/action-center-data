@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-05T20:05:13.675040Z",
+  "updated_at": "2026-02-05T20:10:23.225749Z",
   "email_count": 50,
   "calendar_count": 4,
   "teams_count": 56,
@@ -40,6 +40,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Cannot Create Order",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-05T20:09:32Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2BsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Tenant-Level Email Notification Feature Flags",
       "from": "Silver Fern",
@@ -382,16 +389,20 @@
       "receivedDateTime": "2026-02-04T18:34:57Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82sAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "DBR: Get Historical Sales from BPF",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-04T18:34:25Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82rAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
+    "lms_agent_architecture": {
+      "name": "LMS Agent Architecture",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:09:53.78Z"
+        }
+      ],
+      "type": "group"
+    },
     "silver_fern_&_bonnie_|_check-i": {
       "name": "Silver Fern & Bonnie | Check-In",
       "messages": [
@@ -705,11 +716,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-04T20:22:01.212Z"
-        },
-        {
-          "from": "Gustavo Cota",
-          "content": "<p>brb</p>",
-          "createdDateTime": "2026-02-04T20:06:25.98Z"
         }
       ],
       "type": "meeting"
