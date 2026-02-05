@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-05T23:06:51.939995Z",
+  "updated_at": "2026-02-05T23:10:28.078112Z",
   "email_count": 50,
   "calendar_count": 4,
   "teams_count": 87,
@@ -392,80 +392,14 @@
     }
   ],
   "teams": {
-    "lms_agent_architecture": {
-      "name": "LMS Agent Architecture",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T21:54:52.565Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T21:53:58.435Z"
-        },
-        {
-          "from": "Adam van Wingerden",
-          "content": "<div>What the dev team prob thinks of us <br>\n<img src=\"https://graph.microsoft.com/v1.0/chats/19:848f07124f8f46e1996e71dbddcf74a2@thread.v2/messages/1770327574331/hostedContents/aWQ9LHR5cGU9MSx1cmw9aHR0cHM6Ly91cy1wcm9kLmFzeW5jZ3cudGVhbXMubWljcm9zb2Z0LmNvbS92MS9vYmplY3RzLzAtd3VzLWQ2LWQ0MWM1YTA2MThlZjgzYTM2YTI4MmNkMDdmZGVhMmEwL3ZpZXdzL2ltZ28=/$value\" style=\"width:1206px; height:708px\"></div>",
-          "createdDateTime": "2026-02-05T21:39:34.331Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "I\u2019m dying\ud83d\ude02\ud83d\ude02",
-          "createdDateTime": "2026-02-05T21:40:52.675Z"
-        },
-        {
-          "from": "Adam van Wingerden",
-          "content": "Add one cart of 6-packs to every order going out on 6/1 to Lowe\u2019s\u2026 make sure it decrements from inventory",
-          "createdDateTime": "2026-02-05T21:27:23.674Z"
-        },
-        {
-          "from": "Adam van Wingerden",
-          "content": "Generate an html analytics report comparing my inventory levels to sales this year vs last year\u2026.",
-          "createdDateTime": "2026-02-05T21:26:43.726Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T21:26:39.754Z"
-        },
-        {
-          "from": "Adam van Wingerden",
-          "content": "<p>imagine getting that hooked up into PRODUCE and RESTOCK/FORECAST.....</p>",
-          "createdDateTime": "2026-02-05T21:22:12.195Z"
-        },
-        {
-          "from": "Adam van Wingerden",
-          "content": "<p><a href=\"https://www.moltbook.com/\" rel=\"noreferrer noopener\" title=\"https://www.moltbook.com/\" target=\"_blank\">https://www.moltbook.com/</a></p>",
-          "createdDateTime": "2026-02-05T20:39:19.271Z"
-        },
-        {
-          "from": "Adam van Wingerden",
-          "content": "<p><a href=\"https://molt.church/\" rel=\"noreferrer noopener\" title=\"https://molt.church/\" target=\"_blank\">https://molt.church/</a></p>",
-          "createdDateTime": "2026-02-05T20:38:43.353Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:848f07124f8f46e1996e71dbddcf74a2@thread.v2/messages/1770322938237/hostedContents/aWQ9eF8wLXd1cy1kOC00MzJmOWUzZTUzZDYzZTM0NGZjNWMyYWEyZDNjMWI2MCx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1cy1kOC00MzJmOWUzZTUzZDYzZTM0NGZjNWMyYWEyZDNjMWI2MC92aWV3cy9pbWdv/$value\" width=\"870.6896551724138\" height=\"250\" alt=\"image\" itemid=\"0-wus-d8-432f9e3e53d63e344fc5c2aa2d3c1b60\"></p>",
-          "createdDateTime": "2026-02-05T20:22:18.237Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T20:20:22.404Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T20:09:53.78Z"
-        }
-      ],
-      "type": "group"
-    },
     "oneonone_chat": {
       "name": "Oneonone Chat",
       "messages": [
+        {
+          "from": "Kevin Short",
+          "content": "<p>I'll be OOO tomorrow...will you make sure that we get detailed release notes to BPF?&nbsp;</p>",
+          "createdDateTime": "2026-02-05T23:08:32.066Z"
+        },
         {
           "from": "Unknown",
           "content": "<systemEventMessage/>",
@@ -560,14 +494,80 @@
           "from": "Kevin Short",
           "content": "<attachment id=\"1770304977388\"></attachment>\n<p>please let me know asap if you all get this in place</p>",
           "createdDateTime": "2026-02-05T15:23:38.611Z"
-        },
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p>what on earth</p>",
-          "createdDateTime": "2026-02-05T15:23:25.471Z"
         }
       ],
       "type": "oneOnOne"
+    },
+    "lms_agent_architecture": {
+      "name": "LMS Agent Architecture",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T21:54:52.565Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T21:53:58.435Z"
+        },
+        {
+          "from": "Adam van Wingerden",
+          "content": "<div>What the dev team prob thinks of us <br>\n<img src=\"https://graph.microsoft.com/v1.0/chats/19:848f07124f8f46e1996e71dbddcf74a2@thread.v2/messages/1770327574331/hostedContents/aWQ9LHR5cGU9MSx1cmw9aHR0cHM6Ly91cy1wcm9kLmFzeW5jZ3cudGVhbXMubWljcm9zb2Z0LmNvbS92MS9vYmplY3RzLzAtd3VzLWQ2LWQ0MWM1YTA2MThlZjgzYTM2YTI4MmNkMDdmZGVhMmEwL3ZpZXdzL2ltZ28=/$value\" style=\"width:1206px; height:708px\"></div>",
+          "createdDateTime": "2026-02-05T21:39:34.331Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "I\u2019m dying\ud83d\ude02\ud83d\ude02",
+          "createdDateTime": "2026-02-05T21:40:52.675Z"
+        },
+        {
+          "from": "Adam van Wingerden",
+          "content": "Add one cart of 6-packs to every order going out on 6/1 to Lowe\u2019s\u2026 make sure it decrements from inventory",
+          "createdDateTime": "2026-02-05T21:27:23.674Z"
+        },
+        {
+          "from": "Adam van Wingerden",
+          "content": "Generate an html analytics report comparing my inventory levels to sales this year vs last year\u2026.",
+          "createdDateTime": "2026-02-05T21:26:43.726Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T21:26:39.754Z"
+        },
+        {
+          "from": "Adam van Wingerden",
+          "content": "<p>imagine getting that hooked up into PRODUCE and RESTOCK/FORECAST.....</p>",
+          "createdDateTime": "2026-02-05T21:22:12.195Z"
+        },
+        {
+          "from": "Adam van Wingerden",
+          "content": "<p><a href=\"https://www.moltbook.com/\" rel=\"noreferrer noopener\" title=\"https://www.moltbook.com/\" target=\"_blank\">https://www.moltbook.com/</a></p>",
+          "createdDateTime": "2026-02-05T20:39:19.271Z"
+        },
+        {
+          "from": "Adam van Wingerden",
+          "content": "<p><a href=\"https://molt.church/\" rel=\"noreferrer noopener\" title=\"https://molt.church/\" target=\"_blank\">https://molt.church/</a></p>",
+          "createdDateTime": "2026-02-05T20:38:43.353Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:848f07124f8f46e1996e71dbddcf74a2@thread.v2/messages/1770322938237/hostedContents/aWQ9eF8wLXd1cy1kOC00MzJmOWUzZTUzZDYzZTM0NGZjNWMyYWEyZDNjMWI2MCx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1cy1kOC00MzJmOWUzZTUzZDYzZTM0NGZjNWMyYWEyZDNjMWI2MC92aWV3cy9pbWdv/$value\" width=\"870.6896551724138\" height=\"250\" alt=\"image\" itemid=\"0-wus-d8-432f9e3e53d63e344fc5c2aa2d3c1b60\"></p>",
+          "createdDateTime": "2026-02-05T20:22:18.237Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:20:22.404Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:09:53.78Z"
+        }
+      ],
+      "type": "group"
     },
     "auto_pr_test": {
       "name": "Auto PR Test",
