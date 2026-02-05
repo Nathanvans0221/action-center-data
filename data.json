@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-05T21:20:25.264834Z",
+  "updated_at": "2026-02-05T21:36:41.898484Z",
   "email_count": 50,
   "calendar_count": 4,
-  "teams_count": 59,
+  "teams_count": 83,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -392,9 +392,135 @@
     }
   ],
   "teams": {
+    "oneonone_chat": {
+      "name": "Oneonone Chat",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T21:32:14.069Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T21:26:43.864Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p>ll done. Here's what Nathan needs:</p>\n<p>&nbsp;</p>\n<p>&nbsp; Branch: feature/worksuite-mcp-server on the wsapi repo</p>\n<p>&nbsp;</p>\n<p>&nbsp; What's there:<br>\n&nbsp; - 12 source files (977 lines) for the full MCP server<br>\n&nbsp; - WorkSuite.Mcp/SETUP_GUIDE.html - a styled HTML walkthrough covering:<br>\n&nbsp;&nbsp;&nbsp; a. Prerequisites (.NET 9, Docker, Python, ngrok account)<br>\n&nbsp;&nbsp;&nbsp; b. Getting the code (git checkout feature/worksuite-mcp-server)<br>\n&nbsp;&nbsp;&nbsp; c. Starting Docker infrastructure (MongoDB + KurrentDB)<br>\n&nbsp;&nbsp;&nbsp; d. Starting wsapi GraphQL API<br>\n&nbsp;&nbsp;&nbsp; e. Generating a JWT token (Python one-liner with the dev signing key)<br>\n&nbsp;&nbsp;&nbsp; f. Creating a tenant via GraphQL mutation<br>\n&nbsp;&nbsp;&nbsp; g. Building &amp; starting the MCP server with all env vars<br>\n&nbsp;&nbsp;&nbsp; h. Installing &amp; configuring ngrok<br>\n&nbsp;&nbsp;&nbsp; i. Connecting Claude.ai (URL must end with /sse)<br>\n&nbsp;&nbsp;&nbsp; j. Testing all 6 tools with example prompts<br>\n&nbsp;&nbsp;&nbsp; - Plus troubleshooting section for common issues</p>\n<p>&nbsp;</p>\n<p>&nbsp; Nathan can open the HTML locally in a browser for a nice formatted guide, or just read it in his IDE. The guide is self-contained - no external<br>\n&nbsp; dependencies.</p>\n<p>&nbsp;</p>\n<p>\u273b Baked for 4m 39s</p>",
+          "createdDateTime": "2026-02-05T20:14:12.878Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:47887e22-40e2-420a-8ad8-d6b48c5a1bbf_d54e380f-7a5a-4995-8be0-de36628657f2@unq.gbl.spaces/messages/1770321831772/hostedContents/aWQ9eF8wLXd1cy1kNS04ZDY1YjFiOGRlYTdjNTRhYTNjNGIxYTQwYjlkMTYyNyx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1cy1kNS04ZDY1YjFiOGRlYTdjNTRhYTNjNGIxYTQwYjlkMTYyNy92aWV3cy9pbWdv/$value\" width=\"870.6896551724138\" height=\"250\" alt=\"image\" itemid=\"0-wus-d5-8d65b1b8dea7c54aa3c4b1a40b9d1627\"></p>",
+          "createdDateTime": "2026-02-05T20:03:51.772Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:03:30.266Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:03:25.989Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p>have Ike draft detailed release notes too if need be....he said he'll have some time today</p>",
+          "createdDateTime": "2026-02-05T15:59:45.719Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>Yes&nbsp;</p>",
+          "createdDateTime": "2026-02-05T15:54:54.464Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p>Will you consider having Ike test a ton...or have him work on automated testing instead of IC?&nbsp;</p>",
+          "createdDateTime": "2026-02-05T15:53:58.357Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>looks like this is the issue:&nbsp;</p>\n<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:47887e22-40e2-420a-8ad8-d6b48c5a1bbf_d54e380f-7a5a-4995-8be0-de36628657f2@unq.gbl.spaces/messages/1770306776270/hostedContents/aWQ9eF8wLXd1cy1kNS0yMGYwNDM5YWVhYmU4MmMwYmQ0YTQxMWY5OTdlMzQ3Myx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1cy1kNS0yMGYwNDM5YWVhYmU4MmMwYmQ0YTQxMWY5OTdlMzQ3My92aWV3cy9pbWdv/$value\" width=\"874\" height=\"211\" alt=\"image\" itemid=\"0-wus-d5-20f0439aeabe82c0bd4a411f997e3473\"></p>\n<p>I'll send to dev team&nbsp;</p>",
+          "createdDateTime": "2026-02-05T15:52:56.27Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p>What's up with locations page in fulfill production?&nbsp;</p>\n<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:47887e22-40e2-420a-8ad8-d6b48c5a1bbf_d54e380f-7a5a-4995-8be0-de36628657f2@unq.gbl.spaces/messages/1770306659196/hostedContents/aWQ9eF8wLWN1cy1kMTYtNTdjODc4ZDZjZmI3NjFlOGVhZTkwMjUzZGY2MzY3ZmUsdHlwZT0xLHVybD1odHRwczovL3VzLWFwaS5hc20uc2t5cGUuY29tL3YxL29iamVjdHMvMC1jdXMtZDE2LTU3Yzg3OGQ2Y2ZiNzYxZThlYWU5MDI1M2RmNjM2N2ZlL3ZpZXdzL2ltZ28=/$value\" width=\"1059.2447916666667\" height=\"250\" alt=\"image\" itemid=\"0-cus-d16-57c878d6cfb761e8eae90253df6367fe\"></p>",
+          "createdDateTime": "2026-02-05T15:50:59.196Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p>yes</p>",
+          "createdDateTime": "2026-02-05T15:26:12.734Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>Can you chat for 5?&nbsp;</p>",
+          "createdDateTime": "2026-02-05T15:26:00.585Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p>but maybe not</p>",
+          "createdDateTime": "2026-02-05T15:24:03.629Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>lolol</p>",
+          "createdDateTime": "2026-02-05T15:24:03.036Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p>lol jk</p>",
+          "createdDateTime": "2026-02-05T15:23:59.09Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p>she spoke with Adam in between&nbsp;</p>",
+          "createdDateTime": "2026-02-05T15:23:55.913Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>how come we went from \"I'm not doing this\" to \"It'll only take an hour or two\"&nbsp;</p>",
+          "createdDateTime": "2026-02-05T15:23:40.144Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<attachment id=\"1770304977388\"></attachment>\n<p>please let me know asap if you all get this in place</p>",
+          "createdDateTime": "2026-02-05T15:23:38.611Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>what on earth</p>",
+          "createdDateTime": "2026-02-05T15:23:25.471Z"
+        }
+      ],
+      "type": "oneOnOne"
+    },
     "lms_agent_architecture": {
       "name": "LMS Agent Architecture",
       "messages": [
+        {
+          "from": "Adam van Wingerden",
+          "content": "Add one cart of 6-packs to every order going out on 6/1 to Lowe\u2019s\u2026 make sure it decrements from inventory",
+          "createdDateTime": "2026-02-05T21:27:23.674Z"
+        },
+        {
+          "from": "Adam van Wingerden",
+          "content": "Generate an html analytics report comparing my inventory levels to sales this year vs last year\u2026.",
+          "createdDateTime": "2026-02-05T21:26:43.726Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T21:26:39.754Z"
+        },
+        {
+          "from": "Adam van Wingerden",
+          "content": "<p>imagine getting that hooked up into PRODUCE and RESTOCK/FORECAST.....</p>",
+          "createdDateTime": "2026-02-05T21:22:12.195Z"
+        },
         {
           "from": "Adam van Wingerden",
           "content": "<p><a href=\"https://www.moltbook.com/\" rel=\"noreferrer noopener\" title=\"https://www.moltbook.com/\" target=\"_blank\">https://www.moltbook.com/</a></p>",
