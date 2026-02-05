@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-05T20:33:21.395042Z",
+  "updated_at": "2026-02-05T20:40:18.661145Z",
   "email_count": 50,
   "calendar_count": 4,
-  "teams_count": 57,
+  "teams_count": 59,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -40,6 +40,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "[GitHub] A third-party OAuth application has been added to your account",
+      "from": "GitHub",
+      "receivedDateTime": "2026-02-05T20:40:04Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2BwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "[GitHub] A third-party GitHub Application has been added to your account",
       "from": "GitHub",
@@ -382,68 +389,9 @@
       "receivedDateTime": "2026-02-04T19:43:09Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82xAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Smart ways to stay warm and save energy",
-      "from": "Columbia Gas of Kentucky",
-      "receivedDateTime": "2026-02-04T19:31:49Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ82wAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
-    "lms_agent_architecture": {
-      "name": "LMS Agent Architecture",
-      "messages": [
-        {
-          "from": "Nathan van Wingerden",
-          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:848f07124f8f46e1996e71dbddcf74a2@thread.v2/messages/1770322938237/hostedContents/aWQ9eF8wLXd1cy1kOC00MzJmOWUzZTUzZDYzZTM0NGZjNWMyYWEyZDNjMWI2MCx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1cy1kOC00MzJmOWUzZTUzZDYzZTM0NGZjNWMyYWEyZDNjMWI2MC92aWV3cy9pbWdv/$value\" width=\"870.6896551724138\" height=\"250\" alt=\"image\" itemid=\"0-wus-d8-432f9e3e53d63e344fc5c2aa2d3c1b60\"></p>",
-          "createdDateTime": "2026-02-05T20:22:18.237Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T20:20:22.404Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T20:09:53.78Z"
-        }
-      ],
-      "type": "group"
-    },
-    "product_owners_+_kevin": {
-      "name": "Product Owners + Kevin",
-      "messages": [
-        {
-          "from": "Kevin Short",
-          "content": "<p><a href=\"https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi\" rel=\"noreferrer noopener\" title=\"https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi\" target=\"_blank\">https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi</a></p>",
-          "createdDateTime": "2026-02-05T20:15:22.616Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T20:11:28.518Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T20:11:19.663Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T19:59:42.422Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T19:58:47.849Z"
-        }
-      ],
-      "type": "group"
-    },
     "auto_pr_test": {
       "name": "Auto PR Test",
       "messages": [
@@ -549,6 +497,68 @@
         }
       ],
       "type": "meeting"
+    },
+    "lms_agent_architecture": {
+      "name": "LMS Agent Architecture",
+      "messages": [
+        {
+          "from": "Adam van Wingerden",
+          "content": "<p><a href=\"https://www.moltbook.com/\" rel=\"noreferrer noopener\" title=\"https://www.moltbook.com/\" target=\"_blank\">https://www.moltbook.com/</a></p>",
+          "createdDateTime": "2026-02-05T20:39:19.271Z"
+        },
+        {
+          "from": "Adam van Wingerden",
+          "content": "<p><a href=\"https://molt.church/\" rel=\"noreferrer noopener\" title=\"https://molt.church/\" target=\"_blank\">https://molt.church/</a></p>",
+          "createdDateTime": "2026-02-05T20:38:43.353Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:848f07124f8f46e1996e71dbddcf74a2@thread.v2/messages/1770322938237/hostedContents/aWQ9eF8wLXd1cy1kOC00MzJmOWUzZTUzZDYzZTM0NGZjNWMyYWEyZDNjMWI2MCx0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1cy1kOC00MzJmOWUzZTUzZDYzZTM0NGZjNWMyYWEyZDNjMWI2MC92aWV3cy9pbWdv/$value\" width=\"870.6896551724138\" height=\"250\" alt=\"image\" itemid=\"0-wus-d8-432f9e3e53d63e344fc5c2aa2d3c1b60\"></p>",
+          "createdDateTime": "2026-02-05T20:22:18.237Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:20:22.404Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:09:53.78Z"
+        }
+      ],
+      "type": "group"
+    },
+    "product_owners_+_kevin": {
+      "name": "Product Owners + Kevin",
+      "messages": [
+        {
+          "from": "Kevin Short",
+          "content": "<p><a href=\"https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi\" rel=\"noreferrer noopener\" title=\"https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi\" target=\"_blank\">https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi</a></p>",
+          "createdDateTime": "2026-02-05T20:15:22.616Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:11:28.518Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:11:19.663Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T19:59:42.422Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T19:58:47.849Z"
+        }
+      ],
+      "type": "group"
     },
     "silver_fern_&_bonnie_|_check-i": {
       "name": "Silver Fern & Bonnie | Check-In",
