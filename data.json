@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-05T23:10:28.078112Z",
+  "updated_at": "2026-02-05T23:20:23.171206Z",
   "email_count": 50,
   "calendar_count": 4,
-  "teams_count": 87,
+  "teams_count": 88,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -392,6 +392,42 @@
     }
   ],
   "teams": {
+    "product_owners_+_kevin": {
+      "name": "Product Owners + Kevin",
+      "messages": [
+        {
+          "from": "Isaac Short",
+          "content": "<p>Give this to Claude to have him help you \"paste\" screenshots instead of having to drag them from files every time&nbsp;</p>\n\n<codeblock class=\"PlainText\"><code>Paste screenshots directly into Claude Code (WSL)<br><br>  If you want Claude to look at a screenshot, mockup, error message, etc. - just copy it to your<br>  clipboard (Win+Shift+S, PrtSc, or right-click &gt; Copy Image) and tell Claude:<br><br>  \"grab my clipboard\"<br><br>  That's it. Claude will pull the image from your Windows clipboard and view it.<br><br>  How it works under the hood:<br>  - Claude runs a PowerShell command that grabs the current image from your Windows clipboard<br>  - Saves it to C:\\Temp\\clipboard_tmp.png<br>  - Reads it with the Read tool (Claude can view images natively)<br><br>  Setup (one time):<br><br>  1. Make sure C:\\Temp exists (create it if not)<br>  2. Create a MEMORY.md file if you don't already have one. This is a new Claude Code feature - it's a<br> &nbsp; persistent memory file that loads into every session's system prompt automatically, so Claude<br>  remembers things across conversations without you having to repeat yourself.<br><br>  2. Your memory file lives at:<br>  ~/.claude/projects/&lt;your-project&gt;/memory/MEMORY.md<br><br>  2. Add this block to it:<br><br>  ## Clipboard Image Paste<br>  When the user says \"grab my clipboard\", \"paste my screenshot\", or similar:<br>  ```bash<br>  powershell.exe -NoProfile -Command \"Add-Type -AssemblyName System.Windows.Forms; \\$img =<br>  [System.Windows.Forms.Clipboard]::GetImage(); if (\\$img -eq \\$null) { Write-Error 'No image'; exit 1<br> &nbsp; }; \\$img.Save('C:\\Temp\\clipboard_tmp.png', [System.Drawing.Imaging.ImageFormat]::Png); Write-Host<br>  'OK'\"<br>  ```<br>  Then read `/mnt/c/Temp/clipboard_tmp.png` with the Read tool.<br><br>  That's all. Every new session will know how to do it from now on. MEMORY.md is also a great place to<br> &nbsp; put any other things you find yourself repeating to Claude - project conventions, common commands,<br>  personal preferences, etc.</code></codeblock>\n<p>&nbsp;</p>",
+          "createdDateTime": "2026-02-05T23:18:49.882Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p><a href=\"https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi\" rel=\"noreferrer noopener\" title=\"https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi\" target=\"_blank\">https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi</a></p>",
+          "createdDateTime": "2026-02-05T20:15:22.616Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:11:28.518Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T20:11:19.663Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T19:59:42.422Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-05T19:58:47.849Z"
+        }
+      ],
+      "type": "group"
+    },
     "oneonone_chat": {
       "name": "Oneonone Chat",
       "messages": [
@@ -674,37 +710,6 @@
         }
       ],
       "type": "meeting"
-    },
-    "product_owners_+_kevin": {
-      "name": "Product Owners + Kevin",
-      "messages": [
-        {
-          "from": "Kevin Short",
-          "content": "<p><a href=\"https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi\" rel=\"noreferrer noopener\" title=\"https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi\" target=\"_blank\">https://dev.azure.com/teamsilverfern/SilverFern/_git/wsapi</a></p>",
-          "createdDateTime": "2026-02-05T20:15:22.616Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T20:11:28.518Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T20:11:19.663Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T19:59:42.422Z"
-        },
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-05T19:58:47.849Z"
-        }
-      ],
-      "type": "group"
     },
     "silver_fern_&_bonnie_|_check-i": {
       "name": "Silver Fern & Bonnie | Check-In",
