@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-06T04:10:18.463082Z",
+  "updated_at": "2026-02-06T04:20:18.911091Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 92,
-  "sprint_task_count": 17,
+  "sprint_task_count": 16,
   "workflow_run_count": 10,
   "calendar": [
     {
@@ -1082,17 +1082,6 @@
         ],
         "priority": "normal",
         "url": "https://app.clickup.com/t/86b7rzf7p",
-        "due_date": null
-      },
-      {
-        "id": "86b7rp1gf",
-        "name": "Add Load List Stations to WSAPI and Sync",
-        "status": "next release",
-        "assignees": [
-          "Eric Whitlow"
-        ],
-        "priority": "",
-        "url": "https://app.clickup.com/t/86b7rp1gf",
         "due_date": null
       },
       {
