@@ -1219,79 +1219,74 @@
   },
   "yesterday": {},
   "standup": {
-    "generated_at": "2026-02-05T23:00:15.998134Z",
-    "for_date": "2026-02-06",
+    "generated_at": "2026-02-06T23:07:17.401328Z",
+    "for_date": "2026-02-07",
     "yesterday": [
       {
         "id": "y0",
-        "text": "Attended Product Daily Huddle and Director Huddle for team alignment",
+        "text": "Attended Product Daily Huddle, Director Huddle, and Dev Huddle for daily alignment",
         "completed": true
       },
       {
         "id": "y1",
-        "text": "Participated in Silver Fern & Bonnie check-in and Auto PR Test session",
+        "text": "Met with Brandon to discuss Production and Fulfillment Q4 2025",
         "completed": true
       },
       {
         "id": "y2",
-        "text": "Engaged in discussions across 8 Teams channels including LMS Agent Architecture (13 messages) and Auto PR Test (20 messages)",
+        "text": "Participated in ongoing discussions on LMS Agent Architecture (13 messages) and Required Fields in Fulfill Imports (7 messages)",
         "completed": true
       },
       {
         "id": "y3",
-        "text": "Reviewed bug reports on organic item receiving and 0-qty assignment errors",
+        "text": "Engaged with Product Owners and team across multiple Teams channels on active product initiatives",
         "completed": true
       }
     ],
     "today": [
       {
         "id": "t0",
-        "text": "Attend Product Daily Huddle, Director Huddle, and Dev Huddle for daily alignment",
-        "completed": false
-      },
-      {
-        "id": "t1",
-        "text": "Brandon meeting at 11:00 AM for Production and Fulfillment Q4 2025 discussion",
-        "completed": false
-      },
-      {
-        "id": "t2",
         "text": "Respond to DBR emails on Quantity Override Actions and Order Submission Workflow",
         "completed": false
       },
       {
-        "id": "t3",
+        "id": "t1",
         "text": "Follow up on Combine Must-Go Availability into Single Load List Row request",
         "completed": false
       },
       {
-        "id": "t4",
+        "id": "t2",
         "text": "Review Technology Quarterly Planning discussion and provide input",
         "completed": false
       },
       {
-        "id": "t5",
+        "id": "t3",
         "text": "Address action items from Sprint Planning session",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Complete decision on Required Fields in Fulfill Imports",
+        "completed": false
+      },
+      {
+        "id": "t5",
+        "text": "Investigate and respond to bug reports on organic item receiving and 0-qty assignment errors",
         "completed": false
       }
     ],
     "followups": [
       {
         "id": "f0",
-        "text": "Complete decision on Required Fields in Fulfill Imports (meeting was scheduled but needs resolution)",
+        "text": "Continue LMS Agent Architecture discussion thread to drive toward resolution",
         "completed": false
       },
       {
         "id": "f1",
-        "text": "Investigate and respond to bug reports on organic item receiving and 0-qty assignment errors",
-        "completed": false
-      },
-      {
-        "id": "f2",
-        "text": "Continue LMS Agent Architecture discussion thread (13 messages)",
+        "text": "Finalize decision on Required Fields in Fulfill Imports with team",
         "completed": false
       }
     ]
   },
-  "standup_updated_at": "2026-02-05T23:00:15.998134Z"
+  "standup_updated_at": "2026-02-06T23:07:17.401328Z"
 }
