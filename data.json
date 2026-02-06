@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-06T03:20:26.785285Z",
+  "updated_at": "2026-02-06T03:39:30.926237Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 92,
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Nathan, do you know Clay Gandy, Propagation manager at Gandy Nursery?",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-02-06T03:29:23Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2B%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Automatic Payment Reminder",
       "from": "Starlink",
@@ -390,13 +397,6 @@
       "receivedDateTime": "2026-02-05T14:11:47Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2BNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Replace Cancel buttons with Close, add X exit button",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-05T14:11:42Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2BMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
