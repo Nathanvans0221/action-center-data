@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-06T01:50:18.936844Z",
+  "updated_at": "2026-02-06T02:06:53.879321Z",
   "email_count": 50,
   "calendar_count": 5,
-  "teams_count": 91,
+  "teams_count": 92,
   "sprint_task_count": 17,
   "workflow_run_count": 10,
   "calendar": [
@@ -400,6 +400,17 @@
     }
   ],
   "teams": {
+    "silver_fern/velosio_connect": {
+      "name": "Silver Fern/Velosio Connect",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-06T02:02:35.114Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "product_owners_+_kevin": {
       "name": "Product Owners + Kevin",
       "messages": [
