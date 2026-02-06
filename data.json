@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-06T00:05:41.123357Z",
+  "updated_at": "2026-02-06T00:10:29.249300Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 88,
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Get started on your first project with our setup checklist!",
+      "from": "Team DigitalOcean",
+      "receivedDateTime": "2026-02-06T00:09:42Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2B7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Super stays loved by guests like you",
       "from": "Hotels.com",
@@ -390,13 +397,6 @@
       "receivedDateTime": "2026-02-05T11:54:40Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuw5V8AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Wispr Flow for Android is finally here",
-      "from": "Tanay from Wispr",
-      "receivedDateTime": "2026-02-05T09:12:50Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQsJ827AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
