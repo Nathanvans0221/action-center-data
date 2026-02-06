@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-06T00:50:18.190553Z",
+  "updated_at": "2026-02-06T01:11:50.869650Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 91,
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Automatic Payment Reminder",
+      "from": "Starlink",
+      "receivedDateTime": "2026-02-06T00:57:29Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2B9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "VIP Access: Save on highly rated hotels",
       "from": "Expedia.com",
@@ -390,13 +397,6 @@
       "receivedDateTime": "2026-02-05T14:11:42Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2BMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Lexington Clinic is hiring a Senior Facilitator of Process Design",
-      "from": "LinkedIn",
-      "receivedDateTime": "2026-02-05T13:30:05Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2BLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
