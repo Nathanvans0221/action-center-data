@@ -999,5 +999,86 @@
       }
     ]
   },
-  "yesterday": {}
+  "yesterday": {},
+  "standup": {
+    "generated_at": "2026-02-09T23:00:45.321479Z",
+    "for_date": "2026-02-10",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Attended Product Daily Huddle, Directors Weekly, Operations Weekly, and Company Weekly to align on organizational priorities",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Participated in Technology Weekly and Dev Huddle to sync on technical progress and development initiatives",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Led PRODUCE\u2122 Demo Planning session to coordinate upcoming product demonstration",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Made decisions on required fields in Fulfill Imports with the team",
+        "completed": true
+      },
+      {
+        "id": "y4",
+        "text": "Engaged in 56 Teams messages across 10 active channels covering product, operations, and technology topics",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Attend Product Daily Huddle at 9:00 AM",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Attend Director Huddle at 9:15 AM",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Attend BPF Inventory Solution for DBR meeting at 11:00 AM",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Review and respond to unread emails regarding Missing Components per Pot and DBR Session Creation",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Follow up on GP transition Q&A discussion from Teams",
+        "completed": false
+      },
+      {
+        "id": "t5",
+        "text": "Continue PRODUCE\u2122 demo planning coordination",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Address DBR Session Creation emails (3 unread messages requiring attention)",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Follow up on BPF Inventory Solution for DBR discussion ahead of tomorrow's meeting",
+        "completed": false
+      },
+      {
+        "id": "f2",
+        "text": "Review Missing Components per Pot email and determine next steps",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-02-09T23:00:45.321479Z"
 }
