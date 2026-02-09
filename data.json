@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-09T21:22:06.905252Z",
-  "email_count": 37,
+  "updated_at": "2026-02-09T21:36:13.026540Z",
+  "email_count": 38,
   "calendar_count": 8,
   "teams_count": 56,
   "sprint_task_count": 16,
@@ -72,6 +72,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Director of Product Management insights: $205K/yr+ salary at 532 job openings",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-02-09T21:29:21Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Your meeting recap - Decide on Required Fields in Fulfill Imports",
       "from": "Fred from Fireflies.ai",
