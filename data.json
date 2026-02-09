@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-09T19:51:30.435961Z",
-  "email_count": 35,
+  "updated_at": "2026-02-09T20:11:45.525477Z",
+  "email_count": 36,
   "calendar_count": 8,
-  "teams_count": 47,
+  "teams_count": 53,
   "sprint_task_count": 16,
   "workflow_run_count": 10,
   "calendar": [
@@ -72,6 +72,20 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Your meeting recap - PRODUCE\u2122 Demo Planning",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-09T20:07:22Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Ready to design your first Super Agent workflow? Join Feature Fest \ud83c\udf89",
+      "from": "ClickUp Team",
+      "receivedDateTime": "2026-02-09T20:00:56Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Your meeting recap - Technology Weekly",
       "from": "Fred from Fireflies.ai",
@@ -309,24 +323,22 @@
       "receivedDateTime": "2026-02-06T21:04:07Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "OAN Advocacy Training: MONDAY, February 9",
-      "from": "Jeff Stone, OAN",
-      "receivedDateTime": "2026-02-06T20:04:28Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
-    "gp_transition_q&a_": {
-      "name": "GP transition Q&A ",
-      "messages": [],
-      "type": "meeting"
-    },
     "produce\u2122_demo_planning": {
       "name": "PRODUCE\u2122 Demo Planning",
       "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-09T20:05:47.867Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-09T20:05:43.023Z"
+        },
         {
           "from": "Fireflies.ai Notetaker Nathan",
           "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGWXWKZHPF8H7NEPJ3GX457N?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgwxwkzhpf8h7nepj3gx457n?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGWXWKZHPF8H7NEPJ3GX457N?ref=live_chat</a></p>",
@@ -343,6 +355,37 @@
           "createdDateTime": "2026-02-09T19:30:03.748Z"
         }
       ],
+      "type": "meeting"
+    },
+    "decide_on_required_fields_in_f": {
+      "name": "Decide on Required Fields in Fulfill Imports ",
+      "messages": [
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGQ53XWMKJG2R83XKDE5K6M9?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgq53xwmkjg2r83xkde5k6m9?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGQ53XWMKJG2R83XKDE5K6M9?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-09T20:01:23.068Z"
+        },
+        {
+          "from": "Kennedy Kirk",
+          "content": "<p>give us one sec</p>",
+          "createdDateTime": "2026-02-09T20:00:41.563Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-09T20:00:12.943Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-09T19:58:48.612Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "gp_transition_q&a_": {
+      "name": "GP transition Q&A ",
+      "messages": [],
       "type": "meeting"
     },
     "bpf_inventory_solution_for_dbr": {
