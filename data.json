@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-09T22:52:17.931276Z",
-  "email_count": 41,
+  "updated_at": "2026-02-09T23:10:51.543191Z",
+  "email_count": 42,
   "calendar_count": 8,
   "teams_count": 56,
   "sprint_task_count": 16,
@@ -72,6 +72,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Final Call: Best of 2025 Awards Closing",
+      "from": "IoThinkTank",
+      "receivedDateTime": "2026-02-09T22:54:35Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2F4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Missing Components per Pot",
       "from": "Tyler Van Wingerden",
