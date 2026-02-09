@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-09T23:21:58.508817Z",
-  "email_count": 42,
+  "updated_at": "2026-02-09T23:32:52.955227Z",
+  "email_count": 43,
   "calendar_count": 8,
   "teams_count": 56,
   "sprint_task_count": 16,
@@ -72,6 +72,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Nathan, do you know William Brentlinger, Chief Executive Officer at Gallery Homes?",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-02-09T23:29:37Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2F5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Final Call: Best of 2025 Awards Closing",
       "from": "IoThinkTank",
