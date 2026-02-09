@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-09T19:21:33.102132Z",
-  "email_count": 36,
+  "updated_at": "2026-02-09T19:35:07.506247Z",
+  "email_count": 35,
   "calendar_count": 8,
-  "teams_count": 44,
+  "teams_count": 47,
   "sprint_task_count": 16,
   "workflow_run_count": 10,
   "calendar": [
@@ -76,28 +76,21 @@
       "subject": "Your meeting recap - Technology Weekly",
       "from": "Fred from Fireflies.ai",
       "receivedDateTime": "2026-02-09T19:15:31Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "BPF Inventory Solution for DBR",
-      "from": "Isaac Carpenter",
-      "receivedDateTime": "2026-02-09T18:48:04Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Microsoft 365 security: You have messages in quarantine",
       "from": "quarantine@messaging.microsoft.com",
       "receivedDateTime": "2026-02-09T17:36:31Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "FW: BPF Inventory Solution for DBR",
       "from": "Isaac Carpenter",
       "receivedDateTime": "2026-02-09T17:13:02Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
@@ -111,28 +104,28 @@
       "subject": "Your meeting recap - Company Weekly",
       "from": "Fred from Fireflies.ai",
       "receivedDateTime": "2026-02-09T16:29:29Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FpAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Your meeting recap - Operations Weekly",
       "from": "Fred from Fireflies.ai",
       "receivedDateTime": "2026-02-09T16:20:59Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "NWREC hosts pesticide resistance workshop: February 12",
       "from": "Oregon Association of Nurseries",
       "receivedDateTime": "2026-02-09T15:54:10Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Your meeting recap - Directors Weekly",
       "from": "Fred from Fireflies.ai",
       "receivedDateTime": "2026-02-09T15:20:05Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FmAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
@@ -326,6 +319,38 @@
     }
   ],
   "teams": {
+    "produce\u2122_demo_planning": {
+      "name": "PRODUCE\u2122 Demo Planning",
+      "messages": [
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KGWXWKZHPF8H7NEPJ3GX457N?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kgwxwkzhpf8h7nepj3gx457n?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KGWXWKZHPF8H7NEPJ3GX457N?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-09T19:31:45.015Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-09T19:30:29.298Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-09T19:30:03.748Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "bpf_inventory_solution_for_dbr": {
+      "name": "BPF Inventory Solution for DBR",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-09T17:19:28.91Z"
+        }
+      ],
+      "type": "meeting"
+    },
     "technology_weekly": {
       "name": "Technology Weekly",
       "messages": [
@@ -383,17 +408,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-09T18:28:15.103Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "bpf_inventory_solution_for_dbr": {
-      "name": "BPF Inventory Solution for DBR",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-09T17:19:28.91Z"
         }
       ],
       "type": "meeting"
