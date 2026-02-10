@@ -1,74 +1,34 @@
 {
-  "updated_at": "2026-02-09T23:52:09.555361Z",
-  "email_count": 45,
-  "calendar_count": 8,
+  "updated_at": "2026-02-10T00:12:56.827678Z",
+  "email_count": 44,
+  "calendar_count": 3,
   "teams_count": 56,
   "sprint_task_count": 16,
   "workflow_run_count": 10,
   "calendar": [
     {
-      "subject": "PRODUCE\u2122 Demo Planning",
-      "start": "2026-02-09T14:30:00.0000000",
-      "end": "2026-02-09T15:00:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQsKH8ZAAA%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Decide on Required Fields in Fulfill Imports ",
-      "start": "2026-02-09T15:00:00.0000000",
-      "end": "2026-02-09T16:00:00.0000000",
-      "location": "Microsoft Teams Meeting",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQsKH8aAAA%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Company Weekly",
-      "start": "2026-02-09T11:15:00.0000000",
-      "end": "2026-02-09T12:00:00.0000000",
-      "location": "Microsoft Teams Meeting; Hulk; Batman",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3mduKxRAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQADPOFs9QAAEA%3D%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Operations Weekly",
-      "start": "2026-02-09T10:15:00.0000000",
-      "end": "2026-02-09T11:15:00.0000000",
-      "location": "Microsoft Teams Meeting; Batman",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3mduKxRAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQADg%2Bv11gAAEA%3D%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Directors Weekly",
-      "start": "2026-02-09T09:30:00.0000000",
-      "end": "2026-02-09T10:15:00.0000000",
+      "subject": "BPF Inventory Solution for DBR",
+      "start": "2026-02-10T11:00:00.0000000",
+      "end": "2026-02-10T12:00:00.0000000",
       "location": "Batman",
       "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3mduKxRAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQADjyESiAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQuz527AAA%3D&exvsurl=1&path=/calendar/item"
     },
     {
       "subject": "Product Daily Huddle",
-      "start": "2026-02-09T09:00:00.0000000",
-      "end": "2026-02-09T09:15:00.0000000",
+      "start": "2026-02-10T09:00:00.0000000",
+      "end": "2026-02-10T09:15:00.0000000",
       "location": "Batman",
       "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3mduKxRAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3mg3VX4AAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
     },
     {
-      "subject": "Technology Weekly",
-      "start": "2026-02-09T13:30:00.0000000",
-      "end": "2026-02-09T14:30:00.0000000",
-      "location": "Batman",
-      "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3mduKxRAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAEJ7M1QgAAEA%3D%3D&exvsurl=1&path=/calendar/item"
-    },
-    {
-      "subject": "Dev Huddle",
-      "start": "2026-02-09T12:00:00.0000000",
-      "end": "2026-02-09T12:15:00.0000000",
+      "subject": "Director Huddle",
+      "start": "2026-02-10T09:15:00.0000000",
+      "end": "2026-02-10T09:30:00.0000000",
       "location": "Microsoft Teams Meeting",
       "isAllDay": false,
-      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3mduKxRAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAEH8OooAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3mg3VX4AAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXHwAAEA%3D%3D&exvsurl=1&path=/calendar/item"
     }
   ],
   "emails": [
@@ -379,13 +339,6 @@
       "receivedDateTime": "2026-02-07T01:34:25Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Failed production deployment on team 'Nathan Vanwingerden's projects'",
-      "from": "Vercel",
-      "receivedDateTime": "2026-02-07T00:06:48Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQuzY%2FOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
