@@ -961,5 +961,71 @@
       }
     ]
   },
-  "yesterday": {}
+  "yesterday": {},
+  "standup": {
+    "generated_at": "2026-02-11T23:00:49.832663Z",
+    "for_date": "2026-02-12",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Participated in Product Daily Huddle, Director Huddle, and Dev Huddle to align on team priorities",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Engaged in 47 Teams messages across 6 channels including BPF Inventory Solution for DBR and Group Chat discussions",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Reviewed and triaged 50 emails from the past 3 days",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Continued hosting mom's visit while managing daily product responsibilities",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Attend Product Daily Huddle (9:00 AM) and Director Huddle (9:15 AM)",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Participate in tentative Oregon Customer Visit(s) (10:00 AM)",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Follow up on BPF Inventory Solution for DBR discussions from Teams",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Continue hosting mom's visit",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Review and respond to priority Teams threads from Group Chat and Vibe Coders channels",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Address action items from yesterday's Director Huddle and Dev Huddle",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Respond to unread LinkedIn notifications and engagement requests",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-02-11T23:00:49.832663Z"
 }
