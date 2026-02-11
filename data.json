@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T03:21:59.864098Z",
+  "updated_at": "2026-02-11T03:34:34.876026Z",
   "email_count": 50,
   "calendar_count": 4,
   "teams_count": 45,
@@ -40,6 +40,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "2 people noticed you",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-02-11T03:29:17Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQyaHcNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Reagan Helms and others share their thoughts on LinkedIn",
       "from": "LinkedIn",
@@ -382,13 +389,6 @@
       "receivedDateTime": "2026-02-10T15:08:30Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQx%2Few%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "DBR: Order Submission Workflow",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-10T15:08:24Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQx%2Few%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
