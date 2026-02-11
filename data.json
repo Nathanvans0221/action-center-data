@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T03:34:34.876026Z",
+  "updated_at": "2026-02-11T03:42:19.244485Z",
   "email_count": 50,
   "calendar_count": 4,
   "teams_count": 45,
@@ -79,7 +79,7 @@
       "subject": "[Deployment failed] produce-preview > Release-8 : Preview",
       "from": "Azure DevOps",
       "receivedDateTime": "2026-02-10T23:03:31Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQyWJqnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
@@ -170,7 +170,7 @@
       "subject": "\ud83d\udea8The Seahawks Etch Their Name In Super Bowl History!",
       "from": "Super Bowl LX",
       "receivedDateTime": "2026-02-10T20:38:38Z",
-      "isRead": false,
+      "isRead": true,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQx%2FexfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
