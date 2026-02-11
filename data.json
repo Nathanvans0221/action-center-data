@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-11T05:09:56.883715Z",
+  "updated_at": "2026-02-11T05:12:03.284551Z",
   "email_count": 50,
   "calendar_count": 4,
-  "teams_count": 45,
+  "teams_count": 47,
   "sprint_task_count": 16,
   "workflow_run_count": 10,
   "calendar": [
@@ -394,7 +394,18 @@
   "teams": {
     "oneonone_chat": {
       "name": "Oneonone Chat",
-      "messages": [],
+      "messages": [
+        {
+          "from": "nathan vanwingerden",
+          "content": "<attachment id=\"bc337fc1-a264-4f0f-b844-6a5ca5b903f3\"></attachment>",
+          "createdDateTime": "2026-02-11T03:58:38.659Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-11T03:58:36.365Z"
+        }
+      ],
       "type": "oneOnOne"
     },
     "feelin_the_vibezz_(vibe_coders": {
