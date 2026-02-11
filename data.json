@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T01:34:52.219694Z",
+  "updated_at": "2026-02-11T01:42:10.380953Z",
   "email_count": 50,
   "calendar_count": 4,
   "teams_count": 45,
@@ -40,6 +40,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Reagan Helms and others share their thoughts on LinkedIn",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-02-11T01:36:10Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQyaHcMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Say \"I'm Yours\" to 2 free months of Premium",
       "from": "Spotify",
@@ -382,13 +389,6 @@
       "receivedDateTime": "2026-02-10T15:08:24Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQx%2Few%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "RE: Bell Nursery Round Table",
-      "from": "John Beauford",
-      "receivedDateTime": "2026-02-10T14:57:17Z",
-      "isRead": true,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQx%2Few9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
