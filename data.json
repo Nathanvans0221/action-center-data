@@ -811,5 +811,81 @@
       }
     ]
   },
-  "yesterday": {}
+  "yesterday": {},
+  "standup": {
+    "generated_at": "2026-02-12T23:05:40.073591Z",
+    "for_date": "2026-02-13",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Attended Product Daily Huddle and Director Huddle to align on priorities",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Participated in Oregon Customer Visit(s) throughout the day",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Coordinated across teams with active discussions in Dev Huddle, Product Daily Huddle, and Director Huddle channels",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Managed ongoing Mom visit while handling work responsibilities",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Attend Product Daily Huddle at 9:00 AM",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Attend Director Huddle at 9:15 AM",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Attend Dev Huddle at 12:00 PM",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Continue Oregon Customer Visit(s) if still scheduled",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Continue hosting Mom visit",
+        "completed": false
+      },
+      {
+        "id": "t5",
+        "text": "Review and respond to unread emails including TriNet Newsletter and MSG91 account update",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Follow up on outcomes and action items from Oregon Customer Visit(s)",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Review silverfern.group MSG91 account update and take any necessary action",
+        "completed": false
+      },
+      {
+        "id": "f2",
+        "text": "Address any pending items from Dev Huddle, Product Daily Huddle, and Director Huddle discussions",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-02-12T23:05:40.073591Z"
 }
