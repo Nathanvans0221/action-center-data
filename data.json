@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-13T08:10:42.746128Z",
+  "updated_at": "2026-02-13T08:25:43.418250Z",
   "email_count": 50,
   "calendar_count": 5,
   "teams_count": 13,
@@ -48,6 +48,13 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Member savings: Up to 40% off starts now \ud83d\udce3",
+      "from": "Hotels.com",
+      "receivedDateTime": "2026-02-13T08:16:24Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQz8UJ4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "Updates to OpenAI\u2019s Privacy Policy",
       "from": "OpenAI",
@@ -390,13 +397,6 @@
       "receivedDateTime": "2026-02-11T20:46:54Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQyaHctAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "BUG: Assignment error for 0-qty items",
-      "from": "Silver Fern",
-      "receivedDateTime": "2026-02-11T20:18:45Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQyaHcsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
