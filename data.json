@@ -1004,7 +1004,79 @@
   },
   "yesterday": {},
   "standup": {
-    "yesterday": [],
-    "today": []
-  }
+    "generated_at": "2026-02-17T23:01:34.994624Z",
+    "for_date": "2026-02-18",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Participated in Product Daily Huddle and Director Huddle to align on priorities",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Prepared for and attended Pre-BLN Roundtable Sync followed by Silver Fern + Bell Nursery Roundtable meeting",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Engaged in active discussions across 9 Teams channels including Perpetual Inventory/Prod Schedule Front End Review (13 messages) and Operations Weekly (12 messages)",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Reviewed 43 emails from the past 3 days including Week 8 Reports discussion",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Attend Product Daily Huddle at 9:00 AM and Director Huddle at 9:15 AM",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Discuss BPF Load List needs meeting at 10:30 AM",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Conduct Fulfill Demo with Harmony at 11:30 AM",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Participate in Dev Huddle at 12:00 PM",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Review and respond to quarantined Microsoft 365 security messages",
+        "completed": false
+      },
+      {
+        "id": "t5",
+        "text": "Follow up on Perpetual Inventory/Prod Schedule Front End Review discussions",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Address action items from Silver Fern + Bell Nursery Roundtable meeting",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Respond to Week 8 Reports email thread",
+        "completed": false
+      },
+      {
+        "id": "f2",
+        "text": "Review Azure DevOps SSH key addition and ComposioHQ feature request for Teams integration scope",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-02-17T23:01:34.994624Z"
 }
