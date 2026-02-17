@@ -1,1222 +1,1008 @@
 {
-  "lastSync": "2026-02-16T13:54:05.206382+00:00",
+  "updated_at": "2026-02-17T10:08:00.796886Z",
+  "email_count": 43,
+  "calendar_count": 3,
+  "teams_count": 63,
+  "sprint_task_count": 16,
+  "workflow_run_count": 10,
   "calendar": [
     {
+      "subject": "Silver Fern + Bell Nursery Roundtable",
+      "start": "2026-02-17T14:00:00.0000000",
+      "end": "2026-02-17T15:00:00.0000000",
+      "location": "Batman",
+      "isAllDay": false,
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAENAACHqn8AhFMNTqI9myrpPyJ1AAQx%2Fh3TAAA%3D&exvsurl=1&path=/calendar/item"
+    },
+    {
       "subject": "Product Daily Huddle",
-      "start": {
-        "dateTime": "2026-02-16T09:00:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "end": {
-        "dateTime": "2026-02-16T09:15:00.0000000",
-        "timeZone": "America/New_York"
-      },
+      "start": "2026-02-17T09:00:00.0000000",
+      "end": "2026-02-17T09:15:00.0000000",
       "location": "Batman",
-      "organizer": "Nathan van Wingerden",
       "isAllDay": false,
-      "onlineMeetingUrl": null,
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3m23fmJAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXIAAAEA%3D%3D&exvsurl=1&path=/calendar/item"
     },
     {
-      "subject": "Directors Weekly",
-      "start": {
-        "dateTime": "2026-02-16T09:30:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "end": {
-        "dateTime": "2026-02-16T10:15:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "location": "Batman",
-      "organizer": "Kennedy Kirk",
-      "isAllDay": false,
-      "onlineMeetingUrl": null,
-      "webLink": ""
-    },
-    {
-      "subject": "Operations Weekly",
-      "start": {
-        "dateTime": "2026-02-16T10:15:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "end": {
-        "dateTime": "2026-02-16T11:15:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "location": "Microsoft Teams Meeting; Batman",
-      "organizer": "Kevin Short",
-      "isAllDay": false,
-      "onlineMeetingUrl": null,
-      "webLink": ""
-    },
-    {
-      "subject": "Company Weekly",
-      "start": {
-        "dateTime": "2026-02-16T11:15:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "end": {
-        "dateTime": "2026-02-16T12:00:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "location": "Microsoft Teams Meeting; Hulk; Batman",
-      "organizer": "Kevin Short",
-      "isAllDay": false,
-      "onlineMeetingUrl": null,
-      "webLink": ""
-    },
-    {
-      "subject": "Dev Huddle",
-      "start": {
-        "dateTime": "2026-02-16T12:00:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "end": {
-        "dateTime": "2026-02-16T12:15:00.0000000",
-        "timeZone": "America/New_York"
-      },
+      "subject": "Director Huddle",
+      "start": "2026-02-17T09:15:00.0000000",
+      "end": "2026-02-17T09:30:00.0000000",
       "location": "Microsoft Teams Meeting",
-      "organizer": "Chris Christensen",
       "isAllDay": false,
-      "onlineMeetingUrl": null,
-      "webLink": ""
-    },
-    {
-      "subject": "Technology Weekly",
-      "start": {
-        "dateTime": "2026-02-16T13:30:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "end": {
-        "dateTime": "2026-02-16T14:30:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "location": "Batman",
-      "organizer": "Chris Christensen",
-      "isAllDay": false,
-      "onlineMeetingUrl": null,
-      "webLink": ""
-    },
-    {
-      "subject": "Product Bi Weekly",
-      "start": {
-        "dateTime": "2026-02-16T14:00:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "end": {
-        "dateTime": "2026-02-16T15:00:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "location": "Batman",
-      "organizer": "Nathan van Wingerden",
-      "isAllDay": false,
-      "onlineMeetingUrl": null,
-      "webLink": ""
-    },
-    {
-      "subject": "Men's Cut at LUSSO Salon",
-      "start": {
-        "dateTime": "2026-02-16T15:30:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "end": {
-        "dateTime": "2026-02-16T16:15:00.0000000",
-        "timeZone": "America/New_York"
-      },
-      "location": "351 West Cascade Ave, SISTERS, OR, 97759",
-      "organizer": "LUSSO Salon",
-      "isAllDay": false,
-      "onlineMeetingUrl": null,
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwFRAAgI3m23fmJAAEYAAAAAPxvCOrIdrECNdMAEXyZRGwcAh6p%2FAIRTDU6iPZsq6T8idQAAAAABDQAAh6p%2FAIRTDU6iPZsq6T8idQAD3RgXHwAAEA%3D%3D&exvsurl=1&path=/calendar/item"
     }
   ],
   "emails": [
     {
-      "subject": "Are you ready to welcome Ramadan\ud83c\udf19",
-      "from": "Veesham Printing Press",
-      "fromEmail": "raakhirupani@veesham.com",
-      "receivedDateTime": "2026-02-16T07:07:18Z",
-      "bodyPreview": "RAMADAN-SPECIAL\r\n\r\nPREMIUM BOXES\r\n\r\n\r\n\r\n\u2666 Date & Nuts Boxes   \u2666 Iftar Meal Boxes\r\n\r\n\u2666 Corrugated Boxes with Sleeves   \u2666 Biryani Boxes\r\n\r\n\r\nORDER NOW\r\n\r\n\r\n\r\nRAMADAN SPECIAL PRODUCTS\r\n\r\n\ud83c\udf19\u2728 Ramadan is He",
+      "subject": "Re: [ComposioHQ/composio] [Feature Request] Add `OnlineMeetingTranscript.Read.All` scope to Microsoft Teams integration (Issue #2276)",
+      "from": "Uday Sidagana",
+      "receivedDateTime": "2026-02-17T07:29:38Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ2emDnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Azure DevOps SSH key added",
+      "from": "Azure DevOps",
+      "receivedDateTime": "2026-02-17T04:30:58Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ2emDmAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Tanner Bailey just posted new content",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-02-17T01:43:27Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ2cp%2BSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Microsoft 365 security: You have messages in quarantine",
       "from": "quarantine@messaging.microsoft.com",
-      "fromEmail": "quarantine@messaging.microsoft.com",
-      "receivedDateTime": "2026-02-15T23:45:46Z",
-      "bodyPreview": "Review These Messages\r\n2 messages are being held for you to review as of 2/15/2026 11:41:10 PM (UTC).\r\nReview them within 30 days of the received date by going to the Quarantine page in the Security C",
+      "receivedDateTime": "2026-02-17T01:31:02Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQ7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Roundtable Invitation: A New Kind of Hiring Conversation in Hospitality",
-      "from": "Ralf Borchert",
-      "fromEmail": "noreply@campaign.eventbrite.com",
-      "receivedDateTime": "2026-02-15T21:35:49Z",
-      "bodyPreview": "An Invitation-Only Roundtable for Hospitality LeadersHiring hasn\u2019t gotten easier. Talent hasn\u2019t gotten more available.But what if your team could control the flow?We\u2019re inviting a select group of hosp",
+      "subject": "Re: Week 8 Reports",
+      "from": "Cora Wyers",
+      "receivedDateTime": "2026-02-16T22:33:17Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQ6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "DBR: Quantity Override Actions",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-15T21:09:44Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Timothy Short\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - RESTOCK\r\n\r\n\r\n\r\nDBR: Quantity Override Actions\r\n\r\n\r\n\r\n@Isaac Carpenter I'm removing the details regarding WeeksOfSupply",
+      "subject": "Thanks for attending today's webinar\u2014your sneak peek of what's coming at CAST.",
+      "from": "Syngenta Flowers",
+      "receivedDateTime": "2026-02-16T22:18:02Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQ5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Spring Fares from $38 one way",
-      "from": "Allegiant",
-      "fromEmail": "no-reply@e.allegiant.com",
-      "receivedDateTime": "2026-02-15T21:07:53Z",
-      "bodyPreview": "Nonstop to sand, surf and sunshine. \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c",
+      "subject": "Your meeting recap - Product Bi Weekly",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-16T19:46:27Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQ4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Spring Fares from $38 one way",
-      "from": "Allegiant",
-      "fromEmail": "no-reply@e.allegiant.com",
-      "receivedDateTime": "2026-02-15T21:05:06Z",
-      "bodyPreview": "Nonstop to sand, surf and sunshine. \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c \u2007\u00ad \u034f\u200c",
+      "subject": "Your meeting recap - Technology Weekly",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-16T19:34:43Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQ3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Still Want to Hear From CLEAR?",
-      "from": "CLEAR",
-      "fromEmail": "hello@email.clearme.com",
-      "receivedDateTime": "2026-02-15T20:00:51Z",
-      "bodyPreview": "\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c ",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "subject": "Your meeting recap - Perpetual Inventory/Prod Schedule Front End Review",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-16T18:50:57Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQ2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Your Flow Pro access ends soon \u23f3",
-      "from": "Wispr Flow",
-      "fromEmail": "hello@mail.wispr.ai",
-      "receivedDateTime": "2026-02-15T18:32:19Z",
-      "bodyPreview": "Keep your momentum going \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Website Contact Form Submission",
-      "from": "Silver Fern",
-      "fromEmail": "noreply@silverfern.com",
-      "receivedDateTime": "2026-02-15T16:25:40Z",
-      "bodyPreview": "Name: Samuel Everett Email: samuel.everett@jmailservice.com Reason: other Comments: Our system gets your company listed on top of search results almost instantly - no long SEO process, no delay. Can I",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "[Getting started on DO] Part 3 of 4: Power Up Your Droplets",
-      "from": "Team DigitalOcean",
-      "fromEmail": "team@info.digitalocean.com",
-      "receivedDateTime": "2026-02-15T06:13:10Z",
-      "bodyPreview": "Enhancing your growing infrastructure\r\n\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007\u2007 \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007\u034f \u2007\u200d\u034f \u2007",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Director of Product Management: American Express and PayPal hired roles near you",
-      "from": "LinkedIn",
-      "fromEmail": "messages-noreply@linkedin.com",
-      "receivedDateTime": "2026-02-15T05:29:17Z",
-      "bodyPreview": "Nathan, American Express is a top company hiring for Director of Product Management roles\r\n\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f ",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Microsoft 365 security: You have messages in quarantine",
-      "from": "quarantine@messaging.microsoft.com",
-      "fromEmail": "quarantine@messaging.microsoft.com",
-      "receivedDateTime": "2026-02-14T22:09:32Z",
-      "bodyPreview": "Review These Messages\r\n4 messages are being held for you to review as of 2/14/2026 9:21:44 PM (UTC).\r\nReview them within 30 days of the received date by going to the Quarantine page in the Security Ce",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Nathan, your tax return needs attention",
-      "from": "TurboTax",
-      "fromEmail": "TurboTax@em1.turbotax.intuit.com",
-      "receivedDateTime": "2026-02-14T15:42:35Z",
-      "bodyPreview": "Add your wages & income now\r\n\u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f \u200c   \u2007 \ufeff \u034f",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Head of Product role at OutScout: Actively recruiting",
-      "from": "LinkedIn",
-      "fromEmail": "jobs-listings@linkedin.com",
-      "receivedDateTime": "2026-02-14T13:30:42Z",
-      "bodyPreview": "Posted on 2/9/2026\r\n\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f ",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Bill Calkins and others share their thoughts on LinkedIn",
-      "from": "LinkedIn",
-      "fromEmail": "updates-noreply@linkedin.com",
-      "receivedDateTime": "2026-02-14T01:37:35Z",
-      "bodyPreview": "TIME IS RUNNING OUT! VOTE NOW for the winning team from the 2026 Fantasy Plant\u2026\r\n\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f ",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Microsoft 365 security: You have messages in quarantine",
-      "from": "quarantine@messaging.microsoft.com",
-      "fromEmail": "quarantine@messaging.microsoft.com",
-      "receivedDateTime": "2026-02-13T21:38:52Z",
-      "bodyPreview": "Review These Messages\r\n10 messages are being held for you to review as of 2/13/2026 5:22:36 PM (UTC).\r\nReview them within 30 days of the received date by going to the Quarantine page in the Security C",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Access order data for reports",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T20:06:23Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Scott Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nAccess order data for reports\r\n\r\n\r\n\r\nDraft PR #4179 created \u2014 r",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Access order data for reports",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T20:03:56Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Scott Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nAccess order data for reports\r\n\r\n\r\n\r\nBackend: ReportDataSource ",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Organize reports into folders",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T19:57:41Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Scott Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nOrganize reports into folders\r\n\r\n\r\n\r\nDraft PR #4178 created \u2014 r",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Reports | Backend",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T19:53:00Z",
-      "bodyPreview": "Assigned to Scott Slattery\r\n\r\n\r\n\r\nby Scott Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL\r\n\r\n\r\n\r\nReports | Backend\r\n\r\n\r\nin-progress\r\n\r\n\r\nView task\r\n\r\n\r\n\r\nReplies to this email will be ",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "The tech giant tripling hiring",
-      "from": "LinkedIn News",
-      "fromEmail": "editors-noreply@linkedin.com",
-      "receivedDateTime": "2026-02-13T19:41:20Z",
-      "bodyPreview": "More junior roles will be added that look like \"totally different jobs\" as AI takes over traditional early-career tasks, IBM's HR chief said.\r\n\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Mark reports as favorites",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T19:20:49Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Scott Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nMark reports as favorites\r\n\r\n\r\n\r\nBackend: IsStarred field added",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Save and manage custom reports",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T19:20:48Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Scott Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nSave and manage custom reports\r\n\r\n\r\n\r\nBackend: Report entity fu",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Configure report parameters and filters",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T19:20:48Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Scott Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nConfigure report parameters and filters\r\n\r\n\r\n\r\nBackend: Paramet",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Organize reports into folders",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T19:20:47Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Scott Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nOrganize reports into folders\r\n\r\n\r\n\r\nBackend: ReportFolder CRUD",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Mark reports as favorites",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:46:48Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nMark reports as favorites\r\n\r\n\r\n\r\nBackend: IsStarred field added ",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Save and manage custom reports",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:46:43Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nSave and manage custom reports\r\n\r\n\r\n\r\nBackend: Report entity ful",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Configure report parameters and filters",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:46:42Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nConfigure report parameters and filters\r\n\r\n\r\n\r\nBackend: Paramete",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Organize reports into folders",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:46:42Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nOrganize reports into folders\r\n\r\n\r\n\r\nBackend: ReportFolder CRUD ",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Organize reports into folders",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:46:26Z",
-      "bodyPreview": "Status has been changed\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nOrganize reports into folders\r\n\r\n\r\nready for dev\r\nin",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Save and manage custom reports",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:46:24Z",
-      "bodyPreview": "Status has been changed\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nSave and manage custom reports\r\n\r\n\r\nready for dev\r\ni",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Mark reports as favorites",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:46:24Z",
-      "bodyPreview": "Status has been changed\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nMark reports as favorites\r\n\r\n\r\nready for dev\r\nin-pro",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Configure report parameters and filters",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:46:23Z",
-      "bodyPreview": "Status has been changed\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL / Reports | Backend\r\n\r\n\r\n\r\nReports | Backend\r\nConfigure report parameters and filters\r\n\r\n\r\nready f",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Report Scheduler",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:17:04Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL\r\n\r\n\r\n\r\nReport Scheduler\r\n\r\n\r\n\r\nNote: Report backend entity work is in progress under DEV-7993. Scheduler work ",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Reports | Backend",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:16:55Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL\r\n\r\n\r\n\r\nReports | Backend\r\n\r\n\r\n\r\nBackend development in progress (wsapi repo):\r\n\r\n\u2705 Task 1: Report entity redes",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Reports | Backend",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T18:16:49Z",
-      "bodyPreview": "Status has been changed\r\n\r\n\r\n\r\nby Brad Slattery\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL\r\n\r\n\r\n\r\nReports | Backend\r\n\r\n\r\nready for dev\r\nin-progress\r\n\r\n\r\nView task\r\n\r\n\r\n\r\nReplies to this ema",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "Juggling too many tools to run your business?",
-      "from": "ClickUp Team",
-      "fromEmail": "team@mail.clickup.com",
-      "receivedDateTime": "2026-02-13T18:02:56Z",
-      "bodyPreview": "Consolidate your tech stack with the Small Business Suite.\r\n\u2007\r\n\u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "DBR: Undo Quantity Override",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T17:47:35Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Automation #1 - When task created, change watchers.\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - RESTOCK\r\n\r\n\r\n\r\nDBR: Undo Quantity Override\r\n\r\n\r\n\r\nProduct\r\n\r\n86dr1-221214\r\n\r\nRel",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "DBR: Undo Quantity Override",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T17:47:05Z",
-      "bodyPreview": "Status has been changed\r\n\r\n\r\n\r\nby Timothy Short\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - RESTOCK\r\n\r\n\r\n\r\nDBR: Undo Quantity Override\r\n\r\n\r\ndev complete\r\nin-progress\r\n\r\n\r\nView task\r\n\r\n\r\n\r\nReplies to",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "DBR: Quantity Override Actions",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T17:45:27Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Automation #1 - When task created, change watchers.\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - RESTOCK\r\n\r\n\r\n\r\nDBR: Quantity Override Actions\r\n\r\n\r\n\r\nProduct\r\n\r\nRelease Note:\r\n\r",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "DBR: Quantity Override Actions",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T17:45:13Z",
-      "bodyPreview": "Status has been changed\r\n\r\n\r\n\r\nby Timothy Short\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - RESTOCK\r\n\r\n\r\n\r\nDBR: Quantity Override Actions\r\n\r\n\r\ndev complete\r\nready for dev\r\n\r\n\r\nView task\r\n\r\n\r\n\r\nRepli",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "DBR: Quantity Override Actions",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T17:45:09Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Automation #1 - When task created, change watchers.\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - RESTOCK\r\n\r\n\r\n\r\nDBR: Quantity Override Actions\r\n\r\n\r\n\r\nProduct\r\n\r\n86dr1-221214\r\n\r\n",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
-    },
-    {
-      "subject": "DBR: Quantity Override Actions",
-      "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T17:44:47Z",
-      "bodyPreview": "Status has been changed\r\n\r\n\r\n\r\nby Timothy Short\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - RESTOCK\r\n\r\n\r\n\r\nDBR: Quantity Override Actions\r\n\r\n\r\nin-progress\r\ndev complete\r\n\r\n\r\nView task\r\n\r\n\r\n\r\nReplies",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "subject": "Fw: Add Column to Trial Transplant and Prop Report",
+      "from": "Cora Wyers",
+      "receivedDateTime": "2026-02-16T17:51:57Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQ1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
       "subject": "Your meeting recap - Dev Huddle",
       "from": "Fred from Fireflies.ai",
-      "fromEmail": "fred@fireflies.ai",
-      "receivedDateTime": "2026-02-13T17:14:25Z",
-      "bodyPreview": "Nathan van Wingerden\r\n\r\n(nathan@silverfern.com)\r\n\r\ninvited Fireflies to your meeting\r\n\r\nTo record and take notes\r\n\r\n\r\n\r\nDev Huddle\r\n\r\nFeb 13th at 9:00 AM PST\r\n\r\nView meeting recap\r\n\r\n In this meeting\r",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "receivedDateTime": "2026-02-16T17:14:47Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQ0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Pricing Import Broken",
+      "subject": "[Task Update] Backup of The Chase journal ready for download",
+      "from": "OpenAI",
+      "receivedDateTime": "2026-02-16T17:04:54Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "DBR: Get Historical Sales from BPF",
       "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T17:05:22Z",
-      "bodyPreview": "Uploaded attachment\r\n\r\n\r\n\r\nby Kennedy Kirk\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL\r\n\r\n\r\n\r\nPricing Import Broken\r\n\r\n\r\n\r\npricetest.csv\r\n\r\n\r\n\r\nView task\r\n\r\n\r\n\r\nReplies to this email will be",
+      "receivedDateTime": "2026-02-16T16:51:15Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Pricing Import Broken",
+      "subject": "DBR: Get Historical Sales from BPF",
       "from": "Silver Fern",
-      "fromEmail": "notifications@tasks.clickup.com",
-      "receivedDateTime": "2026-02-13T17:05:18Z",
-      "bodyPreview": "New comment\r\n\r\n\r\n\r\nby Kennedy Kirk\r\n\r\n\r\n\r\n\r\nTechnology / Development / Backlog - FULFILL\r\n\r\n\r\n\r\nPricing Import Broken\r\n\r\n\r\n\r\nThis problem still exists in both red and production:\r\nimage.png\r\ntest item",
+      "receivedDateTime": "2026-02-16T16:50:58Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Fall in love with productivity, discover ClickUp Super Agents \ud83d\ude0d",
+      "subject": "DBR: Get Historical Sales from BPF",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-16T16:50:54Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "DBR: Get Historical Sales from BPF",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-16T16:50:36Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQvAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - Company Weekly",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-16T16:36:48Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - Operations Weekly",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-16T16:20:06Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Don\u2019t miss out: Embrace productivity like never before\u2014meet ClickUp Super Agents!",
       "from": "ClickUp Team",
-      "fromEmail": "team@mail.clickup.com",
-      "receivedDateTime": "2026-02-13T17:03:55Z",
-      "bodyPreview": "Super Agents are here to help you reclaim your time\u2014see how.\r\n\u2007\r\n\u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f \u2007\ufeff\u034f",
+      "receivedDateTime": "2026-02-16T16:03:57Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Last Call! \u2708\ufe0f Your 14% discount is taking off...",
-      "from": "Mytrip Newsletter",
-      "fromEmail": "travel@info.Mytrip.com",
-      "receivedDateTime": "2026-02-13T16:44:44Z",
-      "bodyPreview": "Just 24 hours left to be the Valentine's Day hero.  \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c\r\n\r\n\r\nMake It a Trip with 14% Off\r\nFor Valentine's Day\r\n\r\n\r\n14% OFF \u2014 Only 24 Hours Left!\r\nThis is your last chance to plan",
+      "subject": "DBR: Quantity Override Actions",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-16T16:02:52Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "All Things Political with Jeff Stone: Wednesday, February 18",
-      "from": "Jeff Stone, OAN",
-      "fromEmail": "jstone@oan.org",
-      "receivedDateTime": "2026-02-13T16:38:42Z",
-      "bodyPreview": "Jeff is putting himself on the spot and taking all shots and questions.\r\n\r\n\u200a\r\nAll Things Political with Jeff Stone\r\n\r\nWednesday, February 18 | 8:00 a.m.\r\n\r\n\r\nJoin us for a candid conversation with OAN",
-      "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "subject": "Re: Cavano's Andy",
+      "from": "Kennedy Kirk",
+      "receivedDateTime": "2026-02-16T15:45:19Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQqAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     },
     {
-      "subject": "Reminder: Vibrant Natural Like Colors In Excellent Cut and Finish Nathan",
-      "from": "Renaissance",
-      "fromEmail": "neilk-renaissancediamonds.com@shared1.ccsend.com",
-      "receivedDateTime": "2026-02-13T14:15:58Z",
-      "bodyPreview": "Premium Quality Vivid Lab Grown Diamond Colors\r\n\r\n\r\nSpectacular Portugal Cuts Brilliantly Bold\r\n\r\nWith 177 Facets and Certified!\r\n\r\n\r\n\r\n2.05 Ct Ideal Round\r\n\r\nFancy Vivid Green\r\n\r\nVS2 Clarity\r\n\r\nVIDEO",
+      "subject": "Your meeting recap - Following: Directors Weekly",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-16T15:20:47Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQpAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Cavano's Andy",
+      "from": "Andy Dagilis",
+      "receivedDateTime": "2026-02-16T15:13:37Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Quick heads-up: Verify your toll-free number to start messaging",
+      "from": "Isa @ Twilio",
+      "receivedDateTime": "2026-02-16T15:03:31Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Weekly Digest: Highlights from Feb 09 - Feb 16, 2026",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-16T15:00:22Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Want a sneak peek of your tax refund, Nathan?",
+      "from": "TurboTax",
+      "receivedDateTime": "2026-02-16T14:17:13Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your meeting recap - Product Daily Huddle",
+      "from": "Fred from Fireflies.ai",
+      "receivedDateTime": "2026-02-16T14:14:38Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "DBR: Quantity Override Actions",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-16T14:03:26Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "DBR: Quantity Override Actions",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-16T14:03:07Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Are you ready to welcome Ramadan\ud83c\udf19",
+      "from": "Veesham Printing Press",
+      "receivedDateTime": "2026-02-16T07:07:18Z",
       "isRead": false,
-      "importance": "normal",
-      "webLink": ""
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Microsoft 365 security: You have messages in quarantine",
+      "from": "quarantine@messaging.microsoft.com",
+      "receivedDateTime": "2026-02-15T23:45:46Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Roundtable Invitation: A New Kind of Hiring Conversation in Hospitality",
+      "from": "Ralf Borchert",
+      "receivedDateTime": "2026-02-15T21:35:49Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQeAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "DBR: Quantity Override Actions",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-15T21:09:44Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Spring Fares from $38 one way",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-02-15T21:07:53Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Spring Fares from $38 one way",
+      "from": "Allegiant",
+      "receivedDateTime": "2026-02-15T21:05:06Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Still Want to Hear From CLEAR?",
+      "from": "CLEAR",
+      "receivedDateTime": "2026-02-15T20:00:51Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Your Flow Pro access ends soon \u23f3",
+      "from": "Wispr Flow",
+      "receivedDateTime": "2026-02-15T18:32:19Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Website Contact Form Submission",
+      "from": "Silver Fern",
+      "receivedDateTime": "2026-02-15T16:25:40Z",
+      "isRead": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "[Getting started on DO] Part 3 of 4: Power Up Your Droplets",
+      "from": "Team DigitalOcean",
+      "receivedDateTime": "2026-02-15T06:13:10Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Director of Product Management: American Express and PayPal hired roles near you",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-02-15T05:29:17Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ1JQQWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Microsoft 365 security: You have messages in quarantine",
+      "from": "quarantine@messaging.microsoft.com",
+      "receivedDateTime": "2026-02-14T22:09:32Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ0e%2Ba6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Nathan, your tax return needs attention",
+      "from": "TurboTax",
+      "receivedDateTime": "2026-02-14T15:42:35Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ0e%2Ba5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Head of Product role at OutScout: Actively recruiting",
+      "from": "LinkedIn",
+      "receivedDateTime": "2026-02-14T13:30:42Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ0e%2Ba4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
-    "Ops": [
-      {
-        "from": "Chris Christensen",
-        "content": "Kennedy , I'll take a look",
-        "createdDateTime": "2026-02-13T17:11:23.287Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "I'm still seeing this problem in both red and in production... I'm going to have to tell GLG that we need more time. Nathan any idea when they need to be live?",
-        "createdDateTime": "2026-02-13T17:07:15.106Z"
-      },
-      {
-        "from": "John Beauford",
-        "content": "Jk - I had someone this week have a meeting that didn\u2019t show on my calendar so just checking",
-        "createdDateTime": "2026-02-10T03:12:24.21Z"
-      },
-      {
-        "from": "John Beauford",
-        "content": "Dang it Claudine why you forget this?",
-        "createdDateTime": "2026-02-10T03:04:02.818Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "No, I forgot to have my secretary schedule one",
-        "createdDateTime": "2026-02-10T02:42:06.338Z"
-      },
-      {
-        "from": "John Beauford",
-        "content": "Thank you was there a calendar in it for this?",
-        "createdDateTime": "2026-02-10T02:11:03.149Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "It's done. Just waiting on smoke testing",
-        "createdDateTime": "2026-02-10T01:37:56.493Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "Hows the release going?",
-        "createdDateTime": "2026-02-10T01:36:49.777Z"
-      },
-      {
-        "from": "John Beauford",
-        "content": "Our policy has always been (since I have been here) is that we do not publish database schema or a public \"API\" capability to have 3rd party code interact with GrowPoint or GrowPoint data sources. However, some customers with the self appointed technical acumen do stuff like this anyway, even through we have warned the ones we knew about that it could lead to data corruption, data loss or program malfunction. All that being said. has he not been reading our emails?",
-        "createdDateTime": "2026-02-09T14:37:13.352Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "You mean something like this? Appendix b",
-        "createdDateTime": "2026-02-09T15:10:44.827Z"
-      },
-      {
-        "from": "John Beauford",
-        "content": "Does Legacy Silver Fern have a \"Terms of Service\" for the subscription software?",
-        "createdDateTime": "2026-02-09T14:51:59.958Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "John Beauford do you have any context on this? Have they written custom web apps interacting with GPs db?",
-        "createdDateTime": "2026-02-09T14:05:40.708Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "2 is fixed too",
-        "createdDateTime": "2026-02-06T18:25:49.945Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Overall, I wouldn't say I agree with this. Chris is working on a fix for this one I'm not running into either of these issues when creating an order. The second one was resolved with the All-Orders role in the console. This is already taken care of? View invoice is disabled for GLG. Regardless of those points, GLG's current solution is an Excel spreadsheet; they have already been using FULFILL for weekly availability for some time. The goal is to give them order management with pricing, which is",
-        "createdDateTime": "2026-02-06T18:15:26.54Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "all repos require a feature branch that is then given a pr. If you look at the /shipit command in that repo, it will do all that for you",
-        "createdDateTime": "2026-02-06T15:44:33.819Z"
-      },
-      {
-        "from": "John Beauford",
-        "content": "so do we create tasks to get things int that repo or just pr on main?",
-        "createdDateTime": "2026-02-06T15:41:43.241Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "yeah, the claude-code repo is perfect",
-        "createdDateTime": "2026-02-06T15:28:06.904Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "I was being facetious we need centralization of all this, it's very confusing who uses what and what the best practice is.",
-        "createdDateTime": "2026-02-06T15:27:40.002Z"
-      },
-      {
-        "from": "John Beauford",
-        "content": "you want these in the claude-code repo ? Do we need a skills folder?",
-        "createdDateTime": "2026-02-06T15:27:38.76Z"
-      },
-      {
-        "from": "John Beauford",
-        "content": "so I have it working on a baseline since Nathan is unavaialbe",
-        "createdDateTime": "2026-02-06T15:27:23.093Z"
-      },
-      {
-        "from": "John Beauford",
-        "content": "yep exacty what I an trying extract. its always out there in the ether somewhere or property of someone else. ;",
-        "createdDateTime": "2026-02-06T15:25:12.189Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "seems simple enough",
-        "createdDateTime": "2026-02-06T15:11:16.274Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "There are various forks too. Eg if Bonnie, log hours or not",
-        "createdDateTime": "2026-02-06T15:10:10.203Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "Nathan would probably know required fields best",
-        "createdDateTime": "2026-02-06T15:09:46.35Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "Ike just has skill versions, not mcp. But even skills, if invoked would do a good job at this",
-        "createdDateTime": "2026-02-06T15:09:17.911Z"
-      },
-      {
-        "from": "John Beauford",
-        "content": "ok talked to Ike. He doesn't have it. He pitched me over to Nathan. Nathan is not awake yet. I have installed the official MCP from CU and am having claude take a crack at some skills for this. Is there any established Key fields or required fields lists or thinking that legacy silverfern has establshed?",
-        "createdDateTime": "2026-02-06T15:06:37.768Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "can he send me his /ticket markdowns?",
-        "createdDateTime": "2026-02-06T14:28:49.764Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "If you all define what you want product team can start adhering consistently",
-        "createdDateTime": "2026-02-06T14:27:47.141Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "Ike has several versions of /ticket",
-        "createdDateTime": "2026-02-06T14:27:22.382Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "it is, i updated my system this weekend, the uptime before that was 3 weeks",
-        "createdDateTime": "2026-02-06T14:26:41.448Z"
-      }
-    ],
-    "Product": [
-      {
-        "from": "Nathan van Wingerden",
-        "content": "\ud83d\udccb Bi-Weekly Product Meeting Agenda Ready Meeting Date: February 09, 2026 Current Sprint: S23 (Feb 03 - Feb 23) Recommended Topics: Wireframe Repository Access & Documentation, Release Planning, Testing, and GLG Issues, Ticketing Consistency & MCP / Claude Integration \ud83d\udce5 Download Agenda Generated automatically from Teams chat activity over the past 2 weeks.",
-        "createdDateTime": "2026-02-09T16:00:57.983Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "https://wireframe-directory.netlify.app/ this can now be accessed via this memorable link: https://share.silverfern.com/wireframes",
-        "createdDateTime": "2026-02-07T18:32:58.529Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "^ Ignore. that was a test",
-        "createdDateTime": "2026-02-02T19:52:19.492Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "\ud83d\udccb Bi-Weekly Product Meeting Agenda Ready Meeting Date: February 02, 2026 Current Sprint: S22 (Jan 13 - Feb 02) Recommended Topics: Release Planning and Testing, Agriware Copilot Features and Integration, Mood.log and Friday Updates \ud83d\udce5 Download Agenda Generated automatically from Teams chat activity over the past 2 weeks.",
-        "createdDateTime": "2026-02-02T18:56:49.601Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "i have not, but i'll check it out",
-        "createdDateTime": "2026-02-02T15:58:23.175Z"
-      },
-      {
-        "from": "Stephen van Wingerden",
-        "content": "Nathan , have you seen some of the Agriware Copilot features? https://youtu.be/Ufzcp7v-8EU",
-        "createdDateTime": "2026-02-02T15:32:22.481Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "total game changer: Wispr Flow | Effortless Voice Dictation used before in background with codex but did not realize it would let me use voice straight in terminal. amazing",
-        "createdDateTime": "2026-01-29T10:49:09.614Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "Directionally aligned with where tech team is going",
-        "createdDateTime": "2026-01-21T10:12:35.226Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "https://youtu.be/u5GkG71PkR0?si=JG7acp-Hy-6q2QPc One of the more helpful videos I\u2019ve found on: - specialized self validation - working on system of systems - inserting determinism into Claude workflow",
-        "createdDateTime": "2026-01-21T10:12:11.299Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "gemini defaults to 2.5, so update with /model",
-        "createdDateTime": "2026-01-19T14:38:49.595Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "I've started using them to check claude's work which has also been helpful",
-        "createdDateTime": "2026-01-19T14:35:18.413Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "Isaac Nathan - these are both worth considering/trying for various scoping/development automation efforts: 1) Gemini Code Assist | AI coding assistant - great for research and UI ideas 2) Codex | OpenAI - catches deep bugs that Claude misses at time",
-        "createdDateTime": "2026-01-19T14:34:09.188Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Claude seems to be down",
-        "createdDateTime": "2026-01-12T18:43:51.144Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "Very nice!",
-        "createdDateTime": "2026-01-07T14:12:09.213Z"
-      },
-      {
-        "from": "Isaac Short",
-        "content": "Wireframe dashboard - wireframe-directory.netlify.app PW: SFwireframedirectory",
-        "createdDateTime": "2026-01-07T14:10:47.33Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "make sure all your repos are private in github fyi. claude sometimes sets them up as public",
-        "createdDateTime": "2025-12-31T22:33:57.438Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "Oh yeah, no rush at all",
-        "createdDateTime": "2025-12-31T17:40:31.448Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "Can I ask them Monday?",
-        "createdDateTime": "2025-12-31T17:40:12.999Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "Are you still using sonnet or switched to opus now?",
-        "createdDateTime": "2025-12-31T17:39:21.299Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "Chris - I'd be curious what you'd find from the dev team if you had them do this",
-        "createdDateTime": "2025-12-31T17:38:47.521Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "i'm the newbie on the block:",
-        "createdDateTime": "2025-12-31T17:34:22.286Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "Out of curiosity can everyone run /stats in claude and send here?",
-        "createdDateTime": "2025-12-31T17:31:22.78Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "thank you. Also, i figured out to fix the markdown issues when creating clickup tasks, which is going to be very nice",
-        "createdDateTime": "2025-12-29T19:06:40.024Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "for anyone who get's tired of clicking ok to let claude go to the web > can i give you permission to go to the web without my ok? \u25cf Yes! You can configure Claude Code to allow web tools without prompting. Here are your options: Quick way (this session): Use the /allowed-tools command to add permissions: /allowed-tools add WebFetch /allowed-tools add WebSearch Permanent way (all sessions): Add to your settings file at ~/.claude/settings.json: { \"permissions\": { \"allow\": [ \"WebFetch\", \"WebSearch\" ",
-        "createdDateTime": "2025-12-29T17:54:26.262Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "FYi i made a number of changes to /scope skill so you may want to pull the latest from github if you're scoping",
-        "createdDateTime": "2025-12-29T14:30:00.31Z"
-      },
-      {
-        "from": "Kevin Short",
-        "content": "And update in GitHub whatever you do",
-        "createdDateTime": "2025-12-24T00:19:42.101Z"
-      }
-    ],
-    "PRODUCE Support": [
-      {
-        "from": "Jon Bebus",
-        "content": "Nathan - My reply to Cora is going to be \"Let me go ask Nathan\". When you get some time Brian and I would love to be shown around the data for reports. In the meantime, her First question is about Transplant And Prop Report. Her second question is about Combo - Transplant Cora When I try to look at that report I get error: (going to need help) Good morning, Our Transplant Report for WK6 is not aligned with what we have on our Production Schedule. See Production Schedule below: Lot ID Is Final St",
-        "createdDateTime": "2026-02-10T21:03:48.1Z"
-      },
-      {
-        "from": "Brian Strahan",
-        "content": "Nathan - I was thinking if this is like Growpoint, If they start to import a Schedule but Cancel it will it Sequence the Lot ID thus making it look like there is a space in the numbering sequence? Is that a correct assumption or will Production always keep the Lot ID?",
-        "createdDateTime": "2026-02-04T17:03:51.559Z"
-      },
-      {
-        "from": "Jon Bebus",
-        "content": "oops. hit return. aargh. Christina @ CMG has this going on. Fin wasn't much help. Do you have any magic? We had some recipes that had an unnecessary link in the process, but I am having a hard time reapplying the correct recipe. I keep getting this error message when I reapply: Thank you, Christina DiDio Catoctin Mtn. Growers 4d Jon from Silver Fern & AGS <support@silverfern.com> to: Christina DiDio The error states \"See the inner exception for details.\" Was there another box with more informati",
-        "createdDateTime": "2026-02-02T20:44:03.127Z"
-      },
-      {
-        "from": "Jon Bebus",
-        "content": "Nathan,",
-        "createdDateTime": "2026-02-02T20:42:12.207Z"
-      },
-      {
-        "from": "Jon Bebus",
-        "content": "Spencer, Still looking into the Combo components. Getting assistance from Developers. Nathan helped correct the report and explained what was the issue. There was a filter on the report that was too strict causing items with any empty fields (such as a missing picture) from displaying. This filter has been removed and the report is working as expected now. We also confirmed the other item for week 7 is showing as well. We appreciate your patience while we worked on this.",
-        "createdDateTime": "2026-01-29T18:50:34.321Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "That\u2019s good. Maybe include a line saying you synced up with me, and confirmed the other item for week 7 is also showing.",
-        "createdDateTime": "2026-01-29T18:41:53.455Z"
-      },
-      {
-        "from": "Jon Bebus",
-        "content": "This is basics of what I would send: Spencer, Still looking into the Combo components. Getting assistance from Developers. The report has been corrected. There was a filter on the report that was too strict causing items with any empty fields from displaying. This filter has been removed and the report is working as expected now. We appreciate your patience while we worked on this.",
-        "createdDateTime": "2026-01-29T18:37:47.718Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Jon , Spencer also emailed me yesterday. Let's work together on a response. Can you send me a draft reply you plan to send him about these two issues? To summarize: Combo components were looking into, may require some dev to address. Items not pulling into reports are fixed, verified that both examples are now pulling into reports. Here is the email i got from him yesterday for context: I responded to him and said i would circle up with you guys and get him taken care of. This is on me for not t",
-        "createdDateTime": "2026-01-29T18:14:30.768Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Fixed the report, so these are pulling now. The report had a filter to only pull items when the event was set up perfectly. I removed that, so if something is 100% correct (Like no image or something stupid), the items still pull in. I verified this is working.",
-        "createdDateTime": "2026-01-29T18:11:25.049Z"
-      },
-      {
-        "from": "Brian Strahan",
-        "content": "I looked at it with no filters other than searching by Lot ID 10473 initially. When it didn't show up I just scrolled down to that section - still missing. The only thing I set was Auto Width. Triple Verified just now. 10471 which is missing too but it is in Archive Spring 2026.",
-        "createdDateTime": "2026-01-29T18:01:54.584Z"
-      },
-      {
-        "from": "Jon Bebus",
-        "content": "Spencer gave me an item and what report. Item 1 is Q2.0RP Premium and Q2.0RP Vegetable. I used the same material and event for both. I only changed it for after this week. The transplant report at the bottom of the list. Try it for week 5 2026. The material event is Q2.0 keystone ACI BOM",
-        "createdDateTime": "2026-01-29T18:00:44.169Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "The only way to delete is to delete on the backend, so would have had to have been us if its actually deleted. However, there have been a few times when something has been \"deleted\" from Christina, only to turn out it wasn't...Are there any filters or layouts loaded in the grid?",
-        "createdDateTime": "2026-01-29T17:56:26.911Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Do you have an item or lotid with this request?",
-        "createdDateTime": "2026-01-29T17:53:47.183Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "they should be looking at components per pot for combos, not plants per pot. But taking a look at this there does seem to be something wrong visually. i'll take a look and see if its something i can fix",
-        "createdDateTime": "2026-01-29T17:51:00.981Z"
-      },
-      {
-        "from": "Brian Strahan",
-        "content": "Nathan van Wingerden CMG is missing a Lot ID in Production Schedule - Lot ID #10473. Can you delete a Lot ID or just Archive: I am assuming just archive since there was not delete I could see on the menu. I went through every Archive they have but no #10473 Is there any other reason for a Lot ID Sequence have a skip in the numbering?",
-        "createdDateTime": "2026-01-23T17:09:45.35Z"
-      },
-      {
-        "from": "Jon Bebus",
-        "content": "Nathan van Wingerden Additional Question from Spencer ACI. \"I created a new material event for a new item. The item is in the inventory and has a picture associated with it. I deleted the old material event on the schedule and added the new event. Now the item is not showing up on my production reports.\" If an item is on a schedule and the material event for that item gets removed, would that remove it from the report? Even if the user adds a new event - I would think the keys would be different",
-        "createdDateTime": "2026-01-22T20:43:09.374Z"
-      },
-      {
-        "from": "Jon Bebus",
-        "content": "Nathan van Wingerden Question about plants per pot. User believes they have 2 ppp of one of the components in a custom combo. The schedule only shows 1.",
-        "createdDateTime": "2026-01-20T20:36:27.751Z"
-      },
-      {
-        "from": "Brian Strahan",
-        "content": "We should discuss GLG New Tag Report they want also. Would be helpful to know what triggers charges to the customer.",
-        "createdDateTime": "2026-01-14T17:53:20.319Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "They should be charged for report adjustments. This week is pretty insane for me with meetings and planning. I cant get on a call next week and maybe we can walk through some of this stuff. Let me check with kevin on where were at with charging them on report",
-        "createdDateTime": "2026-01-14T17:42:40.946Z"
-      },
-      {
-        "from": "Jon Bebus",
-        "content": "Nathan, need some direction on Reports. Catoctin has a metric butt ton of report request in Intercom and we are struggling to help her. If a user starts a report themselves is it only available to that user? We (Me) do not have enough familiarity with the data structure to know which table to select for which data. Could use a block of time to become useful to users.",
-        "createdDateTime": "2026-01-13T21:08:30.042Z"
-      },
-      {
-        "from": "Brian Strahan",
-        "content": "Any word on this yet Nathan?",
-        "createdDateTime": "2026-01-08T22:35:30.794Z"
-      },
-      {
-        "from": "Jon Bebus",
-        "content": "We should meet.",
-        "createdDateTime": "2026-01-08T16:39:38.103Z"
-      },
-      {
-        "from": "Brian Strahan",
-        "content": "Not Really - there are some bits and pieces documents. We stopped sending out 3 Ring Binders of Printed Docs a long time ago. We realized everyone does things a bit different - some are simple their Chart of Accounts is 10 Accounts others breakdown accounts by 1,2,3 or more sub accounts and have a chart of accounts by 100+ accounts. Its all about consulting with the client and making sure we get it set for what they want to happen. All this rolls from Inventory and Customers to the AR Orders, Pa",
-        "createdDateTime": "2026-01-08T16:20:32.903Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Is there any documentation on this?",
-        "createdDateTime": "2026-01-08T16:11:54.75Z"
-      },
-      {
-        "from": "Brian Strahan",
-        "content": "That is a small and huge question. Probably be a good conversation to have with Jon and I when he returns from the show next week. The short of it, everything from AR - Sales Orders, Payments, Credits, Interest post to the GL. The Sales order can pull GL Accounts from Inventory, Locations, Customers or a Default set of GL Accounts depending on the Customer/Item Hierarchy. All those go to GL Posting.",
-        "createdDateTime": "2026-01-08T15:51:57.917Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Jon , Brian Strahan , can you get me a detailed list of all the functionality in Growpoint accounting? I'm working on a comprehensive doc explaining what Fulfill will do, and what it won't do for accounting, and would like to set up a comparison with current functionality in GP accounting.",
-        "createdDateTime": "2026-01-08T15:42:24.373Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "reapply recipes is supposed to address that. Now, there has to be a recipe that has changes for produce to grab; it looks like she made some edits to her recipes after importing, and now there is no matching recipe for a lot of those lots. That's the main issue.",
-        "createdDateTime": "2026-01-05T15:09:27.038Z"
-      },
-      {
-        "from": "Brian Strahan",
-        "content": "She is trying to fix some incorrect Recipe information and it is only letting her change Material Events when she tries to Reapply Recipes. Is the Reapply Recipe on the Schedule suppose to reach down and grab up all changes done on a Recipe or just Events? If that is true then the only way to fix a bad schedule is Archive and Reimport correct?",
-        "createdDateTime": "2025-12-31T18:54:21.04Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Hey Brian - quick update on the Reapply Recipes issue: I've been testing this and haven't been able to recreate the error. I've successfully reapplied recipes for various scenarios - updating Plants Per Pot, Grow Weeks, etc. - all without issues. Could you reach out to Christina and get specific steps to recreate the problem? Knowing exactly what she was doing when the error occurred would help us narrow this down. We're still investigating the missing Plants Per Pot issue. Our current theory is",
-        "createdDateTime": "2025-12-30T18:52:07.693Z"
-      }
-    ],
-    "Directors": [
-      {
-        "from": "Chris Christensen",
-        "content": "if they use locations, materials, stuff like that, then yes",
-        "createdDateTime": "2026-02-12T17:02:21.966Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "Wait... if I run DeleteTenant on GLG does that impact Produce at all? Do they use Produce?",
-        "createdDateTime": "2026-02-12T17:01:33.094Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "I would ask in Ops to get a clear answer - kevin told me a while back \" They merged with Metrolina, so I highly doubt they'll use us soon.\"... but I also saw an error in Sentry the other day because they are still using COUNT. Idk if they have paid or if they have an agreement on what they will or will not use.",
-        "createdDateTime": "2026-02-03T15:15:18.031Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "Is SCG still an active customer?",
-        "createdDateTime": "2026-02-03T15:06:03.429Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "I have it in Red, I just haven't tested it yet",
-        "createdDateTime": "2026-02-02T21:16:01.687Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "Chris any updates on delete functionality to clear out tenant?",
-        "createdDateTime": "2026-02-02T21:14:55.359Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "These look good. Feel free to tweak my wording a little if you need to.",
-        "createdDateTime": "2026-01-27T17:50:46.738Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "or all tenants rather",
-        "createdDateTime": "2026-01-27T16:18:35.869Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "it should be for all customers, but we would need to check with Gabby or Scott because there is an order flow bifurcation based on if the use erp pricing flag is set.",
-        "createdDateTime": "2026-01-27T16:18:15.463Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "When this rolls out will it allow Fulfill users to place orders for all customers? or is it a bonnie specific task? https://app.clickup.com/t/8599297/DEV-8158 Asking because since we implemented in fusion auth instead of fulfill I need to think through the impact on user setup if they need to be superusers to access their customers. Or maybe there is more dev planned on this salesperson stuff? I'm sure you all have answered this but I have no visibility into it so have to ask here .. sorry \ud83d\ude42",
-        "createdDateTime": "2026-01-27T16:17:08.247Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "let me know!",
-        "createdDateTime": "2026-01-27T15:20:13.783Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "they may be fine with us wiping their availability. They will probably be taking new counts this week anyway. i can talk to dan about it",
-        "createdDateTime": "2026-01-27T15:18:13.01Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "could you create a script that takes a csv you download from worksuite of the current availability counts and then push them into wsapi through the availability app?",
-        "createdDateTime": "2026-01-27T15:10:51.254Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "I don\u2019t think so, they all say Jan 19th. Can\u2019t imagine how they\u2019d use that info",
-        "createdDateTime": "2026-01-27T15:08:54.51Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "Does the date of the counts matter?",
-        "createdDateTime": "2026-01-27T15:06:26.679Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "Sounds good. Nathan ideas on how to preserve their availability or reimport it? I don't see front end option to import avail but I'm sure there's some way to do it that I'm just not aware of..",
-        "createdDateTime": "2026-01-27T15:02:46.19Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "I have not released it to prod yet, but I can. Let me finish the RFID sync today and then I can deploy the delete service tomorrow.",
-        "createdDateTime": "2026-01-27T15:01:50.896Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "Chris Christensen Is your tenant-wide delete functionality ready to use? I'm ready to clear out GLG and start importing new data. However, they still want the availability data, so need to strategize how to keep that or reimport it first.",
-        "createdDateTime": "2026-01-27T15:00:36.036Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "Nathan I got these questions from a growpoint user. I'll put what I think the answer is, but can you please confirm? Need to be 100% confident on these answers so please read closely!",
-        "createdDateTime": "2026-01-27T14:05:35.855Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "AGENT-ARCHITECTURE.html",
-        "createdDateTime": "2026-01-26T14:45:22.134Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "ahhh got it",
-        "createdDateTime": "2026-01-23T15:31:10.668Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Ah, that's at the worksuite level; it just says 'fulfill' at the top, haha. Any menu in the bottom leftis \"worksuite\" pages and such, but i see how that is confusing.",
-        "createdDateTime": "2026-01-23T15:24:52Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "Nope: https://integrations-wireframe.netlify.app/integrations . I'll move it",
-        "createdDateTime": "2026-01-23T15:23:01.826Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Yeah, we switched it to live at the worksuite level along with Reports! Wireframe should have reflected that after one of the weekly reviews?",
-        "createdDateTime": "2026-01-23T15:22:05.688Z"
-      },
-      {
-        "from": "Chris Christensen",
-        "content": "I agree",
-        "createdDateTime": "2026-01-23T15:19:15.169Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "Gabby had a great point on my integrations PR... she asked if this integrations page should be in FULFILL or if it was at a different level. Wireframe had it living within fulfill but should it really be at the worksuite level? because for example: any items pulled in via the quickbooks integrations would also be the items used in restock. I think integrations should not be within the fulfill portion of the app but rather here:",
-        "createdDateTime": "2026-01-23T15:02:33.654Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "we have been on a 2hr and 20min call trying to figure out the BPF organics issue",
-        "createdDateTime": "2026-01-22T16:45:27.211Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "Nathan van Wingerden any job openings on the product team",
-        "createdDateTime": "2026-01-22T16:45:05.648Z"
-      },
-      {
-        "from": "Kennedy Kirk",
-        "content": "Hope you guys are having a lovely day not being in the middle of this executive arm wrestle lol",
-        "createdDateTime": "2026-01-22T16:44:46.783Z"
-      },
-      {
-        "from": "Nathan van Wingerden",
-        "content": "Fulfill availability does work offline. It syncs data locally and allows the user to collect counts, then post them once they're back online.",
-        "createdDateTime": "2026-01-21T15:14:20.22Z"
+    "gp_transition_q&a_": {
+      "name": "GP transition Q&A ",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T20:49:00.32Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "product_bi_weekly": {
+      "name": "Product Bi Weekly",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T19:42:47.383Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T19:42:41.614Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KH47N92AB0WFGANDYV9DHGDM?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kh47n92ab0wfgandyv9dhgdm?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KH47N92AB0WFGANDYV9DHGDM?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-16T19:01:41.312Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T19:00:22.372Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T19:00:03.781Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "technology_weekly": {
+      "name": "Technology Weekly",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T19:41:03.965Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T19:32:24.79Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T19:32:22.322Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T19:32:19.717Z"
+        },
+        {
+          "from": "Scott Slattery",
+          "content": "<p>leaving to jump &nbsp;on a Bonnie call</p>",
+          "createdDateTime": "2026-02-16T19:28:58.705Z"
+        },
+        {
+          "from": "Robert Williams",
+          "content": "<p>brb</p>",
+          "createdDateTime": "2026-02-16T19:16:16.997Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Isaac",
+          "content": "<p>Isaac invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KH47N91TE4XVHBFN0QDKKKC5?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kh47n91te4xvhbfn0qdkkkc5?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KH47N91TE4XVHBFN0QDKKKC5?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-16T18:31:25.843Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:30:08.418Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:26:32.54Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:26:28.344Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:26:24.954Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "dev_huddle": {
+      "name": "Dev Huddle",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T17:13:05.178Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T17:12:59.871Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KH47N925AD4RQRJPS5ZPC9VK?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kh47n925ad4rqrjps5zpc9vk?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KH47N925AD4RQRJPS5ZPC9VK?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-16T17:01:52.248Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T17:00:34.694Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:56:20.994Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "perpetual_inventory/prod_sched": {
+      "name": "Perpetual Inventory/Prod Schedule Front End Review",
+      "messages": [
+        {
+          "from": "Kennedy Kirk",
+          "content": "<attachment id=\"269d562b-4711-4e4d-8077-6f47fe02ca79\"></attachment>",
+          "createdDateTime": "2026-02-16T19:08:21.478Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:49:10.654Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:49:10.113Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:47:49.883Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:44:32.63Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KHKFHG9KP8W14RJED0Y5VCT2?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01khkfhg9kp8w14rjed0y5vct2?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KHKFHG9KP8W14RJED0Y5VCT2?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-16T18:02:36.561Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:01:23.91Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:01:06.191Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:01:02.374Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>yes i know, classic&nbsp;</p>",
+          "createdDateTime": "2026-02-16T18:00:16.644Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>give me a few mins. grabbing coffee&nbsp;</p>",
+          "createdDateTime": "2026-02-16T18:00:11.474Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:00:02.924Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T15:01:39.115Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "group_chat": {
+      "name": "Group Chat",
+      "messages": [
+        {
+          "from": "Isaac Carpenter",
+          "content": "<p>Hey, for the BLN Roundtable tomorrow, I threw together this agenda here: <a href=\"https://app.clickup.com/8599297/v/dc/86dr1-44690/86dr1-453274\" rel=\"noreferrer noopener\" title=\"https://app.clickup.com/8599297/v/dc/86dr1-44690/86dr1-453274\" target=\"_blank\">https://app.clickup.com/8599297/v/dc/86dr1-44690/86dr1-453274</a></p>\n<p>&nbsp;</p>\n<p>Not exactly sure how the meeting will go, but this can atleast be a decent starting point. Feel free to change it or move it around if you want.&nbsp;</p>",
+          "createdDateTime": "2026-02-16T18:22:17.72Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T18:22:17.404Z"
+        }
+      ],
+      "type": "group"
+    },
+    "company_weekly": {
+      "name": "Company Weekly",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:36:45.229Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:35:21.013Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:35:19.665Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KH47N923G9RNAHK35P8EV9DZ?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kh47n923g9rnahk35p8ev9dz?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KH47N923G9RNAHK35P8EV9DZ?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-16T16:16:31.875Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:15:04.086Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:14:59.892Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:14:56.433Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "operations_weekly": {
+      "name": "Operations Weekly",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:23:44.011Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:18:17.837Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:18:14.807Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T16:18:11.836Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p><img src=\"https://graph.microsoft.com/v1.0/chats/19:meeting_YmJmOTM5NWItOTBiMC00ZjgyLWFhZGEtNzZkYWFiYTYxYWI0@thread.v2/messages/1771257784890/hostedContents/aWQ9eF8wLXd1cy1kNS1mYzg4OTRiZDAzYmM2NGM2OWMwZDJhMDMwODAzOTFmMix0eXBlPTEsdXJsPWh0dHBzOi8vdXMtYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1cy1kNS1mYzg4OTRiZDAzYmM2NGM2OWMwZDJhMDMwODAzOTFmMi92aWV3cy9pbWdv/$value\" width=\"513.9925373134329\" height=\"250\" alt=\"image\" itemid=\"0-wus-d5-fc8894bd03bc64c69c0d2a03080391f2\"></p>",
+          "createdDateTime": "2026-02-16T16:03:04.89Z"
+        },
+        {
+          "from": "Kevin Short",
+          "content": "<p><a href=\"https://8znjpyy5mes.typeform.com/to/TPqS3liM\" rel=\"noreferrer noopener\" title=\"https://8znjpyy5mes.typeform.com/to/TPqS3liM\" target=\"_blank\">2026 Product Priority Force Ranking (Pairwise)</a></p>",
+          "createdDateTime": "2026-02-16T15:49:19.929Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KH47N91YTBJNSV1QEKF1R0DR?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kh47n91ytbjnsv1qekf1r0dr?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KH47N91YTBJNSV1QEKF1R0DR?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-16T15:17:19.662Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T15:16:11.229Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T15:15:47.399Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T15:15:46.18Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T15:15:42.659Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T15:15:03.297Z"
+        }
+      ],
+      "type": "meeting"
+    },
+    "directors_weekly": {
+      "name": "Directors Weekly",
+      "messages": [
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T15:19:04.191Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T15:18:58.561Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>The meeting schedule is about to end.<br>\nAction Items for this meeting:<br>\n\u2022 Continue working on the imports related to the March 2nd release and communicate with Dan about it. ~Kennedy Kirk</p>\n<p>&nbsp;</p>\n<p>\u2022 Conduct testing on the changes made to field requirements and work suite to ensure they do not impact Bonnie's work. ~Nathan van Wingerden</p>\n<p>&nbsp;</p>\n<p>\u2022 Ensure that the workflow in AI Atlas explicitly instructs Claude to check for test coverage when making changes to entities. ~Kennedy Kirk</p>\n<p>&nbsp;</p>\n<p>\u2022 Create a PRD for back end changes after reviewing the front end. ~Kennedy Kirk</p>\n<p>&nbsp;</p>\n<p>\u2022 Schedule a meeting with Nathan van Wingerden and Isaac. ~Kennedy Kirk</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Get instant notes post-meeting: <a href=\"https://app.fireflies.ai/live/01KH47N923VZ9BDJ8H1XSYX615?ref=live_chat_postTasks\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kh47n923vz9bdj8h1xsyx615?ref=live_chat_posttasks\" target=\"_blank\">https://app.fireflies.ai/live/01KH47N923VZ9BDJ8H1XSYX615?ref=live_chat_postTasks</a></p>",
+          "createdDateTime": "2026-02-16T15:10:06.156Z"
+        },
+        {
+          "from": "Fireflies.ai Notetaker Nathan",
+          "content": "<p>Nathan invited Fireflies.ai here to record &amp; take notes. View Security &amp; Privacy info: <a href=\"https://fireflies.ai/policy\" rel=\"noreferrer noopener\" title=\"https://fireflies.ai/policy\" target=\"_blank\">https://fireflies.ai/policy</a></p>\n<p>&nbsp;</p>\n<p>Type:<br>\n'/ff leave' - Remove Fireflies</p>\n<p>&nbsp;</p>\n<p>View Realtime notes here: <a href=\"https://app.fireflies.ai/live/01KH47N923VZ9BDJ8H1XSYX615?ref=live_chat\" rel=\"noreferrer noopener\" title=\"https://app.fireflies.ai/live/01kh47n923vz9bdj8h1xsyx615?ref=live_chat\" target=\"_blank\">https://app.fireflies.ai/live/01KH47N923VZ9BDJ8H1XSYX615?ref=live_chat</a></p>",
+          "createdDateTime": "2026-02-16T14:31:39.486Z"
+        },
+        {
+          "from": "Nathan van Wingerden",
+          "content": "<p>Give me a few minutes&nbsp;</p>",
+          "createdDateTime": "2026-02-16T14:30:27.498Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T14:30:16.946Z"
+        },
+        {
+          "from": "Unknown",
+          "content": "<systemEventMessage/>",
+          "createdDateTime": "2026-02-16T14:30:04.223Z"
+        }
+      ],
+      "type": "meeting"
+    }
+  },
+  "sprint": {
+    "name": "Sprint 21",
+    "end_date": "2026-01-13",
+    "tasks": [
+      {
+        "id": "86b82z0r4",
+        "name": "Update UPC and ItemNumber reporting for Bonnie Plants",
+        "status": "next release",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b82z0r4",
+        "due_date": null
+      },
+      {
+        "id": "86b82d1gd",
+        "name": "EDI Import",
+        "status": "Closed",
+        "assignees": [
+          "Rob Williams "
+        ],
+        "priority": "urgent",
+        "url": "https://app.clickup.com/t/86b82d1gd",
+        "due_date": null
+      },
+      {
+        "id": "86b81rf6e",
+        "name": "Add fallback for getItemPrice query",
+        "status": "next release",
+        "assignees": [
+          "Timothy Short"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b81rf6e",
+        "due_date": null
+      },
+      {
+        "id": "86b81bcrf",
+        "name": "ALL - Add import Type of Count Surveys",
+        "status": "Closed",
+        "assignees": [
+          "Jared Leverington"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b81bcrf",
+        "due_date": null
+      },
+      {
+        "id": "86b802tmh",
+        "name": "All - Update UploadStoreInvBulkTrans.aspx to check date within SQL's smalldatetime",
+        "status": "Closed",
+        "assignees": [
+          "Jared Leverington"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b802tmh",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqw6",
+        "name": "DBR: Session",
+        "status": "Closed",
+        "assignees": [
+          "Eric Whitlow"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqw6",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqv8",
+        "name": "DBR: Rule",
+        "status": "next release",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqv8",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqrb",
+        "name": "DBR: ContainerConfig",
+        "status": "Closed",
+        "assignees": [
+          "Eric Whitlow"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqrb",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqqc",
+        "name": "DBR: ItemSettings",
+        "status": "next release",
+        "assignees": [
+          "Timothy Short"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqqc",
+        "due_date": null
+      },
+      {
+        "id": "86b7ycqnp",
+        "name": "DBR: DeliverySchedule",
+        "status": "next release",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7ycqnp",
+        "due_date": null
+      },
+      {
+        "id": "86b7yc62n",
+        "name": "DBR: ReplenishmentSettings",
+        "status": "next release",
+        "assignees": [
+          "Ethan Boss"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7yc62n",
+        "due_date": null
+      },
+      {
+        "id": "86b7y5tmf",
+        "name": "DBR: Create \"Data Management > Defaults\" page",
+        "status": "next release",
+        "assignees": [
+          "Gabriela Gonzales"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7y5tmf",
+        "due_date": null
+      },
+      {
+        "id": "86b7y4nkf",
+        "name": "Research Price Group Bug - Items not applying price groups when added to orders",
+        "status": "next release",
+        "assignees": [
+          "Gabriela Gonzales"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b7y4nkf",
+        "due_date": null
+      },
+      {
+        "id": "86b7whxab",
+        "name": "CLM - Remove Retail $ from SubGrower view",
+        "status": "Closed",
+        "assignees": [
+          "Jared Leverington"
+        ],
+        "priority": "high",
+        "url": "https://app.clickup.com/t/86b7whxab",
+        "due_date": null
+      },
+      {
+        "id": "86b7rzf7p",
+        "name": "Add Custom Store/SKU lists to Store/SKU List tool",
+        "status": "Closed",
+        "assignees": [
+          "Jared Leverington"
+        ],
+        "priority": "normal",
+        "url": "https://app.clickup.com/t/86b7rzf7p",
+        "due_date": null
+      },
+      {
+        "id": "86b7eqebj",
+        "name": "Wire Recipes front-end to backend",
+        "status": "next release",
+        "assignees": [
+          "Gabriela Gonzales"
+        ],
+        "priority": "",
+        "url": "https://app.clickup.com/t/86b7eqebj",
+        "due_date": null
       }
     ]
   },
+  "automations": {
+    "repo": "AdvGrower/worksuite-pwa-documentation",
+    "runs": [
+      {
+        "id": 22056750899,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-02-16T09:15:28Z",
+        "updated_at": "2026-02-16T09:22:05Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/22056750899",
+        "head_branch": "main",
+        "run_number": 14
+      },
+      {
+        "id": 21819124200,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-02-09T09:16:29Z",
+        "updated_at": "2026-02-09T09:31:11Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/21819124200",
+        "head_branch": "main",
+        "run_number": 13
+      },
+      {
+        "id": 21584068680,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-02-02T09:13:42Z",
+        "updated_at": "2026-02-02T09:20:57Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/21584068680",
+        "head_branch": "main",
+        "run_number": 12
+      },
+      {
+        "id": 21352027609,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-26T09:06:56Z",
+        "updated_at": "2026-01-26T09:13:04Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/21352027609",
+        "head_branch": "main",
+        "run_number": 11
+      },
+      {
+        "id": 21131507695,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-01-19T09:06:53Z",
+        "updated_at": "2026-01-19T09:10:38Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/21131507695",
+        "head_branch": "main",
+        "run_number": 10
+      },
+      {
+        "id": 20913632663,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-12T09:06:16Z",
+        "updated_at": "2026-01-12T09:16:12Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20913632663",
+        "head_branch": "main",
+        "run_number": 9
+      },
+      {
+        "id": 20755285360,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T16:47:06Z",
+        "updated_at": "2026-01-06T16:53:38Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20755285360",
+        "head_branch": "main",
+        "run_number": 8
+      },
+      {
+        "id": 20754838691,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2026-01-06T16:30:42Z",
+        "updated_at": "2026-01-06T16:37:49Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20754838691",
+        "head_branch": "main",
+        "run_number": 7
+      },
+      {
+        "id": 20753771345,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T15:54:09Z",
+        "updated_at": "2026-01-06T16:00:45Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753771345",
+        "head_branch": "main",
+        "run_number": 6
+      },
+      {
+        "id": 20753545265,
+        "name": "Update Mintlify Docs",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-01-06T15:46:10Z",
+        "updated_at": "2026-01-06T15:46:46Z",
+        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753545265",
+        "head_branch": "main",
+        "run_number": 5
+      }
+    ]
+  },
+  "yesterday": {},
   "standup": {
     "yesterday": [],
     "today": []
