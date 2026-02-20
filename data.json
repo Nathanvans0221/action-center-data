@@ -941,5 +941,86 @@
       }
     ]
   },
-  "yesterday": {}
+  "yesterday": {},
+  "standup": {
+    "generated_at": "2026-02-20T23:03:30.642186Z",
+    "for_date": "2026-02-21",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Attended Product Daily Huddle and Director Huddle back-to-back in the morning",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Participated in 6-hour Monthly Management Meeting covering strategic initiatives",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Joined Dev Huddle to sync with engineering team",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Engaged in multiple Teams discussions including BPF Plan (9 messages) and Fulfill Demo with Harmony (10 messages)",
+        "completed": true
+      },
+      {
+        "id": "y4",
+        "text": "Reviewed and triaged 50 emails including DBR Quantity Override Actions notifications",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Follow up on action items from Monthly Management Meeting",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Review and respond to DBR Quantity Override Actions emails (3 unread)",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Continue BPF Plan discussion thread in Teams",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Address GP transition Q&A questions",
+        "completed": false
+      },
+      {
+        "id": "t4",
+        "text": "Clear Microsoft 365 quarantined messages",
+        "completed": false
+      },
+      {
+        "id": "t5",
+        "text": "Prepare for next week's meetings and priorities",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Action items and decisions from 6-hour Monthly Management Meeting",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Respond to Fulfill Demo with Harmony discussion thread",
+        "completed": false
+      },
+      {
+        "id": "f2",
+        "text": "Address DBR Quantity Override Actions requiring decisions",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-02-20T23:03:30.642186Z"
 }
