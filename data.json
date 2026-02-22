@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-22T16:50:58.472182Z",
-  "email_count": 45,
+  "updated_at": "2026-02-22T17:09:29.264182Z",
+  "email_count": 44,
   "calendar_count": 0,
   "teams_count": 20,
   "sprint_task_count": 16,
@@ -314,13 +314,6 @@
       "receivedDateTime": "2026-02-19T17:22:07Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ4F5wCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "Your meeting recap - Fulfill Demo with Harmony",
-      "from": "Fred from Fireflies.ai",
-      "receivedDateTime": "2026-02-19T16:55:05Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ4F5wBAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
