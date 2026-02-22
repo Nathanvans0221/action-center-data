@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-22T19:20:53.954921Z",
+  "updated_at": "2026-02-22T19:31:51.186221Z",
   "email_count": 36,
   "calendar_count": 0,
-  "teams_count": 16,
+  "teams_count": 15,
   "sprint_task_count": 16,
   "workflow_run_count": 10,
   "calendar": [],
@@ -350,17 +350,6 @@
           "from": "Unknown",
           "content": "<systemEventMessage/>",
           "createdDateTime": "2026-02-21T19:31:59.659Z"
-        }
-      ],
-      "type": "meeting"
-    },
-    "product_demo_with_silverfern": {
-      "name": "Product Demo with Silverfern",
-      "messages": [
-        {
-          "from": "Unknown",
-          "content": "<systemEventMessage/>",
-          "createdDateTime": "2026-02-21T19:22:54.456Z"
         }
       ],
       "type": "meeting"
