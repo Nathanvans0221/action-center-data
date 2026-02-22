@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-22T15:31:44.302687Z",
-  "email_count": 47,
+  "updated_at": "2026-02-22T15:40:55.415189Z",
+  "email_count": 46,
   "calendar_count": 0,
   "teams_count": 20,
   "sprint_task_count": 16,
@@ -328,13 +328,6 @@
       "receivedDateTime": "2026-02-19T16:44:59Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ4F5wAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "ATTN: You could see a bigger refund this year",
-      "from": "TurboTax",
-      "receivedDateTime": "2026-02-19T15:38:41Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ4F5v%2FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
