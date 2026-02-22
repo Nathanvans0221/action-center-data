@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-22T20:20:50.125487Z",
-  "email_count": 35,
+  "updated_at": "2026-02-22T20:31:31.813678Z",
+  "email_count": 34,
   "calendar_count": 0,
   "teams_count": 13,
   "sprint_task_count": 16,
@@ -244,13 +244,6 @@
       "receivedDateTime": "2026-02-19T20:34:50Z",
       "isRead": false,
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ4F5wMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
-    },
-    {
-      "subject": "No plans? No problem",
-      "from": "Hotels.com",
-      "receivedDateTime": "2026-02-19T20:27:46Z",
-      "isRead": false,
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ4F5wLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
   "teams": {
