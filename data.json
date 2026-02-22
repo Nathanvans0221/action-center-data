@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-22T18:33:41.931944Z",
+  "updated_at": "2026-02-22T18:41:08.630832Z",
   "email_count": 38,
   "calendar_count": 0,
-  "teams_count": 17,
+  "teams_count": 16,
   "sprint_task_count": 16,
   "workflow_run_count": 10,
   "calendar": [],
@@ -342,11 +342,6 @@
           "from": "Chris Christensen",
           "content": "<p>I'm going to run the update a 6PM</p>",
           "createdDateTime": "2026-02-21T22:07:02.04Z"
-        },
-        {
-          "from": "Chris Christensen",
-          "content": "<p>ok, part of the reason is I'm trying to get my new api, aihelm.silverfern.app, up and running and it is having problems getting a cert from caddy. Claude says restarting the caddy servers might help. Additionally, we have never updated this area of the production environment since we turned it on in 2023, so it's due.</p>\n<p>&nbsp;</p>\n<p>Just to be on the safe side, I'm going to wait until tonight.</p>",
-          "createdDateTime": "2026-02-21T18:40:38.816Z"
         }
       ],
       "type": "group"
