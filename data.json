@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-02-23T03:55:42.398956Z",
-  "email_count": 31,
+  "updated_at": "2026-02-23T13:58:44.626619Z",
+  "email_count": 33,
   "calendar_count": 7,
-  "teams_count": 0,
-  "sprint_task_count": 16,
-  "workflow_run_count": 10,
+  "teams_count": 60,
+  "sprint_task_count": 0,
+  "workflow_run_count": 0,
   "calendar": [
     {
       "subject": "Production Schedule -> Inventory Scoping",
@@ -64,6 +64,20 @@
     }
   ],
   "emails": [
+    {
+      "subject": "Re: Week 8 Reports",
+      "from": "Cora Wyers",
+      "receivedDateTime": "2026-02-23T12:58:17Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ52TpjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
+    {
+      "subject": "Microsoft 365 security: You have messages in quarantine",
+      "from": "quarantine@messaging.microsoft.com",
+      "receivedDateTime": "2026-02-23T09:56:54Z",
+      "isRead": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ52TpiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+    },
     {
       "subject": "[Learn to swim] Part 1 of 5: Cloud fundamentals",
       "from": "Team DigitalOcean",
@@ -282,303 +296,314 @@
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADM1ZmQwMTAwLTg0MjQtNDY0MS05ZGVjLTA4ODQyNDZhOGVmNwBGAAAAAAA%2FG8I6sh2sQI10wARfJlEbBwCHqn8AhFMNTqI9myrpPyJ1AAAAAAEMAACHqn8AhFMNTqI9myrpPyJ1AAQ4WweEAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
     }
   ],
-  "teams": {},
-  "sprint": {
-    "name": "Sprint 21",
-    "end_date": "2026-01-13",
-    "tasks": [
+  "teams": {
+    "Ops": [
       {
-        "id": "86b82z0r4",
-        "name": "Update UPC and ItemNumber reporting for Bonnie Plants",
-        "status": "next release",
-        "assignees": [
-          "Ethan Boss"
-        ],
-        "priority": "",
-        "url": "https://app.clickup.com/t/86b82z0r4",
-        "due_date": null
+        "from": "Nathan van Wingerden",
+        "content": "They typically start shipping mid-March.",
+        "createdDateTime": "2026-02-16T14:19:20.586Z"
       },
       {
-        "id": "86b82d1gd",
-        "name": "EDI Import",
-        "status": "Closed",
-        "assignees": [
-          "Rob Williams "
-        ],
-        "priority": "urgent",
-        "url": "https://app.clickup.com/t/86b82d1gd",
-        "due_date": null
+        "from": "Chris Christensen",
+        "content": "Kennedy , I'll take a look",
+        "createdDateTime": "2026-02-13T17:11:23.287Z"
       },
       {
-        "id": "86b81rf6e",
-        "name": "Add fallback for getItemPrice query",
-        "status": "next release",
-        "assignees": [
-          "Timothy Short"
-        ],
-        "priority": "high",
-        "url": "https://app.clickup.com/t/86b81rf6e",
-        "due_date": null
+        "from": "Kennedy Kirk",
+        "content": "I'm still seeing this problem in both red and in production... I'm going to have to tell GLG that we need more time. Nathan any idea when they need to be live?",
+        "createdDateTime": "2026-02-13T17:07:15.106Z"
       },
       {
-        "id": "86b81bcrf",
-        "name": "ALL - Add import Type of Count Surveys",
-        "status": "Closed",
-        "assignees": [
-          "Jared Leverington"
-        ],
-        "priority": "high",
-        "url": "https://app.clickup.com/t/86b81bcrf",
-        "due_date": null
+        "from": "John Beauford",
+        "content": "Jk - I had someone this week have a meeting that didn\u2019t show on my calendar so just checking",
+        "createdDateTime": "2026-02-10T03:12:24.21Z"
       },
       {
-        "id": "86b802tmh",
-        "name": "All - Update UploadStoreInvBulkTrans.aspx to check date within SQL's smalldatetime",
-        "status": "Closed",
-        "assignees": [
-          "Jared Leverington"
-        ],
-        "priority": "high",
-        "url": "https://app.clickup.com/t/86b802tmh",
-        "due_date": null
+        "from": "John Beauford",
+        "content": "Dang it Claudine why you forget this?",
+        "createdDateTime": "2026-02-10T03:04:02.818Z"
       },
       {
-        "id": "86b7ycqw6",
-        "name": "DBR: Session",
-        "status": "Closed",
-        "assignees": [
-          "Eric Whitlow"
-        ],
-        "priority": "",
-        "url": "https://app.clickup.com/t/86b7ycqw6",
-        "due_date": null
+        "from": "Chris Christensen",
+        "content": "No, I forgot to have my secretary schedule one",
+        "createdDateTime": "2026-02-10T02:42:06.338Z"
       },
       {
-        "id": "86b7ycqv8",
-        "name": "DBR: Rule",
-        "status": "next release",
-        "assignees": [
-          "Ethan Boss"
-        ],
-        "priority": "",
-        "url": "https://app.clickup.com/t/86b7ycqv8",
-        "due_date": null
+        "from": "John Beauford",
+        "content": "Thank you was there a calendar in it for this?",
+        "createdDateTime": "2026-02-10T02:11:03.149Z"
       },
       {
-        "id": "86b7ycqrb",
-        "name": "DBR: ContainerConfig",
-        "status": "Closed",
-        "assignees": [
-          "Eric Whitlow"
-        ],
-        "priority": "",
-        "url": "https://app.clickup.com/t/86b7ycqrb",
-        "due_date": null
+        "from": "Chris Christensen",
+        "content": "It's done. Just waiting on smoke testing",
+        "createdDateTime": "2026-02-10T01:37:56.493Z"
       },
       {
-        "id": "86b7ycqqc",
-        "name": "DBR: ItemSettings",
-        "status": "next release",
-        "assignees": [
-          "Timothy Short"
-        ],
-        "priority": "",
-        "url": "https://app.clickup.com/t/86b7ycqqc",
-        "due_date": null
+        "from": "Kevin Short",
+        "content": "Hows the release going?",
+        "createdDateTime": "2026-02-10T01:36:49.777Z"
       },
       {
-        "id": "86b7ycqnp",
-        "name": "DBR: DeliverySchedule",
-        "status": "next release",
-        "assignees": [
-          "Ethan Boss"
-        ],
-        "priority": "",
-        "url": "https://app.clickup.com/t/86b7ycqnp",
-        "due_date": null
+        "from": "Kevin Short",
+        "content": "You mean something like this? Appendix b",
+        "createdDateTime": "2026-02-09T15:10:44.827Z"
       },
       {
-        "id": "86b7yc62n",
-        "name": "DBR: ReplenishmentSettings",
-        "status": "next release",
-        "assignees": [
-          "Ethan Boss"
-        ],
-        "priority": "",
-        "url": "https://app.clickup.com/t/86b7yc62n",
-        "due_date": null
+        "from": "John Beauford",
+        "content": "Does Legacy Silver Fern have a \"Terms of Service\" for the subscription software?",
+        "createdDateTime": "2026-02-09T14:51:59.958Z"
       },
       {
-        "id": "86b7y5tmf",
-        "name": "DBR: Create \"Data Management > Defaults\" page",
-        "status": "next release",
-        "assignees": [
-          "Gabriela Gonzales"
-        ],
-        "priority": "",
-        "url": "https://app.clickup.com/t/86b7y5tmf",
-        "due_date": null
+        "from": "John Beauford",
+        "content": "Our policy has always been (since I have been here) is that we do not publish database schema or a public \"API\" capability to have 3rd party code interact with GrowPoint or GrowPoint data sources. However, some customers with the self appointed technical acumen do stuff like this anyway, even through we have warned the ones we knew about that it could lead to data corruption, data loss or program malfunction. All that being said. has he not been reading our emails?",
+        "createdDateTime": "2026-02-09T14:37:13.352Z"
       },
       {
-        "id": "86b7y4nkf",
-        "name": "Research Price Group Bug - Items not applying price groups when added to orders",
-        "status": "next release",
-        "assignees": [
-          "Gabriela Gonzales"
-        ],
-        "priority": "high",
-        "url": "https://app.clickup.com/t/86b7y4nkf",
-        "due_date": null
+        "from": "Kennedy Kirk",
+        "content": "John Beauford do you have any context on this? Have they written custom web apps interacting with GPs db?",
+        "createdDateTime": "2026-02-09T14:05:40.708Z"
       },
       {
-        "id": "86b7whxab",
-        "name": "CLM - Remove Retail $ from SubGrower view",
-        "status": "Closed",
-        "assignees": [
-          "Jared Leverington"
-        ],
-        "priority": "high",
-        "url": "https://app.clickup.com/t/86b7whxab",
-        "due_date": null
+        "from": "Chris Christensen",
+        "content": "2 is fixed too",
+        "createdDateTime": "2026-02-06T18:25:49.945Z"
       },
       {
-        "id": "86b7rzf7p",
-        "name": "Add Custom Store/SKU lists to Store/SKU List tool",
-        "status": "Closed",
-        "assignees": [
-          "Jared Leverington"
-        ],
-        "priority": "normal",
-        "url": "https://app.clickup.com/t/86b7rzf7p",
-        "due_date": null
+        "from": "Nathan van Wingerden",
+        "content": "Overall, I wouldn't say I agree with this. Chris is working on a fix for this one I'm not running into either of these issues when creating an order. The second one was resolved with the All-Orders role in the console. This is already taken care of? View invoice is disabled for GLG. Regardless of those points, GLG's current solution is an Excel spreadsheet; they have already been using FULFILL for weekly availability for some time. The goal is to give them order management with pricing, which is",
+        "createdDateTime": "2026-02-06T18:15:26.54Z"
+      }
+    ],
+    "Product": [
+      {
+        "from": "Nathan van Wingerden",
+        "content": "\ud83d\udccb Bi-Weekly Product Meeting Agenda Ready Meeting Date: February 16, 2026 Current Sprint: S23 (Feb 03 - Feb 23) Recommended Topics: Wireframe Repository Access & Documentation, Release Planning and Testing, GLG Issues and Ticketing Consistency \ud83d\udce5 Download Agenda Generated automatically from Teams chat activity over the past 2 weeks.",
+        "createdDateTime": "2026-02-16T16:10:57.483Z"
       },
       {
-        "id": "86b7eqebj",
-        "name": "Wire Recipes front-end to backend",
-        "status": "next release",
-        "assignees": [
-          "Gabriela Gonzales"
-        ],
-        "priority": "",
-        "url": "https://app.clickup.com/t/86b7eqebj",
-        "due_date": null
+        "from": "Nathan van Wingerden",
+        "content": "\ud83d\udccb Bi-Weekly Product Meeting Agenda Ready Meeting Date: February 09, 2026 Current Sprint: S23 (Feb 03 - Feb 23) Recommended Topics: Wireframe Repository Access & Documentation, Release Planning, Testing, and GLG Issues, Ticketing Consistency & MCP / Claude Integration \ud83d\udce5 Download Agenda Generated automatically from Teams chat activity over the past 2 weeks.",
+        "createdDateTime": "2026-02-09T16:00:57.983Z"
+      },
+      {
+        "from": "Kevin Short",
+        "content": "https://wireframe-directory.netlify.app/ this can now be accessed via this memorable link: https://share.silverfern.com/wireframes",
+        "createdDateTime": "2026-02-07T18:32:58.529Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "^ Ignore. that was a test",
+        "createdDateTime": "2026-02-02T19:52:19.492Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "\ud83d\udccb Bi-Weekly Product Meeting Agenda Ready Meeting Date: February 02, 2026 Current Sprint: S22 (Jan 13 - Feb 02) Recommended Topics: Release Planning and Testing, Agriware Copilot Features and Integration, Mood.log and Friday Updates \ud83d\udce5 Download Agenda Generated automatically from Teams chat activity over the past 2 weeks.",
+        "createdDateTime": "2026-02-02T18:56:49.601Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "i have not, but i'll check it out",
+        "createdDateTime": "2026-02-02T15:58:23.175Z"
+      },
+      {
+        "from": "Stephen van Wingerden",
+        "content": "Nathan , have you seen some of the Agriware Copilot features? https://youtu.be/Ufzcp7v-8EU",
+        "createdDateTime": "2026-02-02T15:32:22.481Z"
+      },
+      {
+        "from": "Kevin Short",
+        "content": "total game changer: Wispr Flow | Effortless Voice Dictation used before in background with codex but did not realize it would let me use voice straight in terminal. amazing",
+        "createdDateTime": "2026-01-29T10:49:09.614Z"
+      },
+      {
+        "from": "Kevin Short",
+        "content": "Directionally aligned with where tech team is going",
+        "createdDateTime": "2026-01-21T10:12:35.226Z"
+      },
+      {
+        "from": "Kevin Short",
+        "content": "https://youtu.be/u5GkG71PkR0?si=JG7acp-Hy-6q2QPc One of the more helpful videos I\u2019ve found on: - specialized self validation - working on system of systems - inserting determinism into Claude workflow",
+        "createdDateTime": "2026-01-21T10:12:11.299Z"
+      },
+      {
+        "from": "Kevin Short",
+        "content": "gemini defaults to 2.5, so update with /model",
+        "createdDateTime": "2026-01-19T14:38:49.595Z"
+      },
+      {
+        "from": "Kevin Short",
+        "content": "I've started using them to check claude's work which has also been helpful",
+        "createdDateTime": "2026-01-19T14:35:18.413Z"
+      },
+      {
+        "from": "Kevin Short",
+        "content": "Isaac Nathan - these are both worth considering/trying for various scoping/development automation efforts: 1) Gemini Code Assist | AI coding assistant - great for research and UI ideas 2) Codex | OpenAI - catches deep bugs that Claude misses at time",
+        "createdDateTime": "2026-01-19T14:34:09.188Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "Claude seems to be down",
+        "createdDateTime": "2026-01-12T18:43:51.144Z"
+      },
+      {
+        "from": "Chris Christensen",
+        "content": "Very nice!",
+        "createdDateTime": "2026-01-07T14:12:09.213Z"
+      }
+    ],
+    "PRODUCE Support": [
+      {
+        "from": "Jon Bebus",
+        "content": "Nathan van Wingerden - Here is a teaching moment you can make me and Brian smarter. Cora at Green Legacy is asking for a column to be added to her report: Can you please add a column to our Trial Transplant and Prop Report? I have added a Task Event for \"Cover\" - you can currently see it on the Production Schedule; we just need it to pull through to our report.",
+        "createdDateTime": "2026-02-19T23:09:26.478Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "all good! Report is complicated, and i'm pretty sure i'm the only one who really knows all the ins and outs, lol",
+        "createdDateTime": "2026-02-16T17:48:21.732Z"
+      },
+      {
+        "from": "Jon Bebus",
+        "content": "Rock on. Want to be helpful but just dont know my way around well enough to answer these.",
+        "createdDateTime": "2026-02-16T17:47:55.471Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "i'm looking into all the GLG report stuff",
+        "createdDateTime": "2026-02-16T17:45:14.072Z"
+      },
+      {
+        "from": "Jon Bebus",
+        "content": "Nathan - My reply to Cora is going to be \"Let me go ask Nathan\". When you get some time Brian and I would love to be shown around the data for reports. In the meantime, her First question is about Transplant And Prop Report. Her second question is about Combo - Transplant Cora When I try to look at that report I get error: (going to need help) Good morning, Our Transplant Report for WK6 is not aligned with what we have on our Production Schedule. See Production Schedule below: Lot ID Is Final St",
+        "createdDateTime": "2026-02-10T21:03:48.1Z"
+      },
+      {
+        "from": "Brian Strahan",
+        "content": "Nathan - I was thinking if this is like Growpoint, If they start to import a Schedule but Cancel it will it Sequence the Lot ID thus making it look like there is a space in the numbering sequence? Is that a correct assumption or will Production always keep the Lot ID?",
+        "createdDateTime": "2026-02-04T17:03:51.559Z"
+      },
+      {
+        "from": "Jon Bebus",
+        "content": "oops. hit return. aargh. Christina @ CMG has this going on. Fin wasn't much help. Do you have any magic? We had some recipes that had an unnecessary link in the process, but I am having a hard time reapplying the correct recipe. I keep getting this error message when I reapply: Thank you, Christina DiDio Catoctin Mtn. Growers 4d Jon from Silver Fern & AGS <support@silverfern.com> to: Christina DiDio The error states \"See the inner exception for details.\" Was there another box with more informati",
+        "createdDateTime": "2026-02-02T20:44:03.127Z"
+      },
+      {
+        "from": "Jon Bebus",
+        "content": "Nathan,",
+        "createdDateTime": "2026-02-02T20:42:12.207Z"
+      },
+      {
+        "from": "Jon Bebus",
+        "content": "Spencer, Still looking into the Combo components. Getting assistance from Developers. Nathan helped correct the report and explained what was the issue. There was a filter on the report that was too strict causing items with any empty fields (such as a missing picture) from displaying. This filter has been removed and the report is working as expected now. We also confirmed the other item for week 7 is showing as well. We appreciate your patience while we worked on this.",
+        "createdDateTime": "2026-01-29T18:50:34.321Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "That\u2019s good. Maybe include a line saying you synced up with me, and confirmed the other item for week 7 is also showing.",
+        "createdDateTime": "2026-01-29T18:41:53.455Z"
+      },
+      {
+        "from": "Jon Bebus",
+        "content": "This is basics of what I would send: Spencer, Still looking into the Combo components. Getting assistance from Developers. The report has been corrected. There was a filter on the report that was too strict causing items with any empty fields from displaying. This filter has been removed and the report is working as expected now. We appreciate your patience while we worked on this.",
+        "createdDateTime": "2026-01-29T18:37:47.718Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "Jon , Spencer also emailed me yesterday. Let's work together on a response. Can you send me a draft reply you plan to send him about these two issues? To summarize: Combo components were looking into, may require some dev to address. Items not pulling into reports are fixed, verified that both examples are now pulling into reports. Here is the email i got from him yesterday for context: I responded to him and said i would circle up with you guys and get him taken care of. This is on me for not t",
+        "createdDateTime": "2026-01-29T18:14:30.768Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "Fixed the report, so these are pulling now. The report had a filter to only pull items when the event was set up perfectly. I removed that, so if something is 100% correct (Like no image or something stupid), the items still pull in. I verified this is working.",
+        "createdDateTime": "2026-01-29T18:11:25.049Z"
+      },
+      {
+        "from": "Brian Strahan",
+        "content": "I looked at it with no filters other than searching by Lot ID 10473 initially. When it didn't show up I just scrolled down to that section - still missing. The only thing I set was Auto Width. Triple Verified just now. 10471 which is missing too but it is in Archive Spring 2026.",
+        "createdDateTime": "2026-01-29T18:01:54.584Z"
+      },
+      {
+        "from": "Jon Bebus",
+        "content": "Spencer gave me an item and what report. Item 1 is Q2.0RP Premium and Q2.0RP Vegetable. I used the same material and event for both. I only changed it for after this week. The transplant report at the bottom of the list. Try it for week 5 2026. The material event is Q2.0 keystone ACI BOM",
+        "createdDateTime": "2026-01-29T18:00:44.169Z"
+      }
+    ],
+    "Directors": [
+      {
+        "from": "Chris Christensen",
+        "content": "Just to be clear, this means that we will NOT allow a user to delete a customer with orders, only Inactivate them. Correct?",
+        "createdDateTime": "2026-02-20T13:33:49.109Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "i want to rip out avail and switch them over",
+        "createdDateTime": "2026-02-19T19:23:54.714Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "That customer should just be deactivated. Orders should remain, and no future orders should be able to be placed",
+        "createdDateTime": "2026-02-19T19:24:36.636Z"
+      },
+      {
+        "from": "Kennedy Kirk",
+        "content": "also... can we rip out availability sessions and have GLG switch to use new inventory flows (with avail app) whenever we push this stuff to prod? or do we need to be careful not to break anything for existing avail app? Nathan van Wingerden",
+        "createdDateTime": "2026-02-19T17:48:09.363Z"
+      },
+      {
+        "from": "Chris Christensen",
+        "content": "the order has all the customer information to stand alone (for Nathan's thinking)",
+        "createdDateTime": "2026-02-19T15:53:48.665Z"
+      },
+      {
+        "from": "Kennedy Kirk",
+        "content": "how should it work if a user tries to delete or inactivate a customer that has orders placed? Nathan van Wingerden",
+        "createdDateTime": "2026-02-19T15:52:59.808Z"
+      },
+      {
+        "from": "Chris Christensen",
+        "content": "Kennedy , This could be a hairy endeavor. The main thing I would caution is to make sure the enum ordinal assignments don't change from what they are today (claude will know what I'm talking about) and we need to understand the impact of stopping a user from deleting something. What are their next steps or recourse. Do we give them the option to check a box and delete the dependencies as well, and what if the dependencies have dependencies? We have to be careful offering this functionality to th",
+        "createdDateTime": "2026-02-16T16:42:53.153Z"
+      },
+      {
+        "from": "Kennedy Kirk",
+        "content": "Chris Christensen I plan to work on standardizing our delete/inactivate capabilities in FULFILL. Can you review this implementation plan and let me know if you have any concerns? Entity Lifecycle Management \u2014 Proposed Implementation Problem Fulfill entity delete/inactivate operations are inconsistent. Some entities only support delete (Category, Location), some only inactivate (Customer), and most allow the action without checking if other entities hold references \u2014 creating orphaned data. Only ",
+        "createdDateTime": "2026-02-16T16:09:16.23Z"
+      },
+      {
+        "from": "Chris Christensen",
+        "content": "if they use locations, materials, stuff like that, then yes",
+        "createdDateTime": "2026-02-12T17:02:21.966Z"
+      },
+      {
+        "from": "Kennedy Kirk",
+        "content": "Wait... if I run DeleteTenant on GLG does that impact Produce at all? Do they use Produce?",
+        "createdDateTime": "2026-02-12T17:01:33.094Z"
+      },
+      {
+        "from": "Kennedy Kirk",
+        "content": "I would ask in Ops to get a clear answer - kevin told me a while back \" They merged with Metrolina, so I highly doubt they'll use us soon.\"... but I also saw an error in Sentry the other day because they are still using COUNT. Idk if they have paid or if they have an agreement on what they will or will not use.",
+        "createdDateTime": "2026-02-03T15:15:18.031Z"
+      },
+      {
+        "from": "Chris Christensen",
+        "content": "Is SCG still an active customer?",
+        "createdDateTime": "2026-02-03T15:06:03.429Z"
+      },
+      {
+        "from": "Chris Christensen",
+        "content": "I have it in Red, I just haven't tested it yet",
+        "createdDateTime": "2026-02-02T21:16:01.687Z"
+      },
+      {
+        "from": "Kennedy Kirk",
+        "content": "Chris any updates on delete functionality to clear out tenant?",
+        "createdDateTime": "2026-02-02T21:14:55.359Z"
+      },
+      {
+        "from": "Nathan van Wingerden",
+        "content": "These look good. Feel free to tweak my wording a little if you need to.",
+        "createdDateTime": "2026-01-27T17:50:46.738Z"
       }
     ]
-  },
-  "automations": {
-    "repo": "AdvGrower/worksuite-pwa-documentation",
-    "runs": [
-      {
-        "id": 22056750899,
-        "name": "Update Mintlify Docs",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-02-16T09:15:28Z",
-        "updated_at": "2026-02-16T09:22:05Z",
-        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/22056750899",
-        "head_branch": "main",
-        "run_number": 14
-      },
-      {
-        "id": 21819124200,
-        "name": "Update Mintlify Docs",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-02-09T09:16:29Z",
-        "updated_at": "2026-02-09T09:31:11Z",
-        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/21819124200",
-        "head_branch": "main",
-        "run_number": 13
-      },
-      {
-        "id": 21584068680,
-        "name": "Update Mintlify Docs",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-02-02T09:13:42Z",
-        "updated_at": "2026-02-02T09:20:57Z",
-        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/21584068680",
-        "head_branch": "main",
-        "run_number": 12
-      },
-      {
-        "id": 21352027609,
-        "name": "Update Mintlify Docs",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-01-26T09:06:56Z",
-        "updated_at": "2026-01-26T09:13:04Z",
-        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/21352027609",
-        "head_branch": "main",
-        "run_number": 11
-      },
-      {
-        "id": 21131507695,
-        "name": "Update Mintlify Docs",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-01-19T09:06:53Z",
-        "updated_at": "2026-01-19T09:10:38Z",
-        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/21131507695",
-        "head_branch": "main",
-        "run_number": 10
-      },
-      {
-        "id": 20913632663,
-        "name": "Update Mintlify Docs",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-01-12T09:06:16Z",
-        "updated_at": "2026-01-12T09:16:12Z",
-        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20913632663",
-        "head_branch": "main",
-        "run_number": 9
-      },
-      {
-        "id": 20755285360,
-        "name": "Update Mintlify Docs",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-01-06T16:47:06Z",
-        "updated_at": "2026-01-06T16:53:38Z",
-        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20755285360",
-        "head_branch": "main",
-        "run_number": 8
-      },
-      {
-        "id": 20754838691,
-        "name": "Update Mintlify Docs",
-        "status": "completed",
-        "conclusion": "failure",
-        "created_at": "2026-01-06T16:30:42Z",
-        "updated_at": "2026-01-06T16:37:49Z",
-        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20754838691",
-        "head_branch": "main",
-        "run_number": 7
-      },
-      {
-        "id": 20753771345,
-        "name": "Update Mintlify Docs",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-01-06T15:54:09Z",
-        "updated_at": "2026-01-06T16:00:45Z",
-        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753771345",
-        "head_branch": "main",
-        "run_number": 6
-      },
-      {
-        "id": 20753545265,
-        "name": "Update Mintlify Docs",
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-01-06T15:46:10Z",
-        "updated_at": "2026-01-06T15:46:46Z",
-        "html_url": "https://github.com/AdvGrower/worksuite-pwa-documentation/actions/runs/20753545265",
-        "head_branch": "main",
-        "run_number": 5
-      }
-    ]
-  },
-  "yesterday": {}
+  }
 }
