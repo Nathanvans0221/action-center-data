@@ -300,27 +300,27 @@
   "teams_count": 0,
   "updated_at": "2026-02-25T07:45:37.272098+00:00",
   "standup": {
-    "generated_at": "2026-02-25T23:00:57.852688Z",
-    "for_date": "2026-02-26",
+    "generated_at": "2026-02-26T23:01:22.489598Z",
+    "for_date": "2026-02-27",
     "yesterday": [
       {
         "id": "y0",
-        "text": "Participated in full sprint cycle: Sprint Review, Retrospective, and Planning session (11am-5pm)",
+        "text": "Attended Product Daily Huddle and prepared for upcoming demo in Demo Prep session",
         "completed": true
       },
       {
         "id": "y1",
-        "text": "Attended PRODUCE Demo Planning meeting to coordinate upcoming demonstration",
+        "text": "Participated in GP transition Q&A session to address transition questions",
         "completed": true
       },
       {
         "id": "y2",
-        "text": "Joined Product Daily Huddle, Director Huddle, and Dev Huddle for team alignment",
+        "text": "Completed Silver Fern check-in meeting with Bonnie",
         "completed": true
       },
       {
         "id": "y3",
-        "text": "Reviewed 5 unread emails including production schedules, BC data integrations, and assignment bug report",
+        "text": "Reviewed multiple Production Schedule emails and BC Data Integrations thread",
         "completed": true
       }
     ],
@@ -332,29 +332,34 @@
       },
       {
         "id": "t1",
-        "text": "Join GP transition Q&A session at 11:00am",
+        "text": "Join Director Huddle at 9:15am",
         "completed": false
       },
       {
         "id": "t2",
-        "text": "Meet with Bonnie for Silver Fern check-in at 11:30am",
+        "text": "Participate in BC Data Integrations meeting at 11:00am",
         "completed": false
       },
       {
         "id": "t3",
-        "text": "Follow up on BC Data Integrations email thread",
+        "text": "Attend Dev Huddle at 12:00pm",
         "completed": false
       },
       {
         "id": "t4",
-        "text": "Address BUG: Assignment error for 0-qty items reported via email",
+        "text": "Address BUG: Assignment error for 0-qty items",
+        "completed": false
+      },
+      {
+        "id": "t5",
+        "text": "Follow up on Production Schedule email threads",
         "completed": false
       }
     ],
     "followups": [
       {
         "id": "f0",
-        "text": "Review and respond to multiple Production Schedule emails",
+        "text": "Respond to BC Data Integrations email thread and align on meeting outcomes",
         "completed": false
       },
       {
@@ -364,10 +369,10 @@
       },
       {
         "id": "f2",
-        "text": "Follow up on action items from Sprint Planning session",
+        "text": "Complete action items from Sprint Planning session",
         "completed": false
       }
     ]
   },
-  "standup_updated_at": "2026-02-25T23:00:57.852688Z"
+  "standup_updated_at": "2026-02-26T23:01:22.489598Z"
 }
