@@ -31,5 +31,16 @@
     "comment": "",
     "countedBy": "User",
     "timestamp": "2026-02-27T18:20:32.339Z"
+  },
+  {
+    "id": 1772216519300,
+    "itemId": "HG-054",
+    "itemName": "Decree Fungicide",
+    "category": "Chemicals & Fertilizer",
+    "quantity": 10,
+    "location": "HH-1",
+    "comment": "Example",
+    "countedBy": "User",
+    "timestamp": "2026-02-27T18:21:59.300Z"
   }
 ]
