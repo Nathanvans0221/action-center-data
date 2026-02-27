@@ -42,5 +42,16 @@
     "comment": "Example",
     "countedBy": "User",
     "timestamp": "2026-02-27T18:21:59.300Z"
+  },
+  {
+    "id": 1772219574563,
+    "itemId": "HG-021",
+    "itemName": "Perlite",
+    "category": "Growing Media",
+    "quantity": 80,
+    "location": "WH",
+    "comment": "Example",
+    "countedBy": "User",
+    "timestamp": "2026-02-27T19:12:54.564Z"
   }
 ]
