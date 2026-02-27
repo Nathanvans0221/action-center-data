@@ -994,5 +994,71 @@
       }
     ]
   },
-  "yesterday": {}
+  "yesterday": {},
+  "standup": {
+    "generated_at": "2026-02-27T23:00:44.064938Z",
+    "for_date": "2026-02-28",
+    "yesterday": [
+      {
+        "id": "y0",
+        "text": "Attended Product Daily Huddle and Director Huddle to align on team priorities",
+        "completed": true
+      },
+      {
+        "id": "y1",
+        "text": "Participated in BC Data Integrations meeting to discuss integration requirements",
+        "completed": true
+      },
+      {
+        "id": "y2",
+        "text": "Joined Dev Huddle to sync with engineering team on development progress",
+        "completed": true
+      },
+      {
+        "id": "y3",
+        "text": "Coordinated across multiple active Teams channels including BPF Team (20 messages), Demo Prep (9 messages), and Silver Fern & Bonnie check-in (11 messages)",
+        "completed": true
+      }
+    ],
+    "today": [
+      {
+        "id": "t0",
+        "text": "Out of office - no meetings scheduled",
+        "completed": false
+      },
+      {
+        "id": "t1",
+        "text": "Catch up on email backlog (50 emails over last 3 days)",
+        "completed": false
+      },
+      {
+        "id": "t2",
+        "text": "Review and respond to GP transition Q&A thread",
+        "completed": false
+      },
+      {
+        "id": "t3",
+        "text": "Follow up on Website Contact Form Submission inquiry",
+        "completed": false
+      }
+    ],
+    "followups": [
+      {
+        "id": "f0",
+        "text": "Action items from BC Data Integrations meeting need documentation",
+        "completed": false
+      },
+      {
+        "id": "f1",
+        "text": "Demo Prep coordination - ensure team is ready for upcoming demo",
+        "completed": false
+      },
+      {
+        "id": "f2",
+        "text": "Address unread emails including Website Contact Form Submission",
+        "completed": false
+      }
+    ]
+  },
+  "standup_updated_at": "2026-02-27T23:00:44.064938Z"
 }
