@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": 1740000000000,
+    "itemId": "HG-001",
+    "itemName": "4\" Round Pot",
+    "category": "Pots & Containers",
+    "quantity": 105,
+    "location": "WH",
+    "comment": "Test count from CLI",
+    "countedBy": "Nathan",
+    "timestamp": "2026-02-27T12:00:00.000Z"
+  }
+]
