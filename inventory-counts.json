@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1740000000000,
+    "itemId": "HG-001",
+    "itemName": "4\" Round Pot",
+    "category": "Pots & Containers",
+    "quantity": 105,
+    "location": "WH",
+    "comment": "Test count from CLI",
+    "countedBy": "Nathan",
+    "timestamp": "2026-02-27T12:00:00.000Z"
+  },
+  {
+    "id": 1772216096846,
+    "itemId": "HG-001",
+    "itemName": "4\" Round Pot",
+    "category": "Pots & Containers",
+    "quantity": 110,
+    "location": "WH",
+    "comment": "",
+    "countedBy": "User",
+    "timestamp": "2026-02-27T18:14:56.846Z"
+  },
+  {
+    "id": 1772216432339,
+    "itemId": "HG-001",
+    "itemName": "4\" Round Pot",
+    "category": "Pots & Containers",
+    "quantity": 115,
+    "location": "WH",
+    "comment": "",
+    "countedBy": "User",
+    "timestamp": "2026-02-27T18:20:32.339Z"
+  },
+  {
+    "id": 1772216519300,
+    "itemId": "HG-054",
+    "itemName": "Decree Fungicide",
+    "category": "Chemicals & Fertilizer",
+    "quantity": 10,
+    "location": "HH-1",
+    "comment": "Example",
+    "countedBy": "User",
+    "timestamp": "2026-02-27T18:21:59.300Z"
+  },
+  {
+    "id": 1772219574563,
+    "itemId": "HG-021",
+    "itemName": "Perlite",
+    "category": "Growing Media",
+    "quantity": 80,
+    "location": "WH",
+    "comment": "Example",
+    "countedBy": "User",
+    "timestamp": "2026-02-27T19:12:54.564Z"
+  }
+]
